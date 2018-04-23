@@ -1,0 +1,28 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@{
+    ViewData["Title"] = "City (détail)";
+}
+@model City
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Home <small>/city/detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-horizontal" asp-action="Detail">
+            <input type="hidden" value="@Model?.Id" asp-for="Id" />
+            <div>
+                <label for="Name" class="control-label">Nom de la ville :</label>
+                <input type="text" class="form-control"
+                    id="Name" placeholder="Nom de la ville"
+                    value="@Model?.Name" asp-for="Name" />
+            </div>
+            <br />
+            <input type="submit" class="btn btn-primary" value="Valider" />
+            <a class="btn btn-default" 
+                asp-controller="City" asp-action="Index">Annuler</a>
+        </form>
+    </div>
+</div>

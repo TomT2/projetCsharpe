@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    ViewData["Desc"] = "Description longue du site";
+    var urls = new List<string>
+    {
+        "http://localhost:5000/Home/Index",
+        "http://localhost:5000/Home/About",
+        "http://localhost:5000/Home/Contact"
+    };
+}
+<div class="row">
+    <div class="col-md-12">
+        <h1>Home <small>/home/index</small></h1>
+        <p>Ceci est le contenu de la vue Home, action Index</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 bg-info">1</div>
+    <div class="col-md-6 bg-info">2</div>
+</div>
+<div class="row">
+    @foreach(var url in urls)
+    {
+        <div class="col-md-4 bg-info">
+            <a href="@url">@url</a>
+        </div>
+    }
+</div>

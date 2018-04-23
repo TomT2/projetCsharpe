@@ -1,0 +1,56 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@{
+    ViewData["Title"] = "Personnes";
+}
+@model IEnumerable<Person>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Personnes <small>/person/index</small></h1>
+    </div>
+</div>
+<div class="row">
+    <a class="btn btn-default" 
+        asp-controller="Person" asp-action="Detail">Ajouter une personne...</a>
+</div>
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Prénom</th>
+                <th>Nom complet</th>
+                <th>Naissance</th>
+                <th>Age</th>
+                <th>Ville</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var person in Model)
+            {
+            <tr>
+                <td>@person.Id</td>
+                <td>@person.LastName</td>
+                <td>@person.FirstName</td>
+                <td>@person.Name</td>
+                <td>@person.BirthDate?.ToString("dddd dd MMMM yyyy")</td>
+                <td>@person.Age</td>
+                <td>@person.City?.Name</td>
+                <td>
+                    <a class="btn btn-default" 
+                        asp-controller="Person" 
+                        asp-action="Detail" 
+                        asp-route-id="@person.Id">Editer</a>
+                    &nbsp;
+                    <a class="btn btn-danger" 
+                        asp-controller="Person" 
+                        asp-action="Delete" 
+                        asp-route-id="@person.Id">Supprimer</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
