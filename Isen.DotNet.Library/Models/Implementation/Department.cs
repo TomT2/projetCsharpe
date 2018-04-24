@@ -4,7 +4,7 @@ using Isen.DotNet.Library.Models.Base;
 
 namespace Isen.DotNet.Library.Models.Implementation
 {
-    public class Departement : BaseModel
+    public class Department : BaseModel
     { 
         public int Number { get;set; }
         public List<City> CityCollection { get;set; }

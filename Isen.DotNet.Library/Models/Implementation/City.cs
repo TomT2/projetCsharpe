@@ -12,8 +12,8 @@ namespace Isen.DotNet.Library.Models.Implementation
         public float Longitude { get;set; }
         public List<Address> AddressCollection { get;set; }
         public int? AddressCount => AddressCollection?.Count;
-        public Departement Departement { get;set; }
-        public int? DepartementId { get;set; }
+        public Department Department { get;set; }
+        public int? DepartmentId { get;set; }
 
         public override dynamic ToDynamic()
         {
@@ -22,7 +22,7 @@ namespace Isen.DotNet.Library.Models.Implementation
             response.latitude = Latitude;
             response.longitude = Longitude;
             response.addressCount = AddressCount;
-            response.department = Departement?.ToDynamic();
+            response.department = Department?.ToDynamic();
             return response;
         }
     }
