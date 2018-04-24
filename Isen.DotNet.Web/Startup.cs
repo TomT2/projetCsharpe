@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Isen.DotNet.Library.Data;
 using Isen.DotNet.Library.Repositories.DbContext;
-using Isen.DotNet.Library.Repositories.InMemory;
 using Isen.DotNet.Library.Repositories.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
