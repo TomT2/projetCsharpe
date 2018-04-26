@@ -24,6 +24,7 @@ namespace Isen.DotNet.Library.Repositories.DbContext
             IQueryable<InterestPoint> queryable)
                 => queryable
                 .Include(i => i.Category)
-                .Include(i => i.Address);
+                .Include(i => i.Address)
+                .Include(i => i.Address.City);
     }
 }

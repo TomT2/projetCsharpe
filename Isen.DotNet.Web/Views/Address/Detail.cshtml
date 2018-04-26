@@ -1,0 +1,65 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces;
+@{
+    ViewData["Title"] = "Address (détail)";
+}
+@inject ICityRepository _cityRepository;
+@model Address
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Adresse <small>/address/detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-horizontal" asp-action="Detail">
+            <input type="hidden" value="@Model?.Id" asp-for="Id" />
+            <div>
+                <label for="Name" class="control-label">Nom de l'adresse :</label>
+                <input type="text" class="form-control"
+                    id="Name" placeholder="Nom de la catégorie"
+                    value="@Model?.Name" asp-for="Name" />
+            </div>
+            <br />
+            <div>
+                <label for="Latitude" class="control-label">Latitude :</label>
+                <input type="number" class="form-control"
+                    id="Latitude" placeholder="Latitude de l'adresse"
+                    value="@Model?.Latitude" asp-for="Latitude" />
+            </div>
+            <br />
+            <div>
+                <label for="Longitude" class="control-label">Longitude :</label>
+                <input type="number" class="form-control"
+                    id="Longitude" placeholder="Longitude de l'adresse"
+                    value="@Model?.Latitude" asp-for="Longitude" />
+            </div>
+            <br />
+            <div>
+                <label for="CityId">
+                    Ville : 
+                </label>
+               @Html.DropDownListFor(
+                    p => p.CityId,
+                    new SelectList(
+                        _cityRepository.GetAll(), 
+                        "Id", 
+                        "Name"),
+                    "<Sélectionnez une ville>",
+                    new { @class = "form-control" })
+            </div>
+            <br />
+            <div>
+                <label for="PostalCode" class="control-label">Code Postal :</label>
+                <input type="number" class="form-control"
+                    id="PostalCode" placeholder="Code Postal de l'adresse"
+                    value="@Model?.PostalCode" asp-for="PostalCode" />
+            </div>
+            <br />
+            <input type="submit" class="btn btn-primary" value="Valider" />
+            <a class="btn btn-default" 
+                asp-controller="Category" asp-action="Index">Annuler</a>
+        </form>
+    </div>
+</div>

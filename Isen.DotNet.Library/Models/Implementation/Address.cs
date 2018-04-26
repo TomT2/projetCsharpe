@@ -6,7 +6,6 @@ namespace Isen.DotNet.Library.Models.Implementation
 {
     public class Address : BaseModel
     { 
-        public string Text { get;set; }
         public City City { get;set; }
         public int? CityId { get;set; }
         public int PostalCode { get;set; }
@@ -18,7 +17,6 @@ namespace Isen.DotNet.Library.Models.Implementation
         public override dynamic ToDynamic()
         {
             var response = base.ToDynamic();
-            response.text = Text; 
             response.city = City?.ToDynamic();
             response.postalCode = PostalCode;
             response.latitude = Latitude;

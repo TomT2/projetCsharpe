@@ -6,20 +6,21 @@
 
 <div class="row">
     <div class="col-md-12">
-        <h1>Point d'interet</h1>
+        <h1>Point d'intérêts</h1>
     </div>
 </div>
-<!--
+
 <div class="row">
     <a class="btn btn-default" 
-        asp-controller="Person" asp-action="Detail">Ajouter un point</a>
+        asp-controller="InterestPoint" asp-action="Detail">Ajouter un point d'intérêt...</a>
 </div>
--->
+
 <div class="row">
     <table class="table table-striped">
         <thead>
             <tr>
                 <th>#</th>
+                <th>Nom</th>
                 <th>Description</th>
                 <th>Categorie</th>
                 <th>Adresse</th>
@@ -31,15 +32,16 @@
             {
             <tr>
                 <td>@interestpoint.Id</td>
+                <td>@interestpoint.Name</td>
                 <td>@interestpoint.Description</td>
                 <td>@interestpoint.Category.Name</td>
-                <td>@interestpoint.Address?.Name</td>
+                <td>@interestpoint.Address?.Name @interestpoint.Address?.City?.Name @interestpoint.Address?.PostalCode</td>
                 <td>
-                   <!-- <a class="btn btn-default" 
+                   <a class="btn btn-default" 
                         asp-controller="InterestPoint" 
                         asp-action="Detail" 
                         asp-route-id="@interestpoint.Id">Editer</a>
-                    &nbsp;-->
+                    &nbsp;
                     <a class="btn btn-danger" 
                         asp-controller="InterestPoint" 
                         asp-action="Delete" 
