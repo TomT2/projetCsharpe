@@ -23,19 +23,69 @@ namespace Isen.DotNet.Library.Data
             base.OnModelCreating(builder);
             
             // 2 - Configurer les mappings tables / classes
+            //Department
             builder.Entity<Department>()
                 .ToTable("Department")
                 .HasMany(d => d.CityCollection)
                 .WithOne(c => c.Department)
                 .OnDelete(DeleteBehavior.SetNull);
 
+            //City
             builder.Entity<City>()
-                .ToTable("City")
+                .ToTable("City");
+
+            builder.Entity<City>()
                 .HasMany(c => c.PersonCollection)
-                .HasOne(d => d.Department)
                 .WithOne(p => p.City)
+                .OnDelete(DeleteBehavior.SetNull);
+
+            builder.Entity<City>()
+                .HasOne(c => c.Department)
+                .WithMany(d => d.CityCollection) 
                 .HasForeignKey(c => c.DepartmentId);
 
+            builder.Entity<City>()
+                .HasMany(c => c.AddressCollection)
+                .WithOne(a => a.City)
+                .OnDelete(DeleteBehavior.SetNull);
+
+            //Address
+            builder.Entity<Address>()
+                .ToTable("Address");
+
+            builder.Entity<Address>()
+                .HasOne(a => a.City)
+                .WithMany(c => c.AddressCollection) 
+                .HasForeignKey(a => a.CityId);
+
+            builder.Entity<Address>()
+                .HasOne(a => a.InterestPoint)
+                .WithOne(i => i.Address) 
+                .HasForeignKey<InterestPoint>(i => i.AddressId);
+
+
+            //Category
+            builder.Entity<Category>()
+                .ToTable("Category")
+                .HasMany(c => c.InterestPointCollection)
+                .WithOne(i => i.Category)
+                .OnDelete(DeleteBehavior.SetNull);
+
+            //Point of interest
+            builder.Entity<InterestPoint>()
+                .ToTable("InterestPoint");
+
+            builder.Entity<InterestPoint>()
+                .HasOne(i => i.Category)
+                .WithMany(c => c.InterestPointCollection) 
+                .HasForeignKey(i => i.CategoryId);
+            
+            builder.Entity<InterestPoint>()
+                .HasOne(i => i.Address)
+                .WithOne(a => a.InterestPoint)
+                .HasForeignKey<Address>(a => a.InterestPointId);
+
+            //Person
             builder.Entity<Person>()
                 .ToTable("Person")
                 .HasOne(p => p.City)
