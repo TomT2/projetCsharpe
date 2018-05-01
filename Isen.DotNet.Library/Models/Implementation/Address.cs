@@ -14,6 +14,12 @@ namespace Isen.DotNet.Library.Models.Implementation
         public List<InterestPoint> InterestPointCollection { get;set; }
         public int? InterestPointCount => InterestPointCollection?.Count;
 
+
+
+        public string buildAddress(){
+            return this.Name + " " + this.PostalCode.ToString() + " " +this.City?.Department?.Name;
+        }
+
         public override dynamic ToDynamic()
         {
             var response = base.ToDynamic();

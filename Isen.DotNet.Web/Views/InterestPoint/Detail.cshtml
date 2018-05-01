@@ -54,7 +54,7 @@
                @Html.DropDownListFor(
                     p => p.AddressId,
                     new SelectList(
-                        _addressRepository.GetAll(), 
+                        _addressRepository.GetAll(),
                         "Id", 
                         "Name"),
                     "<Sélectionnez une adresse>",
