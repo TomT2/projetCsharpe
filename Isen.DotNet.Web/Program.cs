@@ -16,6 +16,10 @@ namespace Isen.DotNet.Web
     {
         public static void Main(string[] args)
         {
+            System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
+            customCulture.NumberFormat.NumberDecimalSeparator = ".";
+            System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
+            
             var host = BuildWebHost(args);
             
             // Récupérer une instance de SeedData

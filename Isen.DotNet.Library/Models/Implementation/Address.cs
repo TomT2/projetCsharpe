@@ -11,8 +11,8 @@ namespace Isen.DotNet.Library.Models.Implementation
         public int PostalCode { get;set; }
         public float Latitude { get;set; }
         public float Longitude { get;set; }
-        public InterestPoint InterestPoint { get;set; }
-        public int? InterestPointId { get;set; }
+        public List<InterestPoint> InterestPointCollection { get;set; }
+        public int? InterestPointCount => InterestPointCollection?.Count;
 
         public override dynamic ToDynamic()
         {
@@ -21,7 +21,7 @@ namespace Isen.DotNet.Library.Models.Implementation
             response.postalCode = PostalCode;
             response.latitude = Latitude;
             response.longitude = Longitude;
-            response.InterestPoint = InterestPoint?.ToDynamic();
+            response.interestPointCount = InterestPointCount;
             return response;
         }
     }

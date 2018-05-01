@@ -113,8 +113,8 @@ namespace Isen.DotNet.Library.Data
                 new Address 
                 { 
                     Name = "Rue de la Paix", 
-                    Latitude = 1, 
-                    Longitude = 1,
+                    Latitude = 1.32F, 
+                    Longitude = 1.234F,
                     City = _cityRepository.Single("Toulon"),
                     PostalCode = 83200
                 },

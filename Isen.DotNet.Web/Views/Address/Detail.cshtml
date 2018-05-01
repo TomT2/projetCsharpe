@@ -24,16 +24,16 @@
             <br />
             <div>
                 <label for="Latitude" class="control-label">Latitude :</label>
-                <input type="number" class="form-control"
-                    id="Latitude" placeholder="Latitude de l'adresse"
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Latitude" placeholder="ex: 45,32"
                     value="@Model?.Latitude" asp-for="Latitude" />
             </div>
             <br />
             <div>
                 <label for="Longitude" class="control-label">Longitude :</label>
-                <input type="number" class="form-control"
-                    id="Longitude" placeholder="Longitude de l'adresse"
-                    value="@Model?.Latitude" asp-for="Longitude" />
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Longitude" placeholder="ex: 3,23"
+                    value="@Model?.Longitude" asp-for="Longitude" />
             </div>
             <br />
             <div>
@@ -59,7 +59,7 @@
             <br />
             <input type="submit" class="btn btn-primary" value="Valider" />
             <a class="btn btn-default" 
-                asp-controller="Category" asp-action="Index">Annuler</a>
+                asp-controller="Address" asp-action="Index">Annuler</a>
         </form>
     </div>
 </div>

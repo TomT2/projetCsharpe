@@ -24,7 +24,8 @@ namespace Isen.DotNet.Library.Repositories.DbContext
             IQueryable<Address> queryable)
                 => queryable
                 .Include(a => a.City)
-                .Include(a => a.City.Department)
-                .Include(a => a.InterestPoint);
+                .Include(a => a.InterestPointCollection);
+                //.Include(a => a.City.Department)
+                //.Include(a => a.InterestPoint);
     }
 }
