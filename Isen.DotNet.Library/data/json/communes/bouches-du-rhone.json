@@ -1,762 +1,635 @@
 [
   {
-    "id": 4770,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4771,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4772,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4773,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4774,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4775,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4776,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4777,
     "name": "Marseille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4778,
     "name": "Aubagne",
     "latitude": 43.283333,
     "longitude": 5.566667
   },
   {
-    "id": 4779,
     "name": "Carnoux-en-Provence",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4780,
     "name": "Cassis",
     "latitude": 43.216667,
     "longitude": 5.533333
   },
   {
-    "id": 4781,
     "name": "Ceyreste",
     "latitude": 43.216667,
     "longitude": 5.633333
   },
   {
-    "id": 4782,
     "name": "Cuges-les-Pins",
     "latitude": 43.283333,
     "longitude": 5.7
   },
   {
-    "id": 4783,
     "name": "G�menos",
     "latitude": 43.3,
     "longitude": 5.633333
   },
   {
-    "id": 4784,
     "name": "La Ciotat",
     "latitude": 43.166667,
     "longitude": 5.6
   },
   {
-    "id": 4785,
     "name": "La Penne-sur-Huveaune",
     "latitude": 43.283333,
     "longitude": 5.516667
   },
   {
-    "id": 4786,
     "name": "Roquefort-la-B�doule",
     "latitude": 43.25,
     "longitude": 5.616667
   },
   {
-    "id": 4787,
     "name": "Allauch",
     "latitude": 43.333333,
     "longitude": 5.483333
   },
   {
-    "id": 4788,
     "name": "Auriol",
     "latitude": 43.383333,
     "longitude": 5.633333
   },
   {
-    "id": 4789,
     "name": "Belcod�ne",
     "latitude": 43.416667,
     "longitude": 5.583333
   },
   {
-    "id": 4790,
     "name": "Bouc-Bel-Air",
     "latitude": 43.45,
     "longitude": 5.416667
   },
   {
-    "id": 4791,
     "name": "Cabri�s",
     "latitude": 43.433333,
     "longitude": 5.383333
   },
   {
-    "id": 4792,
     "name": "Cadolive",
     "latitude": 43.383333,
     "longitude": 5.55
   },
   {
-    "id": 4793,
     "name": "Gardanne",
     "latitude": 43.45,
     "longitude": 5.466667
   },
   {
-    "id": 4794,
     "name": "Gr�asque",
     "latitude": 43.433333,
     "longitude": 5.55
   },
   {
-    "id": 4795,
     "name": "La Bouilladisse",
     "latitude": 43.4,
     "longitude": 5.583333
   },
   {
-    "id": 4796,
     "name": "La Destrousse",
     "latitude": 43.366667,
     "longitude": 5.6
   },
   {
-    "id": 4797,
     "name": "Les Pennes-Mirabeau",
     "latitude": 43.408333,
     "longitude": 5.316667
   },
   {
-    "id": 4798,
     "name": "Mimet",
     "latitude": 43.416667,
     "longitude": 5.5
   },
   {
-    "id": 4799,
     "name": "Peypin",
     "latitude": 43.383333,
     "longitude": 5.583333
   },
   {
-    "id": 4800,
     "name": "Plan-de-Cuques",
     "latitude": 43.35,
     "longitude": 5.466667
   },
   {
-    "id": 4801,
     "name": "Roquevaire",
     "latitude": 43.35,
     "longitude": 5.6
   },
   {
-    "id": 4802,
     "name": "Saint-Savournin",
     "latitude": 43.4,
     "longitude": 5.533333
   },
   {
-    "id": 4803,
     "name": "Sept�mes-les-Vallons",
     "latitude": 43.4,
     "longitude": 5.366667
   },
   {
-    "id": 4804,
     "name": "Simiane-Collongue",
     "latitude": 43.416667,
     "longitude": 5.433333
   },
   {
-    "id": 4805,
     "name": "Aix-en-Provence",
     "latitude": 43.533333,
     "longitude": 5.433333
   },
   {
-    "id": 4806,
     "name": "Cornillon-Confoux",
     "latitude": 43.566667,
     "longitude": 5.066667
   },
   {
-    "id": 4807,
     "name": "Coudoux",
     "latitude": 43.55,
     "longitude": 5.25
   },
   {
-    "id": 4808,
     "name": "Eguilles",
     "latitude": 43.566667,
     "longitude": 5.366667
   },
   {
-    "id": 4809,
     "name": "Grans",
     "latitude": 43.6,
     "longitude": 5.066667
   },
   {
-    "id": 4810,
     "name": "La Fare-les-Oliviers",
     "latitude": 43.55,
     "longitude": 5.183333
   },
   {
-    "id": 4811,
     "name": "Lan�on-Provence",
     "latitude": 43.583333,
     "longitude": 5.133333
   },
   {
-    "id": 4812,
     "name": "Meyreuil",
     "latitude": 43.483333,
     "longitude": 5.5
   },
   {
-    "id": 4813,
     "name": "Salon-de-Provence",
     "latitude": 43.633333,
     "longitude": 5.1
   },
   {
-    "id": 4814,
     "name": "Velaux",
     "latitude": 43.516667,
     "longitude": 5.266667
   },
   {
-    "id": 4815,
     "name": "Ventabren",
     "latitude": 43.533333,
     "longitude": 5.3
   },
   {
-    "id": 4816,
     "name": "Berre-l'Etang",
     "latitude": 43.466667,
     "longitude": 5.183333
   },
   {
-    "id": 4817,
     "name": "Carry-le-Rouet",
     "latitude": 43.333333,
     "longitude": 5.15
   },
   {
-    "id": 4818,
     "name": "Ch�teauneuf-les-Martigues",
     "latitude": 43.383333,
     "longitude": 5.166667
   },
   {
-    "id": 4819,
     "name": "Ensu�s-la-Redonne",
     "latitude": 43.35,
     "longitude": 5.2
   },
   {
-    "id": 4820,
     "name": "Gignac-la-Nerthe",
     "latitude": 43.391667,
     "longitude": 5.233333
   },
   {
-    "id": 4821,
     "name": "Le Rove",
     "latitude": 43.366667,
     "longitude": 5.25
   },
   {
-    "id": 4822,
     "name": "Marignane",
     "latitude": 43.416667,
     "longitude": 5.216667
   },
   {
-    "id": 4823,
     "name": "Rognac",
     "latitude": 43.483333,
     "longitude": 5.233333
   },
   {
-    "id": 4824,
     "name": "Saint-Chamas",
     "latitude": 43.55,
     "longitude": 5.033333
   },
   {
-    "id": 4825,
     "name": "Saint-Victoret",
     "latitude": 43.416667,
     "longitude": 5.233333
   },
   {
-    "id": 4826,
     "name": "Sausset-les-Pins",
     "latitude": 43.333333,
     "longitude": 5.116667
   },
   {
-    "id": 4827,
     "name": "Vitrolles",
     "latitude": 43.466667,
     "longitude": 5.25
   },
   {
-    "id": 4828,
     "name": "Fos-sur-Mer",
     "latitude": 43.433333,
     "longitude": 4.95
   },
   {
-    "id": 4829,
     "name": "Istres",
     "latitude": 43.516667,
     "longitude": 4.983333
   },
   {
-    "id": 4830,
     "name": "Martigues",
     "latitude": 43.4,
     "longitude": 5.05
   },
   {
-    "id": 4831,
     "name": "Port-de-Bouc",
     "latitude": 43.4,
     "longitude": 4.983333
   },
   {
-    "id": 4832,
     "name": "Saint-Mitre-les-Remparts",
     "latitude": 43.45,
     "longitude": 5.016667
   },
   {
-    "id": 4833,
     "name": "Aix-en-Provence",
     "latitude": 43.533333,
     "longitude": 5.433333
   },
   {
-    "id": 4834,
     "name": "Beaurecueil",
     "latitude": 43.5,
     "longitude": 5.55
   },
   {
-    "id": 4835,
     "name": "Ch�teauneuf-le-Rouge",
     "latitude": 43.483333,
     "longitude": 5.566667
   },
   {
-    "id": 4836,
     "name": "Fuveau",
     "latitude": 43.45,
     "longitude": 5.566667
   },
   {
-    "id": 4837,
     "name": "Jouques",
     "latitude": 43.633333,
     "longitude": 5.633333
   },
   {
-    "id": 4838,
     "name": "Le Puy-Sainte-R�parade",
     "latitude": 43.666667,
     "longitude": 5.433333
   },
   {
-    "id": 4839,
     "name": "Le Tholonet",
     "latitude": 43.516667,
     "longitude": 5.516667
   },
   {
-    "id": 4840,
     "name": "Meyrargues",
     "latitude": 43.633333,
     "longitude": 5.533333
   },
   {
-    "id": 4841,
     "name": "Peynier",
     "latitude": 43.45,
     "longitude": 5.65
   },
   {
-    "id": 4842,
     "name": "Peyrolles-en-Provence",
     "latitude": 43.65,
     "longitude": 5.583333
   },
   {
-    "id": 4843,
     "name": "Puyloubier",
     "latitude": 43.516667,
     "longitude": 5.683333
   },
   {
-    "id": 4844,
     "name": "Rousset",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4845,
     "name": "Saint-Antonin-sur-Bayon",
     "latitude": 43.516667,
     "longitude": 5.583333
   },
   {
-    "id": 4846,
     "name": "Saint-Marc-Jaumegarde",
     "latitude": 43.55,
     "longitude": 5.516667
   },
   {
-    "id": 4847,
     "name": "Saint-Paul-l�s-Durance",
     "latitude": 43.683333,
     "longitude": 5.7
   },
   {
-    "id": 4848,
     "name": "Trets",
     "latitude": 43.45,
     "longitude": 5.683333
   },
   {
-    "id": 4849,
     "name": "Vauvenargues",
     "latitude": 43.55,
     "longitude": 5.6
   },
   {
-    "id": 4850,
     "name": "Venelles",
     "latitude": 43.6,
     "longitude": 5.483333
   },
   {
-    "id": 4851,
     "name": "Alleins",
     "latitude": 43.7,
     "longitude": 5.166667
   },
   {
-    "id": 4852,
     "name": "Aureille",
     "latitude": 43.7,
     "longitude": 4.95
   },
   {
-    "id": 4853,
     "name": "Aurons",
     "latitude": 43.666667,
     "longitude": 5.15
   },
   {
-    "id": 4854,
     "name": "Barbentane",
     "latitude": 43.9,
     "longitude": 4.75
   },
   {
-    "id": 4855,
     "name": "Cabannes",
     "latitude": 43.866667,
     "longitude": 4.95
   },
   {
-    "id": 4856,
     "name": "Charleval",
     "latitude": 43.716667,
     "longitude": 5.25
   },
   {
-    "id": 4857,
     "name": "Ch�teaurenard",
     "latitude": 43.883333,
     "longitude": 4.85
   },
   {
-    "id": 4858,
     "name": "Eygali�res",
     "latitude": 43.75,
     "longitude": 4.95
   },
   {
-    "id": 4859,
     "name": "Eygui�res",
     "latitude": 43.7,
     "longitude": 5.033333
   },
   {
-    "id": 4860,
     "name": "Eyragues",
     "latitude": 43.833333,
     "longitude": 4.833333
   },
   {
-    "id": 4861,
     "name": "Graveson",
     "latitude": 43.85,
     "longitude": 4.766667
   },
   {
-    "id": 4862,
     "name": "La Barben",
     "latitude": 43.633333,
     "longitude": 5.183333
   },
   {
-    "id": 4863,
     "name": "Lamanon",
     "latitude": 43.7,
     "longitude": 5.083333
   },
   {
-    "id": 4864,
     "name": "Lambesc",
     "latitude": 43.65,
     "longitude": 5.266667
   },
   {
-    "id": 4865,
     "name": "La Roque-d'Anth�ron",
     "latitude": 43.716667,
     "longitude": 5.316667
   },
   {
-    "id": 4866,
     "name": "Les Baux-de-Provence",
     "latitude": 43.75,
     "longitude": 4.8
   },
   {
-    "id": 4867,
     "name": "Maillane",
     "latitude": 43.833333,
     "longitude": 4.783333
   },
   {
-    "id": 4868,
     "name": "Mallemort",
     "latitude": 43.733333,
     "longitude": 5.183333
   },
   {
-    "id": 4869,
     "name": "Maussane-les-Alpilles",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4870,
     "name": "Moll�g�s",
     "latitude": 43.8,
     "longitude": 4.95
   },
   {
-    "id": 4871,
     "name": "Mouri�s",
     "latitude": 43.683333,
     "longitude": 4.866667
   },
   {
-    "id": 4872,
     "name": "Noves",
     "latitude": 43.866667,
     "longitude": 4.9
   },
   {
-    "id": 4873,
     "name": "Orgon",
     "latitude": 43.783333,
     "longitude": 5.033333
   },
   {
-    "id": 4874,
     "name": "Paradou",
     "latitude": 43.716667,
     "longitude": 4.783333
   },
   {
-    "id": 4875,
     "name": "P�lissanne",
     "latitude": 43.633333,
     "longitude": 5.15
   },
   {
-    "id": 4876,
     "name": "Plan-d'Orgon",
     "latitude": 43.8,
     "longitude": 5
   },
   {
-    "id": 4877,
     "name": "Rognes",
     "latitude": 43.666667,
     "longitude": 5.35
   },
   {
-    "id": 4878,
     "name": "Rognonas",
     "latitude": 43.9,
     "longitude": 4.8
   },
   {
-    "id": 4879,
     "name": "Saint-Andiol",
     "latitude": 43.833333,
     "longitude": 4.95
   },
   {
-    "id": 4880,
     "name": "Saint-Cannat",
     "latitude": 43.616667,
     "longitude": 5.3
   },
   {
-    "id": 4881,
     "name": "Saint-Est�ve-Janson",
     "latitude": 43.683333,
     "longitude": 5.383333
   },
   {
-    "id": 4882,
     "name": "Saint-R�my-de-Provence",
     "latitude": 43.783333,
     "longitude": 4.833333
   },
   {
-    "id": 4883,
     "name": "S�nas",
     "latitude": 43.75,
     "longitude": 5.083333
   },
   {
-    "id": 4884,
     "name": "Vern�gues",
     "latitude": 43.683333,
     "longitude": 5.166667
   },
   {
-    "id": 4885,
     "name": "Verqui�res",
     "latitude": 43.833333,
     "longitude": 4.916667
   },
   {
-    "id": 4886,
     "name": "Arles",
     "latitude": 43.666667,
     "longitude": 4.633333
   },
   {
-    "id": 4887,
     "name": "Boulbon",
     "latitude": 43.866667,
     "longitude": 4.683333
   },
   {
-    "id": 4888,
     "name": "Fontvieille",
     "latitude": 43.316667,
     "longitude": 5.483333
   },
   {
-    "id": 4889,
     "name": "Mas-Blanc-des-Alpilles",
     "latitude": "43,79",
     "longitude": "4,76"
   },
   {
-    "id": 4890,
     "name": "Miramas",
     "latitude": 43.583333,
     "longitude": 5
   },
   {
-    "id": 4891,
     "name": "Port-Saint-Louis-du-Rh�ne",
     "latitude": 43.383333,
     "longitude": 4.8
   },
   {
-    "id": 4892,
     "name": "Saintes-Maries-de-la-Mer",
     "latitude": 43.45,
     "longitude": 4.425
   },
   {
-    "id": 4893,
     "name": "Saint-Etienne-du-Gr�s",
     "latitude": 43.783333,
     "longitude": 4.716667
   },
   {
-    "id": 4894,
     "name": "Saint-Martin-de-Crau",
     "latitude": 43.633333,
     "longitude": 4.816667
   },
   {
-    "id": 4895,
     "name": "Saint-Pierre-de-M�zoargues",
     "latitude": "",
     "longitude": ""
   },
   {
-    "id": 4896,
     "name": "Tarascon",
     "latitude": 43.8,
     "longitude": 4.666667

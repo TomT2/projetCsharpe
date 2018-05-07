@@ -5,7 +5,7 @@ using System.IO;
 using Isen.DotNet.Library.Models.Implementation;
 using Isen.DotNet.Library.Repositories.Interfaces;
 using Microsoft.Extensions.Logging;
-
+using Newtonsoft.Json;
 
 namespace Isen.DotNet.Library.Data
 {
@@ -44,10 +44,20 @@ namespace Isen.DotNet.Library.Data
         }
 
         public void LoadJsonFile(){
-            string varjson = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/var.json");
-            //List<City> items = JsonConvert.DeserializeObject<List<Item>>(varjson);
-            Console.WriteLine("--- Contents of file.txt: ---");
-            Console.WriteLine(varjson);
+            string varjson = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/test.json");
+            //List<City> items = JsonConvert.DeserializeObject<List<Item>>(varjson);;
+            List<City> items = JsonConvert.DeserializeObject<List<City>>(varjson);
+            foreach(City city in items){
+                Console.WriteLine(city.Name);
+                Console.WriteLine(city.Id);
+                Console.WriteLine(city.Latitude);
+                Console.WriteLine(city.Longitude);
+            }
+        
+            _cityRepository.UpdateRange(items);
+            _cityRepository.Save();
+ 
+            _logger.LogWarning("Added cities");    
         }
 
         public void DropDatabase()
@@ -69,15 +79,11 @@ namespace Isen.DotNet.Library.Data
             if (_departmentRepository.GetAll().Any()) return;
             _logger.LogWarning("Adding departments");
 
-            var departments = new List<Department>
-            {
-                new Department { Name = "Alpes-de-Haute-Provence", Number = 4 },
-                new Department { Name = "Hautes-Alpes",  Number = 5 },
-                new Department { Name = "Alpes-Maritimes", Number = 06 },
-                new Department { Name = "Bouches-du-Rhône", Number = 13 },
-                new Department { Name = "Var", Number = 83 },
-                new Department { Name = "Vaucluse", Number = 84 }
-            };
+            var departments = new List<Department>();
+
+            string departments_json = File.ReadAllText("../Isen.DotNet.Library/data/json/departments.json");
+            departments = JsonConvert.DeserializeObject<List<Department>>(departments_json);
+
             _departmentRepository.UpdateRange(departments);
             _departmentRepository.Save();
 
@@ -89,23 +95,59 @@ namespace Isen.DotNet.Library.Data
             if (_cityRepository.GetAll().Any()) return;
             _logger.LogWarning("Adding cities");
 
-            var cities = new List<City>
+            var cities = new List<City>();
+
+            string var_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/var.json");
+            List<City> cities_var = JsonConvert.DeserializeObject<List<City>>(var_cities_json);
+            foreach(City city in cities_var)
             {
-                new City 
-                { 
-                    Name = "Toulon", 
-                    Latitude = 1, 
-                    Longitude = 1,
-                    Department = _departmentRepository.Single("Var")
-                },
-                new City 
-                { 
-                    Name = "Marseille", 
-                    Latitude = 1, 
-                    Longitude = 1,
-                    Department = _departmentRepository.Single("Bouches-du-Rhône")
-                },
-            };
+                city.Department = _departmentRepository.Single("Var");
+            }
+
+            string alpes_provence_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/alpes-de-haute-provence.json");
+            List<City> cities_ap = JsonConvert.DeserializeObject<List<City>>(alpes_provence_cities_json);
+            foreach(City city in cities_ap)
+            {
+                city.Department = _departmentRepository.Single("Alpes-de-Haute-Provence");
+            }
+
+            string alpes_maritimes_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/alpes-maritimes.json");
+            List<City> cities_am = JsonConvert.DeserializeObject<List<City>>(alpes_provence_cities_json);
+            foreach(City city in cities_am)
+            {
+                city.Department = _departmentRepository.Single("Alpes-Maritimes");
+            }
+
+            string bouches_du_rhone_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/bouches-du-rhone.json");
+            List<City> cities_b = JsonConvert.DeserializeObject<List<City>>(bouches_du_rhone_cities_json);
+            foreach(City city in cities_b)
+            {
+                city.Department = _departmentRepository.Single("Bouches-du-Rhône");
+            }
+
+            string hautes_alpes_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/hautes-alpes.json");
+            List<City> cities_h = JsonConvert.DeserializeObject<List<City>>(hautes_alpes_cities_json);
+            foreach(City city in cities_h)
+            {
+                city.Department = _departmentRepository.Single("Hautes-Alpes");
+            }
+
+            string vaucluse_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/vaucluse.json");
+            List<City> cities_vaucluse = JsonConvert.DeserializeObject<List<City>>(vaucluse_cities_json);
+            foreach(City city in cities_vaucluse)
+            {
+                city.Department = _departmentRepository.Single("Vaucluse");
+            }
+
+
+            cities.AddRange(cities_var);
+            cities.AddRange(cities_ap);
+            cities.AddRange(cities_am);
+            cities.AddRange(cities_am);
+            cities.AddRange(cities_b);
+            cities.AddRange(cities_h);
+            cities.AddRange(cities_vaucluse);
+            
             _cityRepository.UpdateRange(cities);
             _cityRepository.Save();
 
@@ -124,17 +166,9 @@ namespace Isen.DotNet.Library.Data
                     Name = "Rue de la Paix", 
                     Latitude = 1.32F, 
                     Longitude = 1.234F,
-                    City = _cityRepository.Single("Toulon"),
+                    City = _cityRepository.Single("Carqueiranne"),
                     PostalCode = 83200
-                },
-                new Address 
-                { 
-                    Name = "Rue de la Guerre", 
-                    Latitude = 1, 
-                    Longitude = 1,
-                    City = _cityRepository.Single("Marseille"),
-                    PostalCode = 13000
-                },
+                }
             };
             _addressRepository.UpdateRange(addresses);
             _addressRepository.Save();
@@ -145,22 +179,12 @@ namespace Isen.DotNet.Library.Data
         public void AddCategories()
         {
             if (_categoryRepository.GetAll().Any()) return;
-            _logger.LogWarning("Adding categories");
+            _logger.LogWarning("Adding categories");         
 
-            var categories = new List<Category>
-            {
-                new Category 
-                { 
-                    Name = "Art",
-                    Description = "C'est BO"
+            var categories = new List<Category>();
+            string categories_json = File.ReadAllText("../Isen.DotNet.Library/data/json/categories.json");
+            categories = JsonConvert.DeserializeObject<List<Category>>(categories_json);
 
-                },
-                new Category 
-                { 
-                    Name = "Sport",
-                    Description = "MUSCU" 
-                },
-            };
             _categoryRepository.UpdateRange(categories);
             _categoryRepository.Save();
 
@@ -221,7 +245,7 @@ namespace Isen.DotNet.Library.Data
                     FirstName = "Steve",
                     LastName = "JOBS",
                     BirthDate = new DateTime(1949,2,24),
-                    City = _cityRepository.Single("Marseille")
+                    City = _cityRepository.Single("La Garde")
                 }
             };
             _personRepository.UpdateRange(persons);

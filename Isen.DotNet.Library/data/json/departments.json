@@ -1,34 +1,26 @@
-{
-    "departments": [
-        {
-            "id":"1",
-            "name":"Alpes-de-Haute-Provence",
-            "number":"04"
-        },
-        {
-            "id":"2",
-            "name":"Hautes-Alpes",
-            "number":"05"
-        },
-        {
-            "id":"3",
-            "name":"Alpes-Maritimes",
-            "number":"06"
-        },
-        {
-            "id":"4",
-            "name":"Bouches-du-Rhône",
-            "number":"04"
-        },
-        {
-            "id":"5",
-            "name":"Var",
-            "number":"83"
-        },
-        {
-            "id":"6",
-            "name":"Vaucluse",
-            "number":"84"
-        }
-    ]
-}
+[
+    {
+        "name": "Alpes-de-Haute-Provence",
+        "number": "04"
+    },
+    {
+        "name": "Hautes-Alpes",
+        "number": "05"
+    },
+    {
+        "name": "Alpes-Maritimes",
+        "number": "06"
+    },
+    {
+        "name": "Bouches-du-Rhône",
+        "number": "04"
+    },
+    {
+        "name": "Var",
+        "number": "83"
+    },
+    {
+        "name": "Vaucluse",
+        "number": "84"
+    }
+]

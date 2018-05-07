@@ -34,9 +34,9 @@ namespace Isen.DotNet.Web
                 seed.AddCities();
                 seed.AddAddresses();
                 seed.AddCategories();
-                seed.AddInterestPoints();
-                seed.AddPersons();
-                seed.LoadJsonFile();
+                //seed.AddInterestPoints();
+                //seed.AddPersons();
+                
             }
 
 

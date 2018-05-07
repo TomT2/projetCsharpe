@@ -6,7 +6,7 @@ namespace Isen.DotNet.Library.Models.Implementation
 {
     public class Department : BaseModel
     { 
-        public int Number { get;set; }
+        public string Number { get;set; }
         public List<City> CityCollection { get;set; }
         public int? CityCount => CityCollection?.Count;
 
