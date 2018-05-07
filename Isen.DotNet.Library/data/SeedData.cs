@@ -44,7 +44,7 @@ namespace Isen.DotNet.Library.Data
         }
 
         public void LoadJsonFile(){
-            string varjson = File.ReadAllText("./json/communes/var.json");
+            string varjson = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/var.json");
             //List<City> items = JsonConvert.DeserializeObject<List<Item>>(varjson);
             Console.WriteLine("--- Contents of file.txt: ---");
             Console.WriteLine(varjson);
