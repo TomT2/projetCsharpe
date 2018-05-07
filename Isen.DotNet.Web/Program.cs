@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Isen.DotNet.Library.Data;
@@ -19,9 +18,10 @@ namespace Isen.DotNet.Web
             System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
             customCulture.NumberFormat.NumberDecimalSeparator = ".";
             System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
-            
+                    // Read in file with File class.
+
+
             var host = BuildWebHost(args);
-            
             // Récupérer une instance de SeedData
             // en appelant le moteur d'injection de dépendances
             using (var scope = host.Services.CreateScope())
@@ -36,8 +36,10 @@ namespace Isen.DotNet.Web
                 seed.AddCategories();
                 seed.AddInterestPoints();
                 seed.AddPersons();
+                seed.LoadJsonFile();
             }
-            
+
+
             host.Run();
         }
 

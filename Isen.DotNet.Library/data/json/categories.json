@@ -1,0 +1,29 @@
+{
+    "categories": [
+        {
+            "id":"1",
+            "name":"Hôtel",
+            "description":"Evitez de dormir à la pleine étoile"
+        },
+        {
+            "id":"2",
+            "name":"Restaurant",
+            "description":"Pour les goinfres"
+        },
+        {
+            "id":"3",
+            "name":"Camp d'entrainement",
+            "description":"Vous êtes ici pour suer"
+        },
+        {
+            "id":"4",
+            "name":"Prison",
+            "description":"Evadez-vous"
+        },
+        {
+            "id":"5",
+            "name":"Parc",
+            "description":"Pour profiter de la nature"
+        }
+    ]
+}

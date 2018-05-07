@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1915,
+    "name": "Aiglun",
+    "latitude": 44.066667,
+    "longitude": 6.133333
+  },
+  {
+    "id": 1916,
+    "name": "Allemagne-en-Provence",
+    "latitude": 43.783333,
+    "longitude": 6.016667
+  },
+  {
+    "id": 1917,
+    "name": "Allons",
+    "latitude": 43.966667,
+    "longitude": 6.6
+  },
+  {
+    "id": 1918,
+    "name": "Allos",
+    "latitude": 44.233333,
+    "longitude": 6.633333
+  },
+  {
+    "id": 1919,
+    "name": "Angles",
+    "latitude": 43.933333,
+    "longitude": 6.566667
+  },
+  {
+    "id": 1920,
+    "name": "Annot",
+    "latitude": 43.966667,
+    "longitude": 6.666667
+  },
+  {
+    "id": 1921,
+    "name": "Archail",
+    "latitude": 44.116667,
+    "longitude": 6.333333
+  },
+  {
+    "id": 1922,
+    "name": "Aubignosc",
+    "latitude": 44.133333,
+    "longitude": 5.966667
+  },
+  {
+    "id": 1923,
+    "name": "Barras",
+    "latitude": 44.1,
+    "longitude": 6.116667
+  },
+  {
+    "id": 1924,
+    "name": "Barr�me",
+    "latitude": 43.95,
+    "longitude": 6.366667
+  },
+  {
+    "id": 1925,
+    "name": "Beaujeu",
+    "latitude": 44.2,
+    "longitude": 6.366667
+  },
+  {
+    "id": 1926,
+    "name": "Beauvezer",
+    "latitude": 44.15,
+    "longitude": 6.6
+  },
+  {
+    "id": 1927,
+    "name": "Beynes",
+    "latitude": 43.983333,
+    "longitude": 6.233333
+  },
+  {
+    "id": 1928,
+    "name": "Blieux",
+    "latitude": 43.866667,
+    "longitude": 6.366667
+  },
+  {
+    "id": 1929,
+    "name": "Bras-d'Asse",
+    "latitude": 43.916667,
+    "longitude": 6.116667
+  },
+  {
+    "id": 1930,
+    "name": "Braux",
+    "latitude": 43.983333,
+    "longitude": 6.683333
+  },
+  {
+    "id": 1931,
+    "name": "Brunet",
+    "latitude": 43.9,
+    "longitude": 6.033333
+  },
+  {
+    "id": 1932,
+    "name": "Castellane",
+    "latitude": 43.85,
+    "longitude": 6.516667
+  },
+  {
+    "id": 1933,
+    "name": "Castellet-l�s-Sausses",
+    "latitude": 43.983333,
+    "longitude": 6.766667
+  },
+  {
+    "id": 1934,
+    "name": "Champtercier",
+    "latitude": 44.1,
+    "longitude": 6.166667
+  },
+  {
+    "id": 1935,
+    "name": "Chateau-Arnoux-Saint-Auban",
+    "latitude": "44,09",
+    "longitude": "6,01"
+  },
+  {
+    "id": 1936,
+    "name": "Chateauneuf-Val-Saint-Donat",
+    "latitude": 44.1,
+    "longitude": 5.95
+  },
+  {
+    "id": 1937,
+    "name": "Chateauredon",
+    "latitude": 44.016667,
+    "longitude": 6.216667
+  },
+  {
+    "id": 1938,
+    "name": "Chaudon-Norante",
+    "latitude": 43.983333,
+    "longitude": 6.35
+  },
+  {
+    "id": 1939,
+    "name": "Clumanc",
+    "latitude": 44.033333,
+    "longitude": 6.416667
+  },
+  {
+    "id": 1940,
+    "name": "Colmars",
+    "latitude": 44.183333,
+    "longitude": 6.633333
+  },
+  {
+    "id": 1941,
+    "name": "Demandolx",
+    "latitude": 43.866667,
+    "longitude": 6.583333
+  },
+  {
+    "id": 1942,
+    "name": "Digne-les-Bains",
+    "latitude": "44,09",
+    "longitude": "6,24"
+  },
+  {
+    "id": 1943,
+    "name": "Draix",
+    "latitude": 44.133333,
+    "longitude": 6.35
+  },
+  {
+    "id": 1944,
+    "name": "Entrages",
+    "latitude": 44.05,
+    "longitude": 6.266667
+  },
+  {
+    "id": 1945,
+    "name": "Entrevaux",
+    "latitude": 43.95,
+    "longitude": 6.816667
+  },
+  {
+    "id": 1946,
+    "name": "Entrevennes",
+    "latitude": 43.933333,
+    "longitude": 6.033333
+  },
+  {
+    "id": 1947,
+    "name": "Esparron-de-Verdon",
+    "latitude": 43.733333,
+    "longitude": 5.983333
+  },
+  {
+    "id": 1948,
+    "name": "Estoublon",
+    "latitude": 43.933333,
+    "longitude": 6.166667
+  },
+  {
+    "id": 1949,
+    "name": "Ganagobie",
+    "latitude": 44,
+    "longitude": 5.916667
+  },
+  {
+    "id": 1950,
+    "name": "Greoux-les-Bains",
+    "latitude": 43.75,
+    "longitude": 5.883333
+  },
+  {
+    "id": 1951,
+    "name": "Hautes-Duyes",
+    "latitude": "44.1806",
+    "longitude": "6.1578"
+  },
+  {
+    "id": 1952,
+    "name": "La Brillanne",
+    "latitude": 43.916667,
+    "longitude": 5.883333
+  },
+  {
+    "id": 1953,
+    "name": "La Garde",
+    "latitude": 43.833333,
+    "longitude": 6.55
+  },
+  {
+    "id": 1954,
+    "name": "La Javie",
+    "latitude": 44.166667,
+    "longitude": 6.35
+  },
+  {
+    "id": 1955,
+    "name": "Lambruisse",
+    "latitude": 44.05,
+    "longitude": 6.433333
+  },
+  {
+    "id": 1956,
+    "name": "La Mure-Argens",
+    "latitude": "43.9833",
+    "longitude": "6.5167"
+  },
+  {
+    "id": 1957,
+    "name": "La Palud-sur-Verdon",
+    "latitude": "43.7833",
+    "longitude": "6.3333"
+  },
+  {
+    "id": 1958,
+    "name": "La Robine-sur-Galabre",
+    "latitude": "44.1667",
+    "longitude": "6.2167"
+  },
+  {
+    "id": 1959,
+    "name": "La Rochette",
+    "latitude": "43.9167",
+    "longitude": "6.8833"
+  },
+  {
+    "id": 1960,
+    "name": "Le Brusquet",
+    "latitude": 44.15,
+    "longitude": 6.3
+  },
+  {
+    "id": 1961,
+    "name": "Le Castellard-Melan",
+    "latitude": 44.183333,
+    "longitude": 6.133333
+  },
+  {
+    "id": 1962,
+    "name": "Le Castellet",
+    "latitude": 43.933333,
+    "longitude": 5.983333
+  },
+  {
+    "id": 1963,
+    "name": "Le Chaffaut-Saint-Jurson",
+    "latitude": "44.0333",
+    "longitude": "6.15"
+  },
+  {
+    "id": 1964,
+    "name": "Le Fugeret",
+    "latitude": 44,
+    "longitude": 6.633333
+  },
+  {
+    "id": 1965,
+    "name": "L'Escale",
+    "latitude": 44.083333,
+    "longitude": 6.033333
+  },
+  {
+    "id": 1966,
+    "name": "Les Mees",
+    "latitude": 44.033333,
+    "longitude": 5.983333
+  },
+  {
+    "id": 1967,
+    "name": "Lurs",
+    "latitude": 43.966667,
+    "longitude": 5.883333
+  },
+  {
+    "id": 1968,
+    "name": "Majastres",
+    "latitude": 43.916667,
+    "longitude": 6.3
+  },
+  {
+    "id": 1969,
+    "name": "Malijai",
+    "latitude": 44.05,
+    "longitude": 6.033333
+  },
+  {
+    "id": 1970,
+    "name": "Mallemoisson",
+    "latitude": 44.05,
+    "longitude": 6.133333
+  },
+  {
+    "id": 1971,
+    "name": "Marcoux",
+    "latitude": 44.133333,
+    "longitude": 6.283333
+  },
+  {
+    "id": 1972,
+    "name": "Meailles",
+    "latitude": 44.033333,
+    "longitude": 6.633333
+  },
+  {
+    "id": 1973,
+    "name": "Mezel",
+    "latitude": 43.983333,
+    "longitude": 6.2
+  },
+  {
+    "id": 1974,
+    "name": "Mirabeau",
+    "latitude": 44.066667,
+    "longitude": 6.083333
+  },
+  {
+    "id": 1975,
+    "name": "Montagnac-Montpezat",
+    "latitude": "43.7833",
+    "longitude": "6.1"
+  },
+  {
+    "id": 1976,
+    "name": "Montfort",
+    "latitude": 44.066667,
+    "longitude": 5.966667
+  },
+  {
+    "id": 1977,
+    "name": "Moriez",
+    "latitude": 43.95,
+    "longitude": 6.466667
+  },
+  {
+    "id": 1978,
+    "name": "Moustiers-Sainte-Marie",
+    "latitude": 43.85,
+    "longitude": 6.216667
+  },
+  {
+    "id": 1979,
+    "name": "Oraison",
+    "latitude": 43.916667,
+    "longitude": 5.916667
+  },
+  {
+    "id": 1980,
+    "name": "Peipin",
+    "latitude": 44.133333,
+    "longitude": 5.95
+  },
+  {
+    "id": 1981,
+    "name": "Peyroules",
+    "latitude": 43.816667,
+    "longitude": 6.633333
+  },
+  {
+    "id": 1982,
+    "name": "Peyruis",
+    "latitude": 44.033333,
+    "longitude": 5.933333
+  },
+  {
+    "id": 1983,
+    "name": "Prads-Haute-Bleone",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 1984,
+    "name": "Puimichel",
+    "latitude": 43.966667,
+    "longitude": 6.016667
+  },
+  {
+    "id": 1985,
+    "name": "Puimoisson",
+    "latitude": 43.866667,
+    "longitude": 6.133333
+  },
+  {
+    "id": 1986,
+    "name": "Quinson",
+    "latitude": 43.7,
+    "longitude": 6.033333
+  },
+  {
+    "id": 1987,
+    "name": "Riez",
+    "latitude": 43.816667,
+    "longitude": 6.1
+  },
+  {
+    "id": 1988,
+    "name": "Rougon",
+    "latitude": 43.8,
+    "longitude": 6.4
+  },
+  {
+    "id": 1989,
+    "name": "Roumoules",
+    "latitude": 43.833333,
+    "longitude": 6.133333
+  },
+  {
+    "id": 1990,
+    "name": "Saint-Andre-les-Alpes",
+    "latitude": 43.966667,
+    "longitude": 6.5
+  },
+  {
+    "id": 1991,
+    "name": "Saint-Benoit",
+    "latitude": 43.966667,
+    "longitude": 6.733333
+  },
+  {
+    "id": 1992,
+    "name": "Sainte-Croix-du-Verdon",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 1993,
+    "name": "Saint-Jacques",
+    "latitude": 43.966667,
+    "longitude": 6.416667
+  },
+  {
+    "id": 1994,
+    "name": "Saint-Jeannet",
+    "latitude": 43.95,
+    "longitude": 6.116667
+  },
+  {
+    "id": 1995,
+    "name": "Saint-Julien-d'Asse",
+    "latitude": 43.916667,
+    "longitude": 6.1
+  },
+  {
+    "id": 1996,
+    "name": "Saint-Julien-du-Verdon",
+    "latitude": 43.916667,
+    "longitude": 6.533333
+  },
+  {
+    "id": 1997,
+    "name": "Saint-Jurs",
+    "latitude": 43.9,
+    "longitude": 6.2
+  },
+  {
+    "id": 1998,
+    "name": "Saint-Laurent-du-Verdon",
+    "latitude": 43.716667,
+    "longitude": 6.066667
+  },
+  {
+    "id": 1999,
+    "name": "Saint-Lions",
+    "latitude": 43.983333,
+    "longitude": 6.4
+  },
+  {
+    "id": 2000,
+    "name": "Saint-Martin-de-Brumes",
+    "latitude": 43.766667,
+    "longitude": 5.95
+  },
+  {
+    "id": 2001,
+    "name": "Saint-Pierre",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2002,
+    "name": "Salignac",
+    "latitude": 44.166667,
+    "longitude": 5.983333
+  },
+  {
+    "id": 2003,
+    "name": "Sausses",
+    "latitude": 44.016667,
+    "longitude": 6.783333
+  },
+  {
+    "id": 2004,
+    "name": "Senez",
+    "latitude": 43.916667,
+    "longitude": 6.4
+  },
+  {
+    "id": 2005,
+    "name": "Soleilhas",
+    "latitude": 43.85,
+    "longitude": 6.65
+  },
+  {
+    "id": 2006,
+    "name": "Sourribes",
+    "latitude": 44.15,
+    "longitude": 6.016667
+  },
+  {
+    "id": 2007,
+    "name": "Tartonne",
+    "latitude": 44.066667,
+    "longitude": 6.383333
+  },
+  {
+    "id": 2008,
+    "name": "Thoard",
+    "latitude": 44.15,
+    "longitude": 6.15
+  },
+  {
+    "id": 2009,
+    "name": "Thorame-Basse",
+    "latitude": 44.083333,
+    "longitude": 6.5
+  },
+  {
+    "id": 2010,
+    "name": "Thorame-Haute",
+    "latitude": 44.1,
+    "longitude": 6.55
+  },
+  {
+    "id": 2011,
+    "name": "Ubraye",
+    "latitude": 43.9,
+    "longitude": 6.7
+  },
+  {
+    "id": 2012,
+    "name": "Val-de-Chalvagne",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2013,
+    "name": "Valensole",
+    "latitude": 43.833333,
+    "longitude": 5.983333
+  },
+  {
+    "id": 2014,
+    "name": "Vergons",
+    "latitude": 43.916667,
+    "longitude": 6.583333
+  },
+  {
+    "id": 2015,
+    "name": "Villars-Colmars",
+    "latitude": 44.166667,
+    "longitude": 6.6
+  },
+  {
+    "id": 2016,
+    "name": "Volonne",
+    "latitude": 44.116667,
+    "longitude": 6.016667
+  },
+  {
+    "id": 2017,
+    "name": "Aubenas-les-Alpes",
+    "latitude": 43.933333,
+    "longitude": 5.683333
+  },
+  {
+    "id": 2018,
+    "name": "Authon",
+    "latitude": 44.233333,
+    "longitude": 6.133333
+  },
+  {
+    "id": 2019,
+    "name": "Auzet",
+    "latitude": 44.3,
+    "longitude": 6.3
+  },
+  {
+    "id": 2020,
+    "name": "Banon",
+    "latitude": 44.033333,
+    "longitude": 5.633333
+  },
+  {
+    "id": 2021,
+    "name": "Barcelonnette",
+    "latitude": 44.383333,
+    "longitude": 6.65
+  },
+  {
+    "id": 2022,
+    "name": "Barles",
+    "latitude": 44.266667,
+    "longitude": 6.266667
+  },
+  {
+    "id": 2023,
+    "name": "Bayons",
+    "latitude": 44.333333,
+    "longitude": 6.166667
+  },
+  {
+    "id": 2024,
+    "name": "Bellaffaire",
+    "latitude": 44.416667,
+    "longitude": 6.183333
+  },
+  {
+    "id": 2025,
+    "name": "Bevons",
+    "latitude": 44.183333,
+    "longitude": 5.9
+  },
+  {
+    "id": 2026,
+    "name": "Cereste",
+    "latitude": 43.85,
+    "longitude": 5.583333
+  },
+  {
+    "id": 2027,
+    "name": "Chateaufort",
+    "latitude": 44.266667,
+    "longitude": 6.016667
+  },
+  {
+    "id": 2028,
+    "name": "Chateauneuf-Miravail",
+    "latitude": 44.15,
+    "longitude": 5.716667
+  },
+  {
+    "id": 2029,
+    "name": "Clamensane",
+    "latitude": 44.316667,
+    "longitude": 6.066667
+  },
+  {
+    "id": 2030,
+    "name": "Claret",
+    "latitude": 44.366667,
+    "longitude": 5.95
+  },
+  {
+    "id": 2031,
+    "name": "Corbieres",
+    "latitude": 43.766667,
+    "longitude": 5.75
+  },
+  {
+    "id": 2032,
+    "name": "Cruis",
+    "latitude": 44.066667,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2033,
+    "name": "Curbans",
+    "latitude": 44.433333,
+    "longitude": 6.033333
+  },
+  {
+    "id": 2034,
+    "name": "Curel",
+    "latitude": 44.183333,
+    "longitude": 5.666667
+  },
+  {
+    "id": 2035,
+    "name": "Dauphin",
+    "latitude": 43.9,
+    "longitude": 5.783333
+  },
+  {
+    "id": 2036,
+    "name": "Enchastrayes",
+    "latitude": 44.366667,
+    "longitude": 6.7
+  },
+  {
+    "id": 2037,
+    "name": "Entrepierres",
+    "latitude": 44.2,
+    "longitude": 5.983333
+  },
+  {
+    "id": 2038,
+    "name": "Faucon-de-Barcelonnette",
+    "latitude": 44.4,
+    "longitude": 6.683333
+  },
+  {
+    "id": 2039,
+    "name": "Faucon-du-Caire",
+    "latitude": 44.4,
+    "longitude": 6.1
+  },
+  {
+    "id": 2040,
+    "name": "Fontienne",
+    "latitude": 44.016667,
+    "longitude": 5.8
+  },
+  {
+    "id": 2041,
+    "name": "Forcalquier",
+    "latitude": 43.966667,
+    "longitude": 5.783333
+  },
+  {
+    "id": 2042,
+    "name": "Gigors",
+    "latitude": 44.416667,
+    "longitude": 6.15
+  },
+  {
+    "id": 2043,
+    "name": "Jausiers",
+    "latitude": 44.416667,
+    "longitude": 6.733333
+  },
+  {
+    "id": 2044,
+    "name": "La Breole",
+    "latitude": 44.45,
+    "longitude": 6.3
+  },
+  {
+    "id": 2045,
+    "name": "La Condamine-Chatelard",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2046,
+    "name": "La Motte-du-Caire",
+    "latitude": 44.35,
+    "longitude": 6.033333
+  },
+  {
+    "id": 2047,
+    "name": "Larche",
+    "latitude": 44.45,
+    "longitude": 6.85
+  },
+  {
+    "id": 2048,
+    "name": "Lardiers",
+    "latitude": 44.05,
+    "longitude": 5.716667
+  },
+  {
+    "id": 2049,
+    "name": "La Rochegiron",
+    "latitude": 44.083333,
+    "longitude": 5.65
+  },
+  {
+    "id": 2050,
+    "name": "Le Caire",
+    "latitude": 44.366667,
+    "longitude": 6.05
+  },
+  {
+    "id": 2051,
+    "name": "Le Lauzet-Ubaye",
+    "latitude": 44.433333,
+    "longitude": 6.433333
+  },
+  {
+    "id": 2052,
+    "name": "Les Omergues",
+    "latitude": 44.166667,
+    "longitude": 5.6
+  },
+  {
+    "id": 2053,
+    "name": "Les Thuiles",
+    "latitude": 44.4,
+    "longitude": 6.566667
+  },
+  {
+    "id": 2054,
+    "name": "Le Vernet",
+    "latitude": 44.283333,
+    "longitude": 6.4
+  },
+  {
+    "id": 2055,
+    "name": "L'Hospitalet",
+    "latitude": 44.083333,
+    "longitude": 5.7
+  },
+  {
+    "id": 2056,
+    "name": "Limans",
+    "latitude": 43.983333,
+    "longitude": 5.733333
+  },
+  {
+    "id": 2057,
+    "name": "Mallefougasse-Auges",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2058,
+    "name": "Mane",
+    "latitude": 43.933333,
+    "longitude": 5.766667
+  },
+  {
+    "id": 2059,
+    "name": "Manosque",
+    "latitude": 43.833333,
+    "longitude": 5.783333
+  },
+  {
+    "id": 2060,
+    "name": "Melve",
+    "latitude": 44.35,
+    "longitude": 5.983333
+  },
+  {
+    "id": 2061,
+    "name": "Meolans-Revel",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2062,
+    "name": "Meyronnes",
+    "latitude": 44.483333,
+    "longitude": 6.8
+  },
+  {
+    "id": 2063,
+    "name": "Mison",
+    "latitude": 44.266667,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2064,
+    "name": "Montclar",
+    "latitude": 44.4,
+    "longitude": 6.333333
+  },
+  {
+    "id": 2065,
+    "name": "Montfuron",
+    "latitude": 43.833333,
+    "longitude": 5.7
+  },
+  {
+    "id": 2066,
+    "name": "Montjustin",
+    "latitude": 43.85,
+    "longitude": 5.633333
+  },
+  {
+    "id": 2067,
+    "name": "Montlaux",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2068,
+    "name": "Montsalier",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2069,
+    "name": "Nibles",
+    "latitude": 44.283333,
+    "longitude": 6.016667
+  },
+  {
+    "id": 2070,
+    "name": "Niozelles",
+    "latitude": 43.933333,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2071,
+    "name": "Noyers-sur-Jabron",
+    "latitude": 44.166667,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2072,
+    "name": "Ongles",
+    "latitude": 44.033333,
+    "longitude": 5.733333
+  },
+  {
+    "id": 2073,
+    "name": "Oppedette",
+    "latitude": 43.933333,
+    "longitude": 5.6
+  },
+  {
+    "id": 2074,
+    "name": "Piegut",
+    "latitude": 44.45,
+    "longitude": 6.116667
+  },
+  {
+    "id": 2075,
+    "name": "Pierrerue",
+    "latitude": 43.95,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2076,
+    "name": "Pierrevert",
+    "latitude": 43.816667,
+    "longitude": 5.75
+  },
+  {
+    "id": 2077,
+    "name": "Pontis",
+    "latitude": 44.5,
+    "longitude": 6.366667
+  },
+  {
+    "id": 2078,
+    "name": "Redortiers",
+    "latitude": 44.083333,
+    "longitude": 5.65
+  },
+  {
+    "id": 2079,
+    "name": "Reillanne",
+    "latitude": 43.883333,
+    "longitude": 5.666667
+  },
+  {
+    "id": 2080,
+    "name": "Revest-des-Brousses",
+    "latitude": 43.966667,
+    "longitude": 5.666667
+  },
+  {
+    "id": 2081,
+    "name": "Revest-du-Bion",
+    "latitude": 44.083333,
+    "longitude": 5.55
+  },
+  {
+    "id": 2082,
+    "name": "Revest-Saint-Martin",
+    "latitude": 44.033333,
+    "longitude": 5.816667
+  },
+  {
+    "id": 2083,
+    "name": "Sainte-Croix-a-Lauze",
+    "latitude": 43.916667,
+    "longitude": 5.616667
+  },
+  {
+    "id": 2084,
+    "name": "Saint-Etienne-les-Orgues",
+    "latitude": 44.05,
+    "longitude": 5.783333
+  },
+  {
+    "id": 2085,
+    "name": "Sainte-Tulle",
+    "latitude": 43.783333,
+    "longitude": 5.766667
+  },
+  {
+    "id": 2086,
+    "name": "Saint-Geniez",
+    "latitude": 44.25,
+    "longitude": 6.05
+  },
+  {
+    "id": 2087,
+    "name": "Saint-Maime",
+    "latitude": 43.9,
+    "longitude": 5.8
+  },
+  {
+    "id": 2088,
+    "name": "Saint-Martin-les-Eaux",
+    "latitude": 43.883333,
+    "longitude": 5.75
+  },
+  {
+    "id": 2089,
+    "name": "Saint-Martin-les-Seyne",
+    "latitude": "44.3833",
+    "longitude": "6.25"
+  },
+  {
+    "id": 2090,
+    "name": "Saint-Michel-l'Observatoire",
+    "latitude": 43.916667,
+    "longitude": 5.716667
+  },
+  {
+    "id": 2091,
+    "name": "Saint-Paul-sur-Ubaye",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2092,
+    "name": "Saint-Pons",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2093,
+    "name": "Saint-Vincent-les-Forts",
+    "latitude": 44.45,
+    "longitude": 6.383333
+  },
+  {
+    "id": 2094,
+    "name": "Saint-Vincent-sur-Jabron",
+    "latitude": 44.166667,
+    "longitude": 5.733333
+  },
+  {
+    "id": 2095,
+    "name": "Saumane",
+    "latitude": 44.083333,
+    "longitude": 5.683333
+  },
+  {
+    "id": 2096,
+    "name": "Selonnet",
+    "latitude": 44.366667,
+    "longitude": 6.3
+  },
+  {
+    "id": 2097,
+    "name": "Seyne",
+    "latitude": 44.35,
+    "longitude": 6.35
+  },
+  {
+    "id": 2098,
+    "name": "Sigonce",
+    "latitude": 44,
+    "longitude": 5.833333
+  },
+  {
+    "id": 2099,
+    "name": "Sigoyer",
+    "latitude": 44.316667,
+    "longitude": 5.95
+  },
+  {
+    "id": 2100,
+    "name": "Simiane-la-Rotonde",
+    "latitude": 43.983333,
+    "longitude": 5.566667
+  },
+  {
+    "id": 2101,
+    "name": "Sisteron",
+    "latitude": 44.2,
+    "longitude": 5.933333
+  },
+  {
+    "id": 2102,
+    "name": "Theze",
+    "latitude": 44.316667,
+    "longitude": 5.916667
+  },
+  {
+    "id": 2103,
+    "name": "Turriers",
+    "latitude": 44.4,
+    "longitude": 6.166667
+  },
+  {
+    "id": 2104,
+    "name": "Uvernet-Fours",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": 2105,
+    "name": "Vacheres",
+    "latitude": 43.933333,
+    "longitude": 5.633333
+  },
+  {
+    "id": 2106,
+    "name": "Valavoire",
+    "latitude": 44.266667,
+    "longitude": 6.083333
+  },
+  {
+    "id": 2107,
+    "name": "Valbelle",
+    "latitude": 44.15,
+    "longitude": 5.883333
+  },
+  {
+    "id": 2108,
+    "name": "Valernes",
+    "latitude": 44.266667,
+    "longitude": 5.966667
+  },
+  {
+    "id": 2109,
+    "name": "Vaumeilh",
+    "latitude": 44.283333,
+    "longitude": 5.95
+  },
+  {
+    "id": 2110,
+    "name": "Venterol",
+    "latitude": 44.45,
+    "longitude": 6.1
+  },
+  {
+    "id": 2111,
+    "name": "Verdaches",
+    "latitude": 44.266667,
+    "longitude": 6.333333
+  },
+  {
+    "id": 2112,
+    "name": "Villemus",
+    "latitude": 43.866667,
+    "longitude": 5.7
+  },
+  {
+    "id": 2113,
+    "name": "Villeneuve",
+    "latitude": 43.9,
+    "longitude": 5.866667
+  },
+  {
+    "id": 2114,
+    "name": "Volx",
+    "latitude": 43.883333,
+    "longitude": 5.85
+  }
+]

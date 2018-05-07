@@ -1,9 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using Isen.DotNet.Library.Models.Implementation;
 using Isen.DotNet.Library.Repositories.Interfaces;
 using Microsoft.Extensions.Logging;
+
 
 namespace Isen.DotNet.Library.Data
 {
@@ -39,6 +41,13 @@ namespace Isen.DotNet.Library.Data
             _addressRepository = addressRepository;
             _categoryRepository = categoryRepository;
             _departmentRepository = departmentRepository;
+        }
+
+        public void LoadJsonFile(){
+            string varjson = File.ReadAllText("./json/communes/var.json");
+            //List<City> items = JsonConvert.DeserializeObject<List<Item>>(varjson);
+            Console.WriteLine("--- Contents of file.txt: ---");
+            Console.WriteLine(varjson);
         }
 
         public void DropDatabase()
