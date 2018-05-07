@@ -55,7 +55,7 @@
                     p => p.AddressId,
                     new SelectList(
                         _addressRepository.GetAll(),
-                        "Id", 
+                        "Id",
                         "Name"),
                     "<Sélectionnez une adresse>",
                     new { @class = "form-control" })

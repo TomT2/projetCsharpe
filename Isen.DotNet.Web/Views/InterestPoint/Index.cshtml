@@ -37,7 +37,7 @@
                 <td>@interestpoint.Category?.Name</td>
                 <!--<td>@interestpoint.Address?.Name @interestpoint.Address?.City?.Name @interestpoint.Address?.PostalCode / @interestpoint.Address?.City?.Department?.Name </td>
                 -->
-                <td>@interestpoint.buildAddress()</td>
+                <td>@interestpoint.Address?.BuildAddress()</td>
                 <td>
                    <a class="btn btn-default" 
                         asp-controller="InterestPoint" 

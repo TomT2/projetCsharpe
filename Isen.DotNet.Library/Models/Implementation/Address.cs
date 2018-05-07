@@ -14,9 +14,7 @@ namespace Isen.DotNet.Library.Models.Implementation
         public List<InterestPoint> InterestPointCollection { get;set; }
         public int? InterestPointCount => InterestPointCollection?.Count;
 
-
-
-        public string buildAddress(){
+        public string BuildAddress(){
             return this.Name + " " + this.PostalCode.ToString() + " " +this.City?.Department?.Name;
         }
 
@@ -28,6 +26,7 @@ namespace Isen.DotNet.Library.Models.Implementation
             response.latitude = Latitude;
             response.longitude = Longitude;
             response.interestPointCount = InterestPointCount;
+            response.buildaddress = BuildAddress();
             return response;
         }
     }

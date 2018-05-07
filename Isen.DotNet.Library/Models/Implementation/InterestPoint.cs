@@ -12,10 +12,6 @@ namespace Isen.DotNet.Library.Models.Implementation
         public Address Address { get;set; }
         public int? AddressId { get;set; }
 
-        public string buildAddress(){
-            return this.Address?.Name + " " + this.Address?.City?.Name + " " + this.Address?.PostalCode.ToString() + " " + this.Address?.City?.Department?.Name;
-        }
-
         public override dynamic ToDynamic()
         {
             var response = base.ToDynamic();
