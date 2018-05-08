@@ -199,11 +199,18 @@ namespace Isen.DotNet.Library.Data
             var interestPoints = new List<InterestPoint>();
             string poi_json = File.ReadAllText("../Isen.DotNet.Library/data/json/points-of-interest.json");
             interestPoints = JsonConvert.DeserializeObject<List<InterestPoint>>(poi_json);
+
+            interestPoints[0].Category = _categoryRepository.Single("Prison");
+            interestPoints[1].Category = _categoryRepository.Single("Parc");
+            
+            interestPoints[0].Address.City = _cityRepository.Single("Saint-Cannat");
+            interestPoints[0].Address.City = _cityRepository.Single("Arles");
+            /* 
             foreach(InterestPoint poi in interestPoints)
             {
                 poi.Category = _categoryRepository.Single("Prison");
                 poi.Address.City = _cityRepository.Single("Aspremont");
-            }
+            }*/
 /* 
             var interestPoints = new List<InterestPoint>
             {

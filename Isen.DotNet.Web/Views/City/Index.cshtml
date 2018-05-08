@@ -16,10 +16,9 @@
                 <th>#</th>
                 <th>Nom</th>
                 <th>Département</th>
+                <th>Nombre de POI</th>
                 <th>Latitude</th>
                 <th>Longitude</th>
-                <th>Nombre d'adresses</th>
-
                 <th>Population</th>
                 <th></th>
             </tr>
@@ -31,9 +30,9 @@
                 <td>@city.Id</td>
                 <td>@city.Name</td>
                 <td>@city.Department?.Number</td>
+                <td>@city.AddressCount</td>
                 <td>@city.Latitude</td>
                 <td>@city.Longitude</td>
-                <td>@city.AddressCount</td>
                 <td>@city.PersonCount</td>
             </tr>
             }

@@ -8,5 +8,15 @@
             "latitude": 41.23,
             "longitude": 32.34
         }
+    },
+    {
+        "name": "Carrefour",
+        "description": "achaaat !!",
+        "address":{
+            "name": "23 Chemin du pigeon",
+            "postalcode": "13200",
+            "latitude": 32.4,
+            "longitude": 12.7
+        }
     }
 ]

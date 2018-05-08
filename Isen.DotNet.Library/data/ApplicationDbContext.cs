@@ -51,6 +51,7 @@ namespace Isen.DotNet.Library.Data
                 .OnDelete(DeleteBehavior.SetNull);
 
             //Address
+            
             builder.Entity<Address>()
                 .ToTable("Address");
 
@@ -58,7 +59,7 @@ namespace Isen.DotNet.Library.Data
                 .HasOne(a => a.City)
                 .WithMany(c => c.AddressCollection) 
                 .HasForeignKey(a => a.CityId);
-
+ 
 
             //Category
             builder.Entity<Category>()
@@ -76,7 +77,12 @@ namespace Isen.DotNet.Library.Data
                 .WithMany(c => c.InterestPointCollection) 
                 .HasForeignKey(i => i.CategoryId);
             
+            builder.Entity<InterestPoint>()
+                .HasOne(i => i.Address)
+                .WithOne(a => a.InterestPoint)
+                .HasForeignKey<Address>(a => a.InterestPointId);
 
+                
             //Person
             builder.Entity<Person>()
                 .ToTable("Person")
