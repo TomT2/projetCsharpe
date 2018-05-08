@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Colisée",
+        "description": "Maximus Maximus !!",
+        "address":{
+            "name": "71 Chemin de la boue",
+            "postalcode": "83200",
+            "latitude": 41.23,
+            "longitude": 32.34
+        }
+    }
+]

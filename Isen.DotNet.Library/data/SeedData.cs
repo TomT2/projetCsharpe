@@ -196,6 +196,15 @@ namespace Isen.DotNet.Library.Data
             if (_interestPointRepository.GetAll().Any()) return;
             _logger.LogWarning("Adding interestPoints");
 
+            var interestPoints = new List<InterestPoint>();
+            string poi_json = File.ReadAllText("../Isen.DotNet.Library/data/json/points-of-interest.json");
+            interestPoints = JsonConvert.DeserializeObject<List<InterestPoint>>(poi_json);
+            foreach(InterestPoint poi in interestPoints)
+            {
+                poi.Category = _categoryRepository.Single("Prison");
+                poi.Address.City = _cityRepository.Single("Aspremont");
+            }
+/* 
             var interestPoints = new List<InterestPoint>
             {
                 new InterestPoint 
@@ -212,7 +221,7 @@ namespace Isen.DotNet.Library.Data
                     Category = _categoryRepository.Single("Sport"),
                     Address = _addressRepository.Single("Rue de la Guerre")
                 },
-            };
+            };*/
             _interestPointRepository.UpdateRange(interestPoints);
             _interestPointRepository.Save();
 

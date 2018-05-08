@@ -9,10 +9,7 @@
         <h1>Adresses <small>/address/index</small></h1>
     </div>
 </div>
-<div class="row">
-    <a class="btn btn-default" 
-        asp-controller="Address" asp-action="Detail">Ajouter une adresse...</a>
-</div>
+
 <div class="row">
     <table class="table table-striped">
         <thead>
@@ -23,7 +20,6 @@
                 <th>Longitude</th>
                 <th>Ville</th>
                 <th>Code postal</th>
-                <th>Nombre de POI associé(s)</th>
                 <th></th>
             </tr>
         </thead>
@@ -37,7 +33,6 @@
                 <td>@address.Longitude</td>
                 <td>@address.City?.Name</td>
                 <td>@address.PostalCode</td>
-                <td>@address.InterestPointCount</td>
                 <td>
                     <a class="btn btn-default" asp-controller="Address" asp-action="Detail" asp-route-id="@address.Id">Editer</a>
                     &nbsp;

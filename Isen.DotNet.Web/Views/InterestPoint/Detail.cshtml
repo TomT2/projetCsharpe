@@ -3,7 +3,7 @@
 @{
     ViewData["Title"] = "Point d'intérêt (détail)";
 }
-@inject IAddressRepository _addressRepository;
+@inject ICityRepository _cityRepository;
 @inject ICategoryRepository _categoryRepository;
 @model InterestPoint;
 
@@ -46,22 +46,50 @@
                     new { @class = "form-control" })
             </div>
             <br />
-
+             <input type="hidden" 
+                value="@Model?.Address?.Id" asp-for="Address.Id" />
             <div>
-                <label for="AddressId">
-                    Adresse : 
-                </label>
-               @Html.DropDownListFor(
-                    p => p.AddressId,
-                    new SelectList(
-                        _addressRepository.GetAll(),
-                        "Id",
-                        "Name"),
-                    "<Sélectionnez une adresse>",
-                    new { @class = "form-control" })
+                <label for="Address.Name" class="control-label">Nom de l'adresse :</label>
+                <input type="text" class="form-control"
+                    id="Address.Name" placeholder="Nom de l'adresse"
+                    value="@Model?.Address?.Name" asp-for="Address.Name" />
+            </div>
+            <br />
+            <div>
+                <label for="Address.Latitude" class="control-label">Latitude :</label>
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Latitude" placeholder="ex: 45,32"
+                    value="@Model?.Address?.Latitude" asp-for="Address.Latitude" />
             </div>
             <br/>
-
+            <div>
+                <label for="Address.Longitude" class="control-label">Longitude :</label>
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Address.Longitude" placeholder="ex: 3,23"
+                    value="@Model?.Address?.Longitude" asp-for="Address.Longitude" />
+            </div>
+            <br />
+            <div>
+                <label for="Address.CityId">
+                    Ville : 
+                </label>
+               @Html.DropDownListFor(
+                    p => p.Address.CityId,
+                    new SelectList(
+                        _cityRepository.GetAll(), 
+                        "Id", 
+                        "Name"),
+                    "<Sélectionnez une ville>",
+                    new { @class = "form-control" })
+            </div>
+            <br />
+            <div>
+                <label for="Address.PostalCode" class="control-label">Code Postal :</label>
+                <input type="number" class="form-control"
+                    id="Address.PostalCode" placeholder="Code Postal de l'adresse"
+                    value="@Model?.Address?.PostalCode" asp-for="Address.PostalCode" />
+            </div>
+            <br />
             <input type="submit" class="btn btn-primary"
                 value="Valider" />
             <a class="btn btn-default" 

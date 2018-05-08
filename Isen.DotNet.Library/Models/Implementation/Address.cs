@@ -11,11 +11,8 @@ namespace Isen.DotNet.Library.Models.Implementation
         public int PostalCode { get;set; }
         public float Latitude { get;set; }
         public float Longitude { get;set; }
-        public List<InterestPoint> InterestPointCollection { get;set; }
-        public int? InterestPointCount => InterestPointCollection?.Count;
-
         public string BuildAddress(){
-            return this.Name + " " + this.PostalCode.ToString() + " " +this.City?.Department?.Name;
+            return this.Name + " " + this.PostalCode.ToString() + " " +this.City?.Name;
         }
 
         public override dynamic ToDynamic()
@@ -25,7 +22,6 @@ namespace Isen.DotNet.Library.Models.Implementation
             response.postalCode = PostalCode;
             response.latitude = Latitude;
             response.longitude = Longitude;
-            response.interestPointCount = InterestPointCount;
             response.buildaddress = BuildAddress();
             return response;
         }

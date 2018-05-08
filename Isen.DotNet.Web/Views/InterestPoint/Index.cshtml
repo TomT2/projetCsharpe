@@ -24,6 +24,8 @@
                 <th>Description</th>
                 <th>Categorie</th>
                 <th>Adresse</th>
+                <th>Latitude</th>
+                <th>Longitude</th>
                 <th></th>
             </tr>
         </thead>
@@ -38,6 +40,8 @@
                 <!--<td>@interestpoint.Address?.Name @interestpoint.Address?.City?.Name @interestpoint.Address?.PostalCode / @interestpoint.Address?.City?.Department?.Name </td>
                 -->
                 <td>@interestpoint.Address?.BuildAddress()</td>
+                <td>@interestpoint.Address?.Latitude</td>
+                <td>@interestpoint.Address?.Longitude</td>
                 <td>
                    <a class="btn btn-default" 
                         asp-controller="InterestPoint" 
