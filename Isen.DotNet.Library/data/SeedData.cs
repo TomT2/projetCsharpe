@@ -204,31 +204,8 @@ namespace Isen.DotNet.Library.Data
             interestPoints[1].Category = _categoryRepository.Single("Parc");
             
             interestPoints[0].Address.City = _cityRepository.Single("Saint-Cannat");
-            interestPoints[0].Address.City = _cityRepository.Single("Arles");
-            /* 
-            foreach(InterestPoint poi in interestPoints)
-            {
-                poi.Category = _categoryRepository.Single("Prison");
-                poi.Address.City = _cityRepository.Single("Aspremont");
-            }*/
-/* 
-            var interestPoints = new List<InterestPoint>
-            {
-                new InterestPoint 
-                { 
-                    Name = "Tour eiffel",
-                    Description = "C'est haut",
-                    Category = _categoryRepository.Single("Art"),
-                    Address = _addressRepository.Single("Rue de la Paix")
-                },
-                new InterestPoint 
-                { 
-                    Name = "Colisée",
-                    Description = "C'est barbare",
-                    Category = _categoryRepository.Single("Sport"),
-                    Address = _addressRepository.Single("Rue de la Guerre")
-                },
-            };*/
+            interestPoints[1].Address.City = _cityRepository.Single("Arles");
+
             _interestPointRepository.UpdateRange(interestPoints);
             _interestPointRepository.Save();
 
