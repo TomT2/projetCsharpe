@@ -1,6 +1,6 @@
 [
     {
-        "name": "Hôtel",
+        "name": "Hébergement",
         "description": "Evitez de dormir à la pleine étoile"
     },
     {
@@ -8,11 +8,11 @@
         "description": "Pour les goinfres"
     },
     {
-        "name": "Camp d'entrainement",
-        "description": "Vous êtes ici pour suer"
+        "name": "Shopping",
+        "description": "Sortez votre appareil photo !"
     },
     {
-        "name": "Prison",
+        "name": "Loisir",
         "description": "Evadez-vous"
     },
     {

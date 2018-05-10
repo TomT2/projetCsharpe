@@ -11,7 +11,6 @@ namespace Isen.DotNet.Library.Data
         public DbSet<Address> AddressCollection { get;set; }
         public DbSet<Category> CategoryCollection { get;set; }
         public DbSet<InterestPoint> InterestPointCollection { get;set; }
-        public DbSet<Person> PersonCollection { get;set; }
 
         public ApplicationDbContext(
             DbContextOptions<ApplicationDbContext> options) 
@@ -33,11 +32,6 @@ namespace Isen.DotNet.Library.Data
             //City
             builder.Entity<City>()
                 .ToTable("City");
-
-            builder.Entity<City>()
-                .HasMany(c => c.PersonCollection)
-                .WithOne(p => p.City)
-                .OnDelete(DeleteBehavior.SetNull);
 
             builder.Entity<City>()
                 .HasOne(c => c.Department)
@@ -87,13 +81,6 @@ namespace Isen.DotNet.Library.Data
                 .WithOne(a => a.InterestPoint)
                 .HasForeignKey<Address>(a => a.InterestPointId)
                 .OnDelete(DeleteBehavior.Cascade);
-                
-            //Person
-            builder.Entity<Person>()
-                .ToTable("Person")
-                .HasOne(p => p.City)
-                .WithMany(c => c.PersonCollection)
-                .HasForeignKey(p => p.CityId);
                 
         }
     }

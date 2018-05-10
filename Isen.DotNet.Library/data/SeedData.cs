@@ -14,7 +14,6 @@ namespace Isen.DotNet.Library.Data
         private readonly ApplicationDbContext _context;
         private readonly ILogger<SeedData> _logger;
         private readonly ICityRepository _cityRepository;
-        private readonly IPersonRepository _personRepository;
         private readonly IInterestPointRepository _interestPointRepository;
         private readonly IAddressRepository _addressRepository;
         private readonly ICategoryRepository _categoryRepository;
@@ -27,7 +26,6 @@ namespace Isen.DotNet.Library.Data
             ApplicationDbContext context,
             ILogger<SeedData> logger,
             ICityRepository cityRepository,
-            IPersonRepository personRepository,
             IInterestPointRepository interestPointRepository,
             IAddressRepository addressRepository,
             ICategoryRepository categoryRepository,
@@ -36,7 +34,6 @@ namespace Isen.DotNet.Library.Data
             _context = context;
             _logger = logger;
             _cityRepository = cityRepository;
-            _personRepository = personRepository;
             _interestPointRepository = interestPointRepository;
             _addressRepository = addressRepository;
             _categoryRepository = categoryRepository;
@@ -139,7 +136,6 @@ namespace Isen.DotNet.Library.Data
                 city.Department = _departmentRepository.Single("Vaucluse");
             }
 
-
             cities.AddRange(cities_var);
             cities.AddRange(cities_ap);
             cities.AddRange(cities_am);
@@ -152,28 +148,6 @@ namespace Isen.DotNet.Library.Data
             _cityRepository.Save();
 
             _logger.LogWarning("Added cities");
-        }
-
-        public void AddAddresses()
-        {
-            if (_addressRepository.GetAll().Any()) return;
-            _logger.LogWarning("Adding addresses");
-
-            var addresses = new List<Address>
-            {
-                new Address 
-                { 
-                    Name = "Rue de la Paix", 
-                    Latitude = 1.32F, 
-                    Longitude = 1.234F,
-                    City = _cityRepository.Single("Carqueiranne"),
-                    PostalCode = 83200
-                }
-            };
-            _addressRepository.UpdateRange(addresses);
-            _addressRepository.Save();
-
-            _logger.LogWarning("Added addresses");
         }
 
         public void AddCategories()
@@ -200,8 +174,8 @@ namespace Isen.DotNet.Library.Data
             string poi_json = File.ReadAllText("../Isen.DotNet.Library/data/json/points-of-interest.json");
             interestPoints = JsonConvert.DeserializeObject<List<InterestPoint>>(poi_json);
 
-            interestPoints[0].Category = _categoryRepository.Single("Prison");
-            interestPoints[1].Category = _categoryRepository.Single("Parc");
+            interestPoints[0].Category = _categoryRepository.Single("Loisir");
+            interestPoints[1].Category = _categoryRepository.Single("Shopping");
             
             interestPoints[0].Address.City = _cityRepository.Single("Saint-Cannat");
             interestPoints[1].Address.City = _cityRepository.Single("Arles");
@@ -212,39 +186,5 @@ namespace Isen.DotNet.Library.Data
             _logger.LogWarning("Added interestPoints");
         }
 
-        public void AddPersons()
-        {
-            if (_personRepository.GetAll().Any()) return;
-            _logger.LogWarning("Adding persons");
-
-            var persons = new List<Person>
-            {
-                new Person
-                {
-                    FirstName = "Calendau",
-                    LastName = "GUQUET",
-                    BirthDate = new DateTime(1980,2,28),
-                    City = _cityRepository.Single("Toulon")
-                },
-                new Person
-                {
-                    FirstName = "John",
-                    LastName = "APPLESEED",
-                    BirthDate = new DateTime(1971,12,14),
-                    City = _cityRepository.Single("Marseille")
-                },
-                new Person
-                {
-                    FirstName = "Steve",
-                    LastName = "JOBS",
-                    BirthDate = new DateTime(1949,2,24),
-                    City = _cityRepository.Single("La Garde")
-                }
-            };
-            _personRepository.UpdateRange(persons);
-            _personRepository.Save();
-
-            _logger.LogWarning("Added persons");
-        }
     }
 }
