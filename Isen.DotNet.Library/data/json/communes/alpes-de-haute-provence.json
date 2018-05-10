@@ -45,7 +45,7 @@
     "longitude": 6.116667
   },
   {
-    "name": "Barr�me",
+    "name": "Barreme",
     "latitude": 43.95,
     "longitude": 6.366667
   },
@@ -90,7 +90,7 @@
     "longitude": 6.516667
   },
   {
-    "name": "Castellet-l�s-Sausses",
+    "name": "Castellet-les-Sausses",
     "latitude": 43.983333,
     "longitude": 6.766667
   },
@@ -100,17 +100,17 @@
     "longitude": 6.166667
   },
   {
-    "name": "Ch�teau-Arnoux-Saint-Auban",
+    "name": "Chateau-Arnoux-Saint-Auban",
     "latitude": "44,09",
     "longitude": "6,01"
   },
   {
-    "name": "Ch�teauneuf-Val-Saint-Donat",
+    "name": "Chateauneuf-Val-Saint-Donat",
     "latitude": 44.1,
     "longitude": 5.95
   },
   {
-    "name": "Ch�teauredon",
+    "name": "Chateauredon",
     "latitude": 44.016667,
     "longitude": 6.216667
   },
@@ -175,14 +175,14 @@
     "longitude": 5.916667
   },
   {
-    "name": "Gr�oux-les-Bains",
+    "name": "Greoux-les-Bains",
     "latitude": 43.75,
     "longitude": 5.883333
   },
   {
     "name": "Hautes-Duyes",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.1806,
+    "longitude": 6.1578
   },
   {
     "name": "La Brillanne",
@@ -206,23 +206,23 @@
   },
   {
     "name": "La Mure-Argens",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.9833,
+    "longitude": 6.5167
   },
   {
     "name": "La Palud-sur-Verdon",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7833,
+    "longitude": 6.3333
   },
   {
     "name": "La Robine-sur-Galabre",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.1667,
+    "longitude": 6.2167
   },
   {
     "name": "La Rochette",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.9167,
+    "longitude": 6.8833
   },
   {
     "name": "Le Brusquet",
@@ -241,8 +241,8 @@
   },
   {
     "name": "Le Chaffaut-Saint-Jurson",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.0333,
+    "longitude": 6.15
   },
   {
     "name": "Le Fugeret",
@@ -255,7 +255,7 @@
     "longitude": 6.033333
   },
   {
-    "name": "Les M�es",
+    "name": "Les Mees",
     "latitude": 44.033333,
     "longitude": 5.983333
   },
@@ -285,12 +285,12 @@
     "longitude": 6.283333
   },
   {
-    "name": "M�ailles",
+    "name": "Meailles",
     "latitude": 44.033333,
     "longitude": 6.633333
   },
   {
-    "name": "M�zel",
+    "name": "Mezel",
     "latitude": 43.983333,
     "longitude": 6.2
   },
@@ -301,8 +301,8 @@
   },
   {
     "name": "Montagnac-Montpezat",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7833,
+    "longitude": 6.1
   },
   {
     "name": "Montfort",
@@ -340,9 +340,9 @@
     "longitude": 5.933333
   },
   {
-    "name": "Prads-Haute-Bl�one",
-    "latitude": "",
-    "longitude": ""
+    "name": "Prads-Haute-Bleone",
+    "latitude": 44.2167,
+    "longitude": 6.45
   },
   {
     "name": "Puimichel",
@@ -375,19 +375,19 @@
     "longitude": 6.133333
   },
   {
-    "name": "Saint-Andr�-les-Alpes",
+    "name": "Saint-Andre-les-Alpes",
     "latitude": 43.966667,
     "longitude": 6.5
   },
   {
-    "name": "Saint-Beno�t",
+    "name": "Saint-Benoit",
     "latitude": 43.966667,
     "longitude": 6.733333
   },
   {
     "name": "Sainte-Croix-du-Verdon",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.75,
+    "longitude": 6.15
   },
   {
     "name": "Saint-Jacques",
@@ -425,14 +425,14 @@
     "longitude": 6.4
   },
   {
-    "name": "Saint-Martin-de-Br�mes",
+    "name": "Saint-Martin-de-Bromes",
     "latitude": 43.766667,
     "longitude": 5.95
   },
   {
     "name": "Saint-Pierre",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.9167,
+    "longitude": 6.9333
   },
   {
     "name": "Salignac",
@@ -486,8 +486,8 @@
   },
   {
     "name": "Val-de-Chalvagne",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.9167,
+    "longitude": 6.8
   },
   {
     "name": "Valensole",
@@ -555,17 +555,17 @@
     "longitude": 5.9
   },
   {
-    "name": "C�reste",
+    "name": "Cereste",
     "latitude": 43.85,
     "longitude": 5.583333
   },
   {
-    "name": "Ch�teaufort",
+    "name": "Chateaufort",
     "latitude": 44.266667,
     "longitude": 6.016667
   },
   {
-    "name": "Ch�teauneuf-Miravail",
+    "name": "Chateauneuf-Miravail",
     "latitude": 44.15,
     "longitude": 5.716667
   },
@@ -580,7 +580,7 @@
     "longitude": 5.95
   },
   {
-    "name": "Corbi�res",
+    "name": "Corbieres",
     "latitude": 43.766667,
     "longitude": 5.75
   },
@@ -645,14 +645,14 @@
     "longitude": 6.733333
   },
   {
-    "name": "La Br�ole",
+    "name": "La Breole",
     "latitude": 44.45,
     "longitude": 6.3
   },
   {
-    "name": "La Condamine-Ch�telard",
-    "latitude": "",
-    "longitude": ""
+    "name": "La Condamine-Chatelard",
+    "latitude": 44.45,
+    "longitude": 6.75
   },
   {
     "name": "La Motte-du-Caire",
@@ -710,9 +710,9 @@
     "longitude": 5.733333
   },
   {
-    "name": "Mallefougasse-Aug�s",
-    "latitude": "",
-    "longitude": ""
+    "name": "Mallefougasse-Auges",
+    "latitude": 44.0667,
+    "longitude": 5.9
   },
   {
     "name": "Mane",
@@ -730,9 +730,9 @@
     "longitude": 5.983333
   },
   {
-    "name": "M�olans-Revel",
-    "latitude": "",
-    "longitude": ""
+    "name": "Meolans-Revel",
+    "latitude": 44.4,
+    "longitude": 6.5
   },
   {
     "name": "Meyronnes",
@@ -761,13 +761,13 @@
   },
   {
     "name": "Montlaux",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.049,
+    "longitude": 5.844
   },
   {
     "name": "Montsalier",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.0167,
+    "longitude": 5.6
   },
   {
     "name": "Nibles",
@@ -795,7 +795,7 @@
     "longitude": 5.6
   },
   {
-    "name": "Pi�gut",
+    "name": "Piegut",
     "latitude": 44.45,
     "longitude": 6.116667
   },
@@ -840,7 +840,7 @@
     "longitude": 5.816667
   },
   {
-    "name": "Sainte-Croix-�-Lauze",
+    "name": "Sainte-Croix-a-Lauze",
     "latitude": 43.916667,
     "longitude": 5.616667
   },
@@ -870,9 +870,9 @@
     "longitude": 5.75
   },
   {
-    "name": "Saint-Martin-l�s-Seyne",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Martin-les-Seyne",
+    "latitude": 44.3833,
+    "longitude": 6.25
   },
   {
     "name": "Saint-Michel-l'Observatoire",
@@ -881,13 +881,13 @@
   },
   {
     "name": "Saint-Paul-sur-Ubaye",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.5167,
+    "longitude": 6.75
   },
   {
     "name": "Saint-Pons",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.4,
+    "longitude": 6.6333
   },
   {
     "name": "Saint-Vincent-les-Forts",
@@ -935,7 +935,7 @@
     "longitude": 5.933333
   },
   {
-    "name": "Th�ze",
+    "name": "Theze",
     "latitude": 44.316667,
     "longitude": 5.916667
   },
@@ -946,11 +946,11 @@
   },
   {
     "name": "Uvernet-Fours",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.3667,
+    "longitude": 6.6333
   },
   {
-    "name": "Vach�res",
+    "name": "Vacheres",
     "latitude": 43.933333,
     "longitude": 5.633333
   },

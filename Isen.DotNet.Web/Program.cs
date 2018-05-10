@@ -32,10 +32,8 @@ namespace Isen.DotNet.Web
                 seed.CreateDatabase();
                 seed.AddDepartments();
                 seed.AddCities();
-                //seed.AddAddresses();
                 seed.AddCategories();
                 seed.AddInterestPoints();
-                //seed.AddPersons();
                 
             }
 

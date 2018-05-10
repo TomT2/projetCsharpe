@@ -1,43 +1,8 @@
 [
   {
     "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "name": "Marseille",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.3,
+    "longitude": 5.4
   },
   {
     "name": "Aubagne",
@@ -46,8 +11,8 @@
   },
   {
     "name": "Carnoux-en-Provence",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.2564,
+    "longitude": 5.5644
   },
   {
     "name": "Cassis",
@@ -65,7 +30,7 @@
     "longitude": 5.7
   },
   {
-    "name": "G�menos",
+    "name": "Gemenos",
     "latitude": 43.3,
     "longitude": 5.633333
   },
@@ -80,7 +45,7 @@
     "longitude": 5.516667
   },
   {
-    "name": "Roquefort-la-B�doule",
+    "name": "Roquefort-la-Bedoule",
     "latitude": 43.25,
     "longitude": 5.616667
   },
@@ -95,7 +60,7 @@
     "longitude": 5.633333
   },
   {
-    "name": "Belcod�ne",
+    "name": "Belcodene",
     "latitude": 43.416667,
     "longitude": 5.583333
   },
@@ -105,7 +70,7 @@
     "longitude": 5.416667
   },
   {
-    "name": "Cabri�s",
+    "name": "Cabries",
     "latitude": 43.433333,
     "longitude": 5.383333
   },
@@ -120,7 +85,7 @@
     "longitude": 5.466667
   },
   {
-    "name": "Gr�asque",
+    "name": "Greasque",
     "latitude": 43.433333,
     "longitude": 5.55
   },
@@ -165,7 +130,7 @@
     "longitude": 5.533333
   },
   {
-    "name": "Sept�mes-les-Vallons",
+    "name": "Septemes-les-Vallons",
     "latitude": 43.4,
     "longitude": 5.366667
   },
@@ -205,7 +170,7 @@
     "longitude": 5.183333
   },
   {
-    "name": "Lan�on-Provence",
+    "name": "Lancon-Provence",
     "latitude": 43.583333,
     "longitude": 5.133333
   },
@@ -240,12 +205,12 @@
     "longitude": 5.15
   },
   {
-    "name": "Ch�teauneuf-les-Martigues",
+    "name": "Chateauneuf-les-Martigues",
     "latitude": 43.383333,
     "longitude": 5.166667
   },
   {
-    "name": "Ensu�s-la-Redonne",
+    "name": "Ensues-la-Redonne",
     "latitude": 43.35,
     "longitude": 5.2
   },
@@ -325,7 +290,7 @@
     "longitude": 5.55
   },
   {
-    "name": "Ch�teauneuf-le-Rouge",
+    "name": "Chateauneuf-le-Rouge",
     "latitude": 43.483333,
     "longitude": 5.566667
   },
@@ -340,7 +305,7 @@
     "longitude": 5.633333
   },
   {
-    "name": "Le Puy-Sainte-R�parade",
+    "name": "Le Puy-Sainte-Reparade",
     "latitude": 43.666667,
     "longitude": 5.433333
   },
@@ -371,8 +336,8 @@
   },
   {
     "name": "Rousset",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.4833,
+    "longitude": 5.6167
   },
   {
     "name": "Saint-Antonin-sur-Bayon",
@@ -385,7 +350,7 @@
     "longitude": 5.516667
   },
   {
-    "name": "Saint-Paul-l�s-Durance",
+    "name": "Saint-Paul-les-Durance",
     "latitude": 43.683333,
     "longitude": 5.7
   },
@@ -435,17 +400,17 @@
     "longitude": 5.25
   },
   {
-    "name": "Ch�teaurenard",
+    "name": "Chateaurenard",
     "latitude": 43.883333,
     "longitude": 4.85
   },
   {
-    "name": "Eygali�res",
+    "name": "Eygalieres",
     "latitude": 43.75,
     "longitude": 4.95
   },
   {
-    "name": "Eygui�res",
+    "name": "Eyguieres",
     "latitude": 43.7,
     "longitude": 5.033333
   },
@@ -475,7 +440,7 @@
     "longitude": 5.266667
   },
   {
-    "name": "La Roque-d'Anth�ron",
+    "name": "La Roque-d'Antheron",
     "latitude": 43.716667,
     "longitude": 5.316667
   },
@@ -496,16 +461,16 @@
   },
   {
     "name": "Maussane-les-Alpilles",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7167,
+    "longitude": 4.8
   },
   {
-    "name": "Moll�g�s",
+    "name": "Molleges",
     "latitude": 43.8,
     "longitude": 4.95
   },
   {
-    "name": "Mouri�s",
+    "name": "Mouries",
     "latitude": 43.683333,
     "longitude": 4.866667
   },
@@ -525,7 +490,7 @@
     "longitude": 4.783333
   },
   {
-    "name": "P�lissanne",
+    "name": "Pelissanne",
     "latitude": 43.633333,
     "longitude": 5.15
   },
@@ -555,27 +520,27 @@
     "longitude": 5.3
   },
   {
-    "name": "Saint-Est�ve-Janson",
+    "name": "Saint-Esteve-Janson",
     "latitude": 43.683333,
     "longitude": 5.383333
   },
   {
-    "name": "Saint-R�my-de-Provence",
+    "name": "Saint-Remy-de-Provence",
     "latitude": 43.783333,
     "longitude": 4.833333
   },
   {
-    "name": "S�nas",
+    "name": "Senas",
     "latitude": 43.75,
     "longitude": 5.083333
   },
   {
-    "name": "Vern�gues",
+    "name": "Vernegues",
     "latitude": 43.683333,
     "longitude": 5.166667
   },
   {
-    "name": "Verqui�res",
+    "name": "Verquieres",
     "latitude": 43.833333,
     "longitude": 4.916667
   },
@@ -605,7 +570,7 @@
     "longitude": 5
   },
   {
-    "name": "Port-Saint-Louis-du-Rh�ne",
+    "name": "Port-Saint-Louis-du-Rhone",
     "latitude": 43.383333,
     "longitude": 4.8
   },
@@ -615,7 +580,7 @@
     "longitude": 4.425
   },
   {
-    "name": "Saint-Etienne-du-Gr�s",
+    "name": "Saint-Etienne-du-Gres",
     "latitude": 43.783333,
     "longitude": 4.716667
   },
@@ -625,9 +590,9 @@
     "longitude": 4.816667
   },
   {
-    "name": "Saint-Pierre-de-M�zoargues",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Pierre-de-Mezoargues",
+    "latitude": 43.8667,
+    "longitude": 4.65
   },
   {
     "name": "Tarascon",
