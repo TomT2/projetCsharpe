@@ -1,6 +1,6 @@
 [
   {
-    "name": "Agni�res-en-D�voluy",
+    "name": "Agnieres-en-Devoluy",
     "latitude": 44.7,
     "longitude": 5.883333
   },
@@ -11,16 +11,16 @@
   },
   {
     "name": "Aspremont",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7833,
+    "longitude": 7.25
   },
   {
-    "name": "Aspres-sur-Bu�ch",
+    "name": "Aspres-sur-Buech",
     "latitude": 44.516667,
     "longitude": 5.75
   },
   {
-    "name": "Avan�on",
+    "name": "Avancon",
     "latitude": 44.533333,
     "longitude": 6.183333
   },
@@ -30,12 +30,12 @@
     "longitude": 5.916667
   },
   {
-    "name": "Barret-sur-M�ouge",
+    "name": "Barret-sur-Meouge",
     "latitude": 44.266667,
     "longitude": 5.733333
   },
   {
-    "name": "Br�ziers",
+    "name": "Breziers",
     "latitude": 44.433333,
     "longitude": 6.2
   },
@@ -55,19 +55,19 @@
     "longitude": 5.65
   },
   {
-    "name": "Ch�teauneuf-de-Chabre",
+    "name": "Chateauneuf-de-Chabre",
     "latitude": 44.283333,
     "longitude": 5.816667
   },
   {
-    "name": "Ch�teauneuf-d'Oze",
+    "name": "Chateauneuf-d'Oze",
     "latitude": 44.516667,
     "longitude": 5.866667
   },
   {
-    "name": "Ch�teauvieux",
-    "latitude": "",
-    "longitude": ""
+    "name": "Chateauvieux",
+    "latitude": 43.7833,
+    "longitude": 6.5833
   },
   {
     "name": "Chorges",
@@ -81,8 +81,8 @@
   },
   {
     "name": "Esparron",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.45,
+    "longitude": 5.9
   },
   {
     "name": "Espinasses",
@@ -91,8 +91,8 @@
   },
   {
     "name": "Etoile-Saint-Cyrice",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.3167,
+    "longitude": 5.6333
   },
   {
     "name": "Eyguians",
@@ -120,17 +120,17 @@
     "longitude": 6.116667
   },
   {
-    "name": "La B�tie-Montsal�on",
+    "name": "La Batie-Montsaleon",
     "latitude": 44.45,
     "longitude": 5.75
   },
   {
-    "name": "La B�tie-Neuve",
+    "name": "La Batie-Neuve",
     "latitude": 44.566667,
     "longitude": 6.2
   },
   {
-    "name": "La B�tie-Vieille",
+    "name": "La Batie-Vieille",
     "latitude": 44.55,
     "longitude": 6.166667
   },
@@ -161,8 +161,8 @@
   },
   {
     "name": "La Haute-Beaume",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.5667,
+    "longitude": 5.6333
   },
   {
     "name": "La Piarre",
@@ -170,12 +170,12 @@
     "longitude": 5.65
   },
   {
-    "name": "Laragne-Mont�glin",
-    "latitude": "44,32",
-    "longitude": "5,82"
+    "name": "Laragne-Monteglin",
+    "latitude": 44.32,
+    "longitude": 5.82
   },
   {
-    "name": "Lardier-et-Valen�a",
+    "name": "Lardier-et-Valenca",
     "latitude": 44.433333,
     "longitude": 5.966667
   },
@@ -210,7 +210,7 @@
     "longitude": 5.616667
   },
   {
-    "name": "Le Po�t",
+    "name": "Le Poet",
     "latitude": 44.283333,
     "longitude": 5.883333
   },
@@ -230,12 +230,12 @@
     "longitude": 5.966667
   },
   {
-    "name": "M�reuil",
+    "name": "Mereuil",
     "latitude": 44.383333,
     "longitude": 5.733333
   },
   {
-    "name": "Mon�tier-Allemont",
+    "name": "Monetier-Allemont",
     "latitude": 44.383333,
     "longitude": 5.933333
   },
@@ -285,9 +285,9 @@
     "longitude": 6.033333
   },
   {
-    "name": "Nossage-et-B�n�vent",
-    "latitude": "",
-    "longitude": ""
+    "name": "Nossage-et-Benevent",
+    "latitude": 44.3158,
+    "longitude": 5.74749
   },
   {
     "name": "Orpierre",
@@ -305,7 +305,7 @@
     "longitude": 6.016667
   },
   {
-    "name": "Pruni�res",
+    "name": "Prunieres",
     "latitude": 44.55,
     "longitude": 6.333333
   },
@@ -346,11 +346,11 @@
   },
   {
     "name": "Rousset",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.4833,
+    "longitude": 6.25
   },
   {
-    "name": "Saint-Andr�-de-Rosans",
+    "name": "Saint-Andre-de-Rosans",
     "latitude": 44.383333,
     "longitude": 5.516667
   },
@@ -361,13 +361,13 @@
   },
   {
     "name": "Saint-Disdier",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.7333,
+    "longitude": 5.9
   },
   {
     "name": "Sainte-Colombe",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.2833,
+    "longitude": 5.6667
   },
   {
     "name": "Sainte-Marie",
@@ -375,7 +375,7 @@
     "longitude": 5.475
   },
   {
-    "name": "Saint-Etienne-en-D�voluy",
+    "name": "Saint-Etienne-en-Devoluy",
     "latitude": 44.7,
     "longitude": 5.933333
   },
@@ -390,7 +390,7 @@
     "longitude": 5.766667
   },
   {
-    "name": "Saint-Julien-en-Beauch�ne",
+    "name": "Saint-Julien-en-Beauchene",
     "latitude": 44.616667,
     "longitude": 5.7
   },
@@ -400,17 +400,17 @@
     "longitude": 5.766667
   },
   {
-    "name": "Saint-Pierre-d'Argen�on",
+    "name": "Saint-Pierre-d'Argencon",
     "latitude": 44.516667,
     "longitude": 5.7
   },
   {
-    "name": "Sal�on",
+    "name": "Saleon",
     "latitude": 44.35,
     "longitude": 5.766667
   },
   {
-    "name": "Sal�rans",
+    "name": "Salerans",
     "latitude": 44.25,
     "longitude": 5.7
   },
@@ -421,8 +421,8 @@
   },
   {
     "name": "Serres",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.4333,
+    "longitude": 5.7167
   },
   {
     "name": "Sigottier",
@@ -445,12 +445,12 @@
     "longitude": 6.05
   },
   {
-    "name": "Th�us",
+    "name": "Theus",
     "latitude": 44.466667,
     "longitude": 6.2
   },
   {
-    "name": "Trescl�oux",
+    "name": "Trescleoux",
     "latitude": 44.35,
     "longitude": 5.7
   },
@@ -480,7 +480,7 @@
     "longitude": 5.933333
   },
   {
-    "name": "Abri�s",
+    "name": "Abries",
     "latitude": 44.783333,
     "longitude": 6.933333
   },
@@ -500,7 +500,7 @@
     "longitude": 6.733333
   },
   {
-    "name": "Aspres-l�s-Corps",
+    "name": "Aspres-les-Corps",
     "latitude": 44.8,
     "longitude": 5.983333
   },
@@ -510,12 +510,12 @@
     "longitude": 6.5
   },
   {
-    "name": "B�n�vent-et-Charbillac",
-    "latitude": "",
-    "longitude": ""
+    "name": "Benevent-et-Charbillac",
+    "latitude": 44.6976,
+    "longitude": 6.0866
   },
   {
-    "name": "Brian�on",
+    "name": "Briancon",
     "latitude": 44.9,
     "longitude": 6.65
   },
@@ -530,7 +530,7 @@
     "longitude": 6.775
   },
   {
-    "name": "Cervi�res",
+    "name": "Cervieres",
     "latitude": 44.866667,
     "longitude": 6.716667
   },
@@ -541,21 +541,21 @@
   },
   {
     "name": "Champcella",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.7167,
+    "longitude": 6.5667
   },
   {
-    "name": "Champol�on",
+    "name": "Champoleon",
     "latitude": 44.733333,
     "longitude": 6.233333
   },
   {
-    "name": "Ch�teauroux-les-Alpes",
+    "name": "Chateauroux-les-Alpes",
     "latitude": 44.616667,
     "longitude": 6.516667
   },
   {
-    "name": "Ch�teau-Ville-Vieille",
+    "name": "Chateau-Ville-Vieille",
     "latitude": 44.766667,
     "longitude": 6.8
   },
@@ -565,14 +565,14 @@
     "longitude": 6.016667
   },
   {
-    "name": "Cr�voux",
+    "name": "Crevoux",
     "latitude": 44.55,
     "longitude": 6.6
   },
   {
     "name": "Crots",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.5338,
+    "longitude": 6.4711
   },
   {
     "name": "Embrun",
@@ -581,8 +581,8 @@
   },
   {
     "name": "Eygliers",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.6774,
+    "longitude": 6.619
   },
   {
     "name": "Forest-Saint-Julien",
@@ -590,9 +590,9 @@
     "longitude": 6.133333
   },
   {
-    "name": "Freissini�res",
-    "latitude": "",
-    "longitude": ""
+    "name": "Freissinieres",
+    "latitude": 44.75,
+    "longitude": 6.5333
   },
   {
     "name": "Guillestre",
@@ -600,9 +600,9 @@
     "longitude": 6.65
   },
   {
-    "name": "La Chapelle-en-Valgaud�mar",
-    "latitude": "",
-    "longitude": ""
+    "name": "La Chapelle-en-Valgaudemar",
+    "latitude": 44.8167,
+    "longitude": 6.2
   },
   {
     "name": "La Fare-en-Champsaur",
@@ -620,7 +620,7 @@
     "longitude": 6.066667
   },
   {
-    "name": "L'Argenti�re-la-Bess�e",
+    "name": "L'Argentiere-la-Bessee",
     "latitude": 44.783333,
     "longitude": 6.55
   },
@@ -631,8 +631,8 @@
   },
   {
     "name": "La Salle les Alpes",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.95,
+    "longitude": 6.5667
   },
   {
     "name": "Laye",
@@ -645,7 +645,7 @@
     "longitude": 5.983333
   },
   {
-    "name": "Le Mon�tier-les-Bains",
+    "name": "Le Monetier-les-Bains",
     "latitude": 44.983333,
     "longitude": 6.516667
   },
@@ -656,8 +656,8 @@
   },
   {
     "name": "Le Sauze-du-Lac",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.4833,
+    "longitude": 6.3167
   },
   {
     "name": "Les Costes",
@@ -690,24 +690,24 @@
     "longitude": 6.616667
   },
   {
-    "name": "Montgen�vre",
+    "name": "Montgenevre",
     "latitude": 44.933333,
     "longitude": 6.716667
   },
   {
-    "name": "N�vache",
+    "name": "Nevache",
     "latitude": 45.01955,
     "longitude": 6.6044
   },
   {
-    "name": "Orci�res",
+    "name": "Orcieres",
     "latitude": 44.683333,
     "longitude": 6.333333
   },
   {
     "name": "Pelvoux",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.8691,
+    "longitude": 6.4866
   },
   {
     "name": "Poligny",
@@ -715,12 +715,12 @@
     "longitude": 6.05
   },
   {
-    "name": "Puy-Saint-Andr�",
+    "name": "Puy-Saint-Andre",
     "latitude": 44.883333,
     "longitude": 6.6
   },
   {
-    "name": "Puy-Saint-Eus�be",
+    "name": "Puy-Saint-Eusebe",
     "latitude": 44.566667,
     "longitude": 6.416667
   },
@@ -735,17 +735,17 @@
     "longitude": 6.483333
   },
   {
-    "name": "Puy-Sani�res",
+    "name": "Puy-Sanieres",
     "latitude": 44.55,
     "longitude": 6.433333
   },
   {
-    "name": "R�allon",
+    "name": "Reallon",
     "latitude": 44.6,
     "longitude": 6.366667
   },
   {
-    "name": "R�otier",
+    "name": "Reotier",
     "latitude": 44.666667,
     "longitude": 6.6
   },
@@ -760,7 +760,7 @@
     "longitude": 6.95
   },
   {
-    "name": "Saint-Andr�-d'Embrun",
+    "name": "Saint-Andre-d'Embrun",
     "latitude": 44.583333,
     "longitude": 6.533333
   },
@@ -771,8 +771,8 @@
   },
   {
     "name": "Saint-Bonnet-en-Champsaur",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.682,
+    "longitude": 6.073
   },
   {
     "name": "Saint-Chaffrey",
@@ -780,24 +780,24 @@
     "longitude": 6.6
   },
   {
-    "name": "Saint-Cl�ment-sur-Durance",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Clement-sur-Durance",
+    "latitude": 44.649,
+    "longitude": 6.5782
   },
   {
-    "name": "Saint-Cr�pin",
+    "name": "Saint-Crepin",
     "latitude": 44.7,
     "longitude": 6.6
   },
   {
-    "name": "Saint-Eus�be-en-Champsaur",
+    "name": "Saint-Eusebe-en-Champsaur",
     "latitude": 44.733333,
     "longitude": 6.033333
   },
   {
     "name": "Saint-Firmin",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.7833,
+    "longitude": 6.0333
   },
   {
     "name": "Saint-Jacques-en-Valgodemard",
@@ -820,14 +820,14 @@
     "longitude": 6.116667
   },
   {
-    "name": "Saint-L�ger-les-M�l�zes",
+    "name": "Saint-Leger-les-Melezes",
     "latitude": 44.65,
     "longitude": 6.2
   },
   {
-    "name": "Saint-Martin-de-Queyri�res",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Martin-de-Queyrieres",
+    "latitude": 44.8232,
+    "longitude": 6.579
   },
   {
     "name": "Saint-Maurice-en-Valgodemard",
@@ -845,17 +845,17 @@
     "longitude": 6.516667
   },
   {
-    "name": "Saint-V�ran",
+    "name": "Saint-Veran",
     "latitude": 44.7,
     "longitude": 6.866667
   },
   {
     "name": "Savines-le-Lac",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.5265,
+    "longitude": 6.4043
   },
   {
-    "name": "Val-des-Pr�s",
+    "name": "Val-des-Pres",
     "latitude": 44.95,
     "longitude": 6.683333
   },
@@ -870,12 +870,12 @@
     "longitude": 6.683333
   },
   {
-    "name": "Villar-d'Ar�ne",
+    "name": "Villar-d'Arene",
     "latitude": 45.04225,
     "longitude": 6.33711
   },
   {
-    "name": "Villar-Loubi�re",
+    "name": "Villar-Loubiere",
     "latitude": 44.833333,
     "longitude": 6.133333
   },

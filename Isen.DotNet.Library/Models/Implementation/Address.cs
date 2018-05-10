@@ -8,7 +8,7 @@ namespace Isen.DotNet.Library.Models.Implementation
     { 
         public City City { get;set; }
         public int? CityId { get;set; }
-        public int PostalCode { get;set; }
+        public string PostalCode { get;set; }
         public float Latitude { get;set; }
         public float Longitude { get;set; }
 
