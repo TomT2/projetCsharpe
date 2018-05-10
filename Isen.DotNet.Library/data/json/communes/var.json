@@ -21,8 +21,8 @@
   },
   {
     "name": "La Garde",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.1167,
+    "longitude": 6.0167
   },
   {
     "name": "La Londe-les-Maures",
@@ -61,8 +61,8 @@
   },
   {
     "name": "Baudinard-sur-Verdon",
-    "latitude": "",
-    "longitude": ""
+    "latitude": "43.7167",
+    "longitude": "6.1333"
   },
   {
     "name": "Bauduen",
@@ -85,7 +85,7 @@
     "longitude": 6.533333
   },
   {
-    "name": "Collobri�res",
+    "name": "Collobrieres",
     "latitude": 43.233333,
     "longitude": 6.3
   },
@@ -120,7 +120,7 @@
     "longitude": 6.466667
   },
   {
-    "name": "La M�le",
+    "name": "La Mole",
     "latitude": 43.2,
     "longitude": 6.466667
   },
@@ -181,8 +181,8 @@
   },
   {
     "name": "Rayol-Canadel-sur-Mer",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.1667,
+    "longitude": 6.4667
   },
   {
     "name": "Sainte-Maxime",
@@ -205,7 +205,7 @@
     "longitude": 6.483333
   },
   {
-    "name": "V�rignon",
+    "name": "Verignon",
     "latitude": 43.65,
     "longitude": 6.266667
   },
@@ -215,12 +215,12 @@
     "longitude": 6.433333
   },
   {
-    "name": "Bagnols-en-For�t",
+    "name": "Bagnols-en-Foret",
     "latitude": 43.533333,
     "longitude": 6.7
   },
   {
-    "name": "Barg�me",
+    "name": "Bargeme",
     "latitude": 43.733333,
     "longitude": 6.566667
   },
@@ -245,12 +245,12 @@
     "longitude": 6.75
   },
   {
-    "name": "Ch�teaudouble",
+    "name": "Chateaudouble",
     "latitude": 43.583333,
     "longitude": 6.45
   },
   {
-    "name": "Ch�teauvieux",
+    "name": "Chateauvieux",
     "latitude": 43.775,
     "longitude": 6.575
   },
@@ -270,12 +270,12 @@
     "longitude": 6.683333
   },
   {
-    "name": "Figani�res",
+    "name": "Figanieres",
     "latitude": 43.566667,
     "longitude": 6.5
   },
   {
-    "name": "Fr�jus",
+    "name": "Frejus",
     "latitude": "43,43",
     "longitude": "6,74"
   },
@@ -305,9 +305,9 @@
     "longitude": 6.55
   },
   {
-    "name": "Les Adrets-de-l'Est�rel",
-    "latitude": "",
-    "longitude": ""
+    "name": "Les Adrets-de-l'Esterel",
+    "latitude": 43.5205,
+    "longitude": 6.812
   },
   {
     "name": "Mons",
@@ -335,12 +335,12 @@
     "longitude": 6.633333
   },
   {
-    "name": "Saint-Paul-en-For�t",
+    "name": "Saint-Paul-en-Foret",
     "latitude": 43.566667,
     "longitude": 6.683333
   },
   {
-    "name": "Saint-Rapha�l",
+    "name": "Saint-Raphael",
     "latitude": 43.416667,
     "longitude": 6.766667
   },
@@ -356,8 +356,8 @@
   },
   {
     "name": "Tourrettes",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.623,
+    "longitude": 6.7031
   },
   {
     "name": "Trigance",
@@ -415,7 +415,7 @@
     "longitude": 6.083333
   },
   {
-    "name": "Carc�s",
+    "name": "Carces",
     "latitude": 43.466667,
     "longitude": 6.183333
   },
@@ -425,7 +425,7 @@
     "longitude": 6.183333
   },
   {
-    "name": "Ch�teauvert",
+    "name": "Chateauvert",
     "latitude": 43.5,
     "longitude": 6.016667
   },
@@ -470,7 +470,7 @@
     "longitude": 6.1
   },
   {
-    "name": "Gar�oult",
+    "name": "Gareoult",
     "latitude": 43.333333,
     "longitude": 6.05
   },
@@ -485,7 +485,7 @@
     "longitude": 6.283333
   },
   {
-    "name": "La Cadi�re-d'Azur",
+    "name": "La Cadiere-d'Azur",
     "latitude": 43.2,
     "longitude": 5.766667
   },
@@ -495,7 +495,7 @@
     "longitude": 6.033333
   },
   {
-    "name": "La Farl�de",
+    "name": "La Farlede",
     "latitude": 43.166667,
     "longitude": 6.033333
   },
@@ -505,7 +505,7 @@
     "longitude": 5.983333
   },
   {
-    "name": "La Verdi�re",
+    "name": "La Verdiere",
     "latitude": 43.633333,
     "longitude": 5.933333
   },
@@ -516,8 +516,8 @@
   },
   {
     "name": "Le Castellet",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.2,
+    "longitude": 5.7833
   },
   {
     "name": "Le Val",
@@ -530,7 +530,7 @@
     "longitude": 5.916667
   },
   {
-    "name": "M�ounes-l�s-Montrieux",
+    "name": "Meounes-les-Montrieux",
     "latitude": 43.283333,
     "longitude": 5.966667
   },
@@ -555,12 +555,12 @@
     "longitude": 5.783333
   },
   {
-    "name": "N�oules",
+    "name": "Neoules",
     "latitude": 43.3,
     "longitude": 6.016667
   },
   {
-    "name": "Olli�res",
+    "name": "Ollieres",
     "latitude": 43.483333,
     "longitude": 5.833333
   },
@@ -576,11 +576,11 @@
   },
   {
     "name": "Plan-d'Aups-Sainte-Baume",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.3333,
+    "longitude": 5.7167
   },
   {
-    "name": "Pontev�s",
+    "name": "Ponteves",
     "latitude": 43.566667,
     "longitude": 6.05
   },
@@ -590,7 +590,7 @@
     "longitude": 5.783333
   },
   {
-    "name": "Pourri�res",
+    "name": "Pourrieres",
     "latitude": 43.5,
     "longitude": 5.733333
   },
@@ -600,7 +600,7 @@
     "longitude": 6.133333
   },
   {
-    "name": "R�gusse",
+    "name": "Regusse",
     "latitude": 43.65,
     "longitude": 6.133333
   },
@@ -626,8 +626,8 @@
   },
   {
     "name": "Saint-Antonin-du-Var",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.5069,
+    "longitude": 6.2873
   },
   {
     "name": "Saint-Cyr-sur-Mer",
@@ -641,8 +641,8 @@
   },
   {
     "name": "Saint-Julien",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7,
+    "longitude": 5.9167
   },
   {
     "name": "Saint-Martin",
@@ -666,8 +666,8 @@
   },
   {
     "name": "Seillons-Source-d'Argens",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.4833,
+    "longitude": 5.8833
   },
   {
     "name": "Signes",
@@ -680,17 +680,17 @@
     "longitude": 6.183333
   },
   {
-    "name": "Solli�s-Pont",
+    "name": "Sollies-Pont",
     "latitude": 43.183333,
     "longitude": 6.05
   },
   {
-    "name": "Solli�s-Toucas",
+    "name": "Sollies-Toucas",
     "latitude": 43.2,
     "longitude": 6.016667
   },
   {
-    "name": "Solli�s-Ville",
+    "name": "Sollies-Ville",
     "latitude": 43.183333,
     "longitude": 6.033333
   },
@@ -761,7 +761,7 @@
   },
   {
     "name": "Six-Fours-les-Plages",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.1,
+    "longitude": 5.85
   }
 ]

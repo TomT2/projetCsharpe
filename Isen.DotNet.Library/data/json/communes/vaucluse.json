@@ -10,9 +10,9 @@
     "longitude": 4.85
   },
   {
-    "name": "Mori�res-l�s-Avignon",
-    "latitude": "",
-    "longitude": ""
+    "name": "Morieres-les-Avignon",
+    "latitude": 43.9333,
+    "longitude": 4.9
   },
   {
     "name": "Ansouis",
@@ -26,8 +26,8 @@
   },
   {
     "name": "Auribeau",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.8333,
+    "longitude": 5.45
   },
   {
     "name": "Beaumettes",
@@ -50,12 +50,12 @@
     "longitude": 5.383333
   },
   {
-    "name": "Cabri�res-d'Aigues",
+    "name": "Cabrieres-d'Aigues",
     "latitude": 43.783333,
     "longitude": 5.5
   },
   {
-    "name": "Cabri�res-d'Avignon",
+    "name": "Cabrieres-d'Avignon",
     "latitude": 43.9,
     "longitude": 5.166667
   },
@@ -85,7 +85,7 @@
     "longitude": "5,04"
   },
   {
-    "name": "Ch�teauneuf-de-Gadagne",
+    "name": "Chateauneuf-de-Gadagne",
     "latitude": 43.933333,
     "longitude": 4.933333
   },
@@ -205,19 +205,19 @@
     "longitude": 5.166667
   },
   {
-    "name": "M�nerbes",
+    "name": "Menerbes",
     "latitude": 43.833333,
     "longitude": 5.216667
   },
   {
-    "name": "M�rindol",
+    "name": "Merindol",
     "latitude": 43.75,
     "longitude": 5.2
   },
   {
     "name": "Mirabeau",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7,
+    "longitude": 5.65
   },
   {
     "name": "Murs",
@@ -225,7 +225,7 @@
     "longitude": 5.25
   },
   {
-    "name": "Opp�de",
+    "name": "Oppede",
     "latitude": 43.833333,
     "longitude": 5.183333
   },
@@ -280,17 +280,17 @@
     "longitude": 5.533333
   },
   {
-    "name": "Saint-Pantal�on",
+    "name": "Saint-Pantaleon",
     "latitude": 43.883333,
     "longitude": 5.25
   },
   {
-    "name": "Saint-Saturnin-l�s-Apt",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Saturnin-les-Apt",
+    "latitude": 43.9333,
+    "longitude": 5.3833
   },
   {
-    "name": "Saint-Saturnin-l�s-Avignon",
+    "name": "Saint-Saturnin-les-Avignon",
     "latitude": 43.95,
     "longitude": 4.933333
   },
@@ -301,8 +301,8 @@
   },
   {
     "name": "Saumane-de-Vaucluse",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.9333,
+    "longitude": 5.1
   },
   {
     "name": "Sivergues",
@@ -335,9 +335,9 @@
     "longitude": 5.433333
   },
   {
-    "name": "Vitrolles-en-Lub�ron",
-    "latitude": "",
-    "longitude": ""
+    "name": "Vitrolles-en-Luberon",
+    "latitude": 43.8167,
+    "longitude": 5.6
   },
   {
     "name": "Althen-des-Paluds",
@@ -355,12 +355,12 @@
     "longitude": 5.416667
   },
   {
-    "name": "B�darrides",
+    "name": "Bedarrides",
     "latitude": 44.033333,
     "longitude": 4.9
   },
   {
-    "name": "B�doin",
+    "name": "Bedoin",
     "latitude": 44.116667,
     "longitude": 5.166667
   },
@@ -380,7 +380,7 @@
     "longitude": 5.05
   },
   {
-    "name": "Courth�zon",
+    "name": "Courthezon",
     "latitude": 44.083333,
     "longitude": 4.883333
   },
@@ -391,8 +391,8 @@
   },
   {
     "name": "Entraigues-sur-la-Sorgue",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44,
+    "longitude": 4.9167
   },
   {
     "name": "Flassan",
@@ -425,12 +425,12 @@
     "longitude": 5.133333
   },
   {
-    "name": "M�thamis",
+    "name": "Methamis",
     "latitude": 44.016667,
     "longitude": 5.216667
   },
   {
-    "name": "Mod�ne",
+    "name": "Modene",
     "latitude": 44.1,
     "longitude": 5.116667
   },
@@ -466,8 +466,8 @@
   },
   {
     "name": "Saint-Hippolyte-le-Graveyron",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.1333,
+    "longitude": 5.0667
   },
   {
     "name": "Saint-Pierre-de-Vassols",
@@ -486,8 +486,8 @@
   },
   {
     "name": "Sault",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.0833,
+    "longitude": 5.4167
   },
   {
     "name": "Sorgues",
@@ -495,7 +495,7 @@
     "longitude": 4.866667
   },
   {
-    "name": "Ved�ne",
+    "name": "Vedene",
     "latitude": 43.983333,
     "longitude": 4.9
   },
@@ -525,7 +525,7 @@
     "longitude": 5.166667
   },
   {
-    "name": "Boll�ne",
+    "name": "Bollene",
     "latitude": 44.283333,
     "longitude": 4.75
   },
@@ -555,7 +555,7 @@
     "longitude": 4.883333
   },
   {
-    "name": "Ch�teauneuf-du-Pape",
+    "name": "Chateauneuf-du-Pape",
     "latitude": 44.05,
     "longitude": 4.833333
   },
@@ -585,7 +585,7 @@
     "longitude": 4.933333
   },
   {
-    "name": "Jonqui�res",
+    "name": "Jonquieres",
     "latitude": 44.116667,
     "longitude": 4.9
   },
@@ -595,12 +595,12 @@
     "longitude": 5.05
   },
   {
-    "name": "Lagarde-Par�ol",
+    "name": "Lagarde-Pareol",
     "latitude": 44.216667,
     "longitude": 4.85
   },
   {
-    "name": "Lamotte-du-Rh�ne",
+    "name": "Lamotte-du-Rhone",
     "latitude": 44.266667,
     "longitude": 4.683333
   },
@@ -620,7 +620,7 @@
     "longitude": 5.1
   },
   {
-    "name": "Malauc�ne",
+    "name": "Malaucene",
     "latitude": 44.166667,
     "longitude": 5.133333
   },
@@ -645,7 +645,7 @@
     "longitude": 4.766667
   },
   {
-    "name": "Puym�ras",
+    "name": "Puymeras",
     "latitude": 44.266667,
     "longitude": 5.133333
   },
@@ -670,19 +670,19 @@
     "longitude": 5
   },
   {
-    "name": "Sainte-C�cile-les-Vignes",
+    "name": "Sainte-Cecile-les-Vignes",
     "latitude": 44.25,
     "longitude": 4.883333
   },
   {
-    "name": "Saint-L�ger-du-Ventoux",
+    "name": "Saint-Leger-du-Ventoux",
     "latitude": 44.2,
     "longitude": 5.266667
   },
   {
-    "name": "Saint-Marcellin-l�s-Vaison",
-    "latitude": "",
-    "longitude": ""
+    "name": "Saint-Marcellin-les-Vaison",
+    "latitude": 44.2333,
+    "longitude": 5.1
   },
   {
     "name": "Saint-Romain-en-Viennois",
@@ -700,12 +700,12 @@
     "longitude": 5.383333
   },
   {
-    "name": "S�guret",
+    "name": "Seguret",
     "latitude": 44.2,
     "longitude": 5.016667
   },
   {
-    "name": "S�rignan-du-Comtat",
+    "name": "Serignan-du-Comtat",
     "latitude": 44.183333,
     "longitude": 4.85
   },
@@ -735,7 +735,7 @@
     "longitude": 5.066667
   },
   {
-    "name": "Valr�as",
+    "name": "Valreas",
     "latitude": 44.383333,
     "longitude": 4.983333
   },
@@ -745,7 +745,7 @@
     "longitude": 5.033333
   },
   {
-    "name": "Viol�s",
+    "name": "Violes",
     "latitude": 44.166667,
     "longitude": 4.95
   },
