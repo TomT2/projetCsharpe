@@ -1,22 +1,212 @@
 [
     {
-        "name": "Colisée",
-        "description": "Maximus Maximus !!",
+        "name": "La vague d’Or",
+        "description": "Petit déjeuner - Terasse - Lieu chaleureux.",
         "address":{
-            "name": "71 Chemin de la boue",
-            "postalcode": "83200",
-            "latitude": 41.23,
-            "longitude": 32.34
+            "name": "Plage de Bouillabaisse",
+            "postalcode": "83990",
+            "latitude": 43.265347,
+            "longitude": 6.624937
         }
     },
     {
-        "name": "Carrefour",
-        "description": "achaaat !!",
+        "name": "Parc national des Calanques",
+        "description": "Parc national créé en 2012 avec littoral montagneux et zone marine adjacente.",
         "address":{
-            "name": "23 Chemin du pigeon",
-            "postalcode": "13200",
-            "latitude": 32.4,
-            "longitude": 12.7
+            "name": "Parc Valad, Impasse Paradou",
+            "postalcode": "13009",
+            "latitude": 43.217495,
+            "longitude": 5.430796
+        }
+    },
+    {
+        "name": "Circuit Paul-Ricard",
+        "description": "Circuit de course automobile avec rencontres pro régulières et séances de conduite privées pour les visiteurs.",
+        "address":{
+            "name": "2760 Route des Hauts du Camp",
+            "postalcode": "83330",
+            "latitude": 43.251711,
+            "longitude": 5.793529
+        }
+    },
+    {
+        "name": "Parc Zoologique de la Barben",
+        "description": "Parc animalier avec éléphants, léopards et rhinocéros sur plateau rural comportant 9 km de sentiers pédestres.",
+        "address":{
+            "name": "Route du Château",
+            "postalcode": "13330",
+            "latitude": 43.623861,
+            "longitude": 5.209084
+        }
+    },
+    {
+        "name": "Musée de la Mine de Cap Garonne",
+        "description": "Musée d'art.",
+        "address":{
+            "name": "1000 Chemin du Baou Rouge",
+            "postalcode": "83220",
+            "latitude": 43.081541,
+            "longitude": 6.035274
+        }
+    },
+    {
+        "name": "Marineland",
+        "description": "Parc marin, spectacles de dauphins, bassin à requins & pingouins. Parc aquatique distinct, golf & zoo proches.",
+        "address":{
+            "name": "306 Avenue Mozart",
+            "postalcode": "06600",
+            "latitude": 43.612963,
+            "longitude": 7.124370
+        }
+    },
+    {
+        "name": "Promenade des Anglais",
+        "description": "Promenade le long de la plage.",
+        "address":{
+            "name": "",
+            "postalcode": "06200",
+            "latitude": 43.681318,
+            "longitude": 7.232398
+        }
+    },
+    {
+        "name": "Le Sentier des Ocres",
+        "description": "Deux parcours balisés au sein d'un paysage coloré avec falaises « sang et or » dans ancienne carrière d'ocre.",
+        "address":{
+            "name": "",
+            "postalcode": "84220",
+            "latitude": 43.900682,
+            "longitude": 5.295952
+        }
+    },
+    {
+        "name": "Citadelle de Sisteron",
+        "description": "Puissante forteresse construite sur un éperon rocheux.",
+        "address":{
+            "name": "1 Allée de Verdun",
+            "postalcode": "04200",
+            "latitude": 44.195339,
+            "longitude": 5.943443
+        }
+    },
+    {
+        "name": "L'Avenue 83",
+        "description": "Beaucoup de boutiques - Cinéma Pathe Imax",
+        "address":{
+            "name": "300 Avenue de l'Université",
+            "postalcode": "83160",
+            "latitude": 43.136638,
+            "longitude": 6.005669
+        }
+    },
+    {
+        "name": "L'Epuisette",
+        "description": "Ce restaurant sert une cuisine méditerranéenne haut de gamme dans une salle élégante avec vue sur la mer.",
+        "address":{
+            "name": "Vallon des Auffes",
+            "postalcode": "13007",
+            "latitude": 43.285033,
+            "longitude": 5.354035
+        }
+    },
+    {
+        "name": "La Flambée",
+        "description": "Pizzeria.",
+        "address":{
+            "name": "500 Boulevard Bazeilles",
+            "postalcode": "83000",
+            "latitude": 43.112293,
+            "longitude": 5.934528
+        }
+    },
+    {
+        "name": "La Tortue",
+        "description": "Ce restaurant au style lounge et décontracté propose une terrasse et une carte bistrotière classique.",
+        "address":{
+            "name": "71 Quai de la Sinse",
+            "postalcode": "83000",
+            "latitude": 43.118881,
+            "longitude": 5.934443
+        }
+    },
+    {
+        "name": "Hôtel Vauban",
+        "description": "Hôtel au pied des pistes, chambres claires avec Wi-Fi gratuit, un restaurant, un sauna et une salle de sport.",
+        "address":{
+            "name": "13 Avenue du Général de Gaulle",
+            "postalcode": "05100",
+            "latitude": 44.895035,
+            "longitude": 6.633271
+        }
+    },
+    {
+        "name": "Les Restanques de Moustiers",
+        "description": "Chambres sobres avec Wi-Fi gratuit dans hôtel au pied des falaises offrant bar, jardins et piscine extérieure.",
+        "address":{
+            "name": "Route des Gorges Du Verdon",
+            "postalcode": "04360",
+            "latitude": 43.839932,
+            "longitude": 6.222606
+        }
+    },
+    {
+        "name": "Boutique Haribo",
+        "description": "Magasin de bonbons.",
+        "address":{
+            "name": "9 Boulevard Gay Lussac",
+            "postalcode": "13014",
+            "latitude": 43.332406,
+            "longitude": 5.374367
+        }
+    },
+    {
+        "name": "Hotel Novotel Avignon Centre",
+        "description": "Cet hôtel moderne se trouve à 3 minutes à pied de la gare SNCF d'Avignon Centre, à 9 minutes à pied du musée Angladon et à 3,2 km du Palais des Papes.",
+        "address":{
+            "name": "20 Boulevard Saint-Roch",
+            "postalcode": "84000",
+            "latitude": 43.942705,
+            "longitude": 4.802052
+        }
+    },
+    {
+        "name": "Hotel Suffren - Port Grimaud",
+        "description": "Surplombant la marina de Port Grimaud, cet élégant hôtel se trouve à 5 minutes de marche de la plage et à 8,6 km de Saint-Tropez.",
+        "address":{
+            "name": "16 Place du Marché",
+            "postalcode": "83310",
+            "latitude": 43.274031,
+            "longitude": 6.580549
+        }
+    },
+    {
+        "name": "Parc Olbius Riquier",
+        "description": "Jardin botanique de 7 hectares avec 2 aires de jeux, une buvette, un zoo, un manège et des espèces exotiques.",
+        "address":{
+            "name": "37 Avenue Ambroise Thomas",
+            "postalcode": "83400",
+            "latitude": 43.110825,
+            "longitude": 6.137397
+        }
+    },
+    {
+        "name": "Aushopping Avignon Nord",
+        "description": "Avignon Nord est une zone commerciale situé sur les communes du Pontet, de Vedène et de Sorgues dans l'agglomération avignonnaise, dans le département du Vaucluse, en région Provence-Alpes-Côte d'Azur.",
+        "address":{
+            "name": "533 Avenue Louis Braille",
+            "postalcode": "84130",
+            "latitude": 43.981100,
+            "longitude": 4.879574
+        }
+    },
+    {
+        "name": "Centre Commercial Grand Littoral",
+        "description": "Chaîne internationale de magasins de jeux et de jouets multimarques pour enfants et bébés.",
+        "address":{
+            "name": "15 Avenue de saint antoine",
+            "postalcode": "13015",
+            "latitude": 43.366501,
+            "longitude": 5.356563
         }
     }
 ]

@@ -174,11 +174,68 @@ namespace Isen.DotNet.Library.Data
             string poi_json = File.ReadAllText("../Isen.DotNet.Library/data/json/points-of-interest.json");
             interestPoints = JsonConvert.DeserializeObject<List<InterestPoint>>(poi_json);
 
-            interestPoints[0].Category = _categoryRepository.Single("Loisir");
-            interestPoints[1].Category = _categoryRepository.Single("Shopping");
+            interestPoints[0].Address.City = _cityRepository.Single("Saint-Tropez");
+            interestPoints[0].Category = _categoryRepository.Single("Restaurant");
             
-            interestPoints[0].Address.City = _cityRepository.Single("Saint-Cannat");
-            interestPoints[1].Address.City = _cityRepository.Single("Arles");
+            interestPoints[1].Address.City = _cityRepository.Single("Marseille");
+            interestPoints[1].Category = _categoryRepository.Single("Parc");
+
+            //interestPoints[2].Address.City = _cityRepository.Single("Le Castellet");
+            interestPoints[2].Category = _categoryRepository.Single("Loisir");
+
+            interestPoints[3].Address.City = _cityRepository.Single("La Barben");
+            interestPoints[3].Category = _categoryRepository.Single("Parc");
+
+            interestPoints[4].Address.City = _cityRepository.Single("Le Pradet");
+            interestPoints[4].Category = _categoryRepository.Single("Loisir");
+
+            //interestPoints[5].Address.City = _cityRepository.Single("Antibes");
+            interestPoints[5].Category = _categoryRepository.Single("Loisir");
+
+            //interestPoints[6].Address.City = _cityRepository.Single("Nice");
+            interestPoints[6].Category = _categoryRepository.Single("Loisir");
+
+            interestPoints[7].Address.City = _cityRepository.Single("Roussillon");
+            interestPoints[7].Category = _categoryRepository.Single("Parc");
+
+            //interestPoints[8].Address.City = _cityRepository.Single("Sisteron");
+            interestPoints[8].Category = _categoryRepository.Single("Loisir");
+
+            interestPoints[9].Address.City = _cityRepository.Single("La Valette-du-Var");
+            interestPoints[9].Category = _categoryRepository.Single("Shopping");
+
+            interestPoints[10].Address.City = _cityRepository.Single("Marseille");
+            interestPoints[10].Category = _categoryRepository.Single("Restaurant");
+
+            //interestPoints[11].Address.City = _cityRepository.Single("Toulon");
+            interestPoints[11].Category = _categoryRepository.Single("Restaurant");
+
+            //interestPoints[12].Address.City = _cityRepository.Single("Toulon");
+            interestPoints[12].Category = _categoryRepository.Single("Restaurant");
+
+            //interestPoints[13].Address.City = _cityRepository.Single("Briançon");
+            interestPoints[13].Category = _categoryRepository.Single("Hébergement");
+
+            //interestPoints[14].Address.City = _cityRepository.Single("Moustiers-Sainte-Marie");
+            interestPoints[14].Category = _categoryRepository.Single("Hébergement");
+
+            interestPoints[15].Address.City = _cityRepository.Single("Marseille");
+            interestPoints[15].Category = _categoryRepository.Single("Shopping");
+
+            //interestPoints[16].Address.City = _cityRepository.Single("Avignon");
+            interestPoints[16].Category = _categoryRepository.Single("Hébergement");
+
+            interestPoints[17].Address.City = _cityRepository.Single("Grimaud");
+            interestPoints[17].Category = _categoryRepository.Single("Hébergement");
+
+            //interestPoints[18].Address.City = _cityRepository.Single("Hyeres");
+            interestPoints[18].Category = _categoryRepository.Single("Parc");
+
+            interestPoints[19].Address.City = _cityRepository.Single("Le Pontet");
+            interestPoints[19].Category = _categoryRepository.Single("Shopping");
+
+            interestPoints[20].Address.City = _cityRepository.Single("Marseille");
+            interestPoints[20].Category = _categoryRepository.Single("Shopping");
 
             _interestPointRepository.UpdateRange(interestPoints);
             _interestPointRepository.Save();
