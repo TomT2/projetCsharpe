@@ -50,7 +50,7 @@ namespace Isen.DotNet.Web.Controllers
         {
             var allByDepartment = _repository
                 .GetAll()
-                .Where(i => i.Address.City.DepartmentId == id)
+                .Where(i => i.Address.City.Department.Id == id)
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByDepartment);
