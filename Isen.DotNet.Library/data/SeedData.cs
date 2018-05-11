@@ -35,7 +35,7 @@ namespace Isen.DotNet.Library.Data
             _logger = logger;
             _cityRepository = cityRepository;
             _interestPointRepository = interestPointRepository;
-            _addressRepository = addressRepository;
+            //_addressRepository = addressRepository;
             _categoryRepository = categoryRepository;
             _departmentRepository = departmentRepository;
         }

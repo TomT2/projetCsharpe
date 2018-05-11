@@ -16,7 +16,7 @@ namespace Isen.DotNet.Library.Models.Implementation
         public int? InterestPointId {get; set;}
         
         public string BuildAddress(){
-            return this.Name + " " + this.PostalCode.ToString() + " " +this.City?.Name;
+            return this.Name + " " + this.PostalCode?.ToString() + " " +this.City?.Name;
         }
 
         public override dynamic ToDynamic()

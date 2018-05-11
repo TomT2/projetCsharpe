@@ -11,7 +11,6 @@ namespace Isen.DotNet.Library.Models.Implementation
         public int? CategoryId { get;set;}
         public Address Address { get;set; }
 
-
         public override dynamic ToDynamic()
         {
             var response = base.ToDynamic();

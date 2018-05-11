@@ -54,6 +54,7 @@ namespace Isen.DotNet.Library.Data
                 .WithMany(c => c.AddressCollection) 
                 .HasForeignKey(a => a.CityId);
 
+
             //Category
             builder.Entity<Category>()
                 .ToTable("Category")
