@@ -22,11 +22,9 @@ namespace Isen.DotNet.Library.Models.Implementation
         {
             var response = base.ToDynamic();
             response.city = City?.ToDynamic();
-            response.interestpoint = InterestPoint?.ToDynamic();
             response.postalCode = PostalCode;
             response.latitude = Latitude;
             response.longitude = Longitude;
-            response.buildaddress = BuildAddress();
             return response;
         }
     }
