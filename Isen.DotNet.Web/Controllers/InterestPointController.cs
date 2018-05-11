@@ -55,5 +55,18 @@ namespace Isen.DotNet.Web.Controllers
                 .ToList();
             return Json(allByDepartment);
         }
+
+        [HttpGet]
+        [Route("api/[controller]/city={id_city}&department={id_department}&category={id_category}")]
+        public virtual JsonResult Get(int id_city, int id_department, int id_category)
+        {
+            var allByDepartment = _repository
+                .GetAll()
+                .Where(i => i.Address?.CityId == id_city && i.Address?.City?.DepartmentId == id_department && i.CategoryId == id_category)
+                .Select(i => i.ToDynamic())
+                .ToList();
+            return Json(allByDepartment);
+        }
+        
     }
 }
