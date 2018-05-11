@@ -15,6 +15,7 @@
     <div class="col-md-12">
         <form class="form-horizontal" asp-action="Detail">
             <input type="hidden" value="@Model?.Id" asp-for="Id" />
+            <input type="hidden" value="@Model?.InterestPointId" asp-for="InterestPointId" />
             <div>
                 <label for="Name" class="control-label">Nom de l'adresse :</label>
                 <input type="text" class="form-control"
