@@ -19,5 +19,41 @@ namespace Isen.DotNet.Web.Controllers
             : base(logger, repository)
         {
         }
+
+        [HttpGet]
+        [Route("api/[controller]/Category/{id?}")]
+        public virtual JsonResult GetByCategory(int id)
+        {
+            var allByCategory = _repository
+                .GetAll()
+                .Where(i => i.CategoryId == id)
+                .Select(i => i.ToDynamic())
+                .ToList();
+            return Json(allByCategory);
+        }
+
+        [HttpGet]
+        [Route("api/[controller]/City/{id?}")]
+        public virtual JsonResult GetByCity(int id)
+        {
+            var allByCity = _repository
+                .GetAll()
+                .Where(i => i.Address.CityId == id)
+                .Select(i => i.ToDynamic())
+                .ToList();
+            return Json(allByCity);
+        }
+
+        [HttpGet]
+        [Route("api/[controller]/Department/{id?}")]
+        public virtual JsonResult GetByDepartment(int id)
+        {
+            var allByDepartment = _repository
+                .GetAll()
+                .Where(i => i.Address.City.DepartmentId == id)
+                .Select(i => i.ToDynamic())
+                .ToList();
+            return Json(allByDepartment);
+        }
     }
 }
