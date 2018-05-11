@@ -54,11 +54,6 @@ namespace Isen.DotNet.Library.Data
                 .WithMany(c => c.AddressCollection) 
                 .HasForeignKey(a => a.CityId);
 
-             builder.Entity<Address>()
-                .HasOne(a => a.InterestPoint)
-                .WithOne(i => i.Address) 
-                .HasForeignKey<InterestPoint>(i => i.AddressId)
-                .OnDelete(DeleteBehavior.SetNull);
             //Category
             builder.Entity<Category>()
                 .ToTable("Category")

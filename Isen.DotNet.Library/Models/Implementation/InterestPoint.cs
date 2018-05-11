@@ -10,7 +10,7 @@ namespace Isen.DotNet.Library.Models.Implementation
         public Category Category { get;set; }
         public int? CategoryId { get;set;}
         public Address Address { get;set; }
-        public int? AddressId { get;set; }
+
 
         public override dynamic ToDynamic()
         {
