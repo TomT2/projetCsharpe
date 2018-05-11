@@ -38,7 +38,7 @@ namespace Isen.DotNet.Web.Controllers
         {
             var allByCity = _repository
                 .GetAll()
-                .Where(i => i.Address.CityId == id)
+                .Where(i => i.Address?.CityId == id)
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByCity);
@@ -50,7 +50,7 @@ namespace Isen.DotNet.Web.Controllers
         {
             var allByDepartment = _repository
                 .GetAll()
-                .Where(i => i.Address.City.Department.Id == id)
+                .Where(i => i.Address?.City?.DepartmentId == id)
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByDepartment);

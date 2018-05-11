@@ -1,831 +1,816 @@
 [
   {
-    "nom_commune": "Nice",
+    "name": "Nice",
     "latitude": 43.7,
     "longitude": 7.25
   },
   {
-    "nom_commune": "Nice",
-    "latitude": 43.7,
-    "longitude": 7.25
-  },
-  {
-    "nom_commune": "Falicon",
+    "name": "Falicon",
     "latitude": 43.75,
     "longitude": 7.283333
   },
   {
-    "nom_commune": "La Trinité",
+    "name": "La Trinitï¿½",
     "latitude": 43.75,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Nice",
-    "latitude": 43.7,
-    "longitude": 7.25
-  },
-  {
-    "nom_commune": "Saint-André de la Roche",
+    "name": "Saint-Andrï¿½ de la Roche",
     "latitude": 43.733333,
     "longitude": 7.283333
   },
   {
-    "nom_commune": "Beaulieu-sur-Mer",
+    "name": "Beaulieu-sur-Mer",
     "latitude": 43.7,
     "longitude": 7.333333
   },
   {
-    "nom_commune": "Beausoleil",
+    "name": "Beausoleil",
     "latitude": 43.75,
     "longitude": 7.433333
   },
   {
-    "nom_commune": "Blausasc",
+    "name": "Blausasc",
     "latitude": 43.8,
     "longitude": 7.366667
   },
   {
-    "nom_commune": "Breil-sur-Roya",
+    "name": "Breil-sur-Roya",
     "latitude": 43.933333,
     "longitude": 7.5
   },
   {
-    "nom_commune": "Cap-d'Ail",
+    "name": "Cap-d'Ail",
     "latitude": 43.716667,
     "longitude": 7.4
   },
   {
-    "nom_commune": "Castellar",
+    "name": "Castellar",
     "latitude": 43.8,
     "longitude": 7.5
   },
   {
-    "nom_commune": "Castillon",
+    "name": "Castillon",
     "latitude": 43.833333,
     "longitude": 7.466667
   },
   {
-    "nom_commune": "Eze",
+    "name": "Eze",
     "latitude": 43.716667,
     "longitude": 7.366667
   },
   {
-    "nom_commune": "Fontan",
+    "name": "Fontan",
     "latitude": 44,
     "longitude": 7.55
   },
   {
-    "nom_commune": "Gorbio",
+    "name": "Gorbio",
     "latitude": 43.783333,
     "longitude": 7.45
   },
   {
-    "nom_commune": "La Brigue",
+    "name": "La Brigue",
     "latitude": 44.066667,
     "longitude": 7.616667
   },
   {
-    "nom_commune": "La Turbie",
+    "name": "La Turbie",
     "latitude": 43.75,
     "longitude": 7.4
   },
   {
-    "nom_commune": "L'Escarène",
+    "name": "L'Escarï¿½ne",
     "latitude": 43.833333,
     "longitude": 7.35
   },
   {
-    "nom_commune": "Lucéram",
+    "name": "Lucï¿½ram",
     "latitude": 43.883333,
     "longitude": 7.366667
   },
   {
-    "nom_commune": "Menton",
+    "name": "Menton",
     "latitude": 43.783333,
     "longitude": 7.5
   },
   {
-    "nom_commune": "Moulinet",
+    "name": "Moulinet",
     "latitude": 43.95,
     "longitude": 7.416667
   },
   {
-    "nom_commune": "Peille",
+    "name": "Peille",
     "latitude": 43.8,
     "longitude": 7.4
   },
   {
-    "nom_commune": "Peillon",
+    "name": "Peillon",
     "latitude": 43.783333,
     "longitude": 7.383333
   },
   {
-    "nom_commune": "Roquebrune-Cap-Martin",
+    "name": "Roquebrune-Cap-Martin",
     "latitude": 43.766667,
     "longitude": 7.466667
   },
   {
-    "nom_commune": "Sainte-Agnès",
+    "name": "Sainte-Agnï¿½s",
     "latitude": 43.8,
     "longitude": 7.466667
   },
   {
-    "nom_commune": "Saint-Jean-Cap-Ferrat",
+    "name": "Saint-Jean-Cap-Ferrat",
     "latitude": 43.683333,
     "longitude": 7.333333
   },
   {
-    "nom_commune": "Saorge",
+    "name": "Saorge",
     "latitude": 43.983333,
     "longitude": 7.55
   },
   {
-    "nom_commune": "Sospel",
+    "name": "Sospel",
     "latitude": 43.883333,
     "longitude": 7.45
   },
   {
-    "nom_commune": "Tende",
+    "name": "Tende",
     "latitude": 44.083333,
     "longitude": 7.6
   },
   {
-    "nom_commune": "Touët-de-l'Escarène",
+    "name": "Touï¿½t-de-l'Escarï¿½ne",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Villefranche-sur-Mer",
+    "name": "Villefranche-sur-Mer",
     "latitude": 43.7,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Ascros",
+    "name": "Ascros",
     "latitude": 43.916667,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Aspremont",
+    "name": "Aspremont",
     "latitude": 43.783333,
     "longitude": 7.25
   },
   {
-    "nom_commune": "Auvare",
+    "name": "Auvare",
     "latitude": 43.983333,
     "longitude": 6.916667
   },
   {
-    "nom_commune": "Bairols",
+    "name": "Bairols",
     "latitude": 43.983333,
     "longitude": 7.133333
   },
   {
-    "nom_commune": "Belvédère",
+    "name": "Belvï¿½dï¿½re",
     "latitude": 44,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Bendejun",
+    "name": "Bendejun",
     "latitude": 43.833333,
     "longitude": 7.3
   },
   {
-    "nom_commune": "Berre-les-Alpes",
+    "name": "Berre-les-Alpes",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Beuil",
+    "name": "Beuil",
     "latitude": 44.1,
     "longitude": 6.983333
   },
   {
-    "nom_commune": "Bonson",
+    "name": "Bonson",
     "latitude": 43.866667,
     "longitude": 7.2
   },
   {
-    "nom_commune": "Cantaron",
+    "name": "Cantaron",
     "latitude": 43.766667,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Castagniers",
+    "name": "Castagniers",
     "latitude": 43.8,
     "longitude": 7.233333
   },
   {
-    "nom_commune": "Châteauneuf-d'Entraunes",
+    "name": "Chï¿½teauneuf-d'Entraunes",
     "latitude": 44.133333,
     "longitude": 6.833333
   },
   {
-    "nom_commune": "Châteauneuf-Villevieille",
+    "name": "Chï¿½teauneuf-Villevieille",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Clans",
+    "name": "Clans",
     "latitude": 44,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Coaraze",
+    "name": "Coaraze",
     "latitude": 43.866667,
     "longitude": 7.3
   },
   {
-    "nom_commune": "Colomars",
+    "name": "Colomars",
     "latitude": 43.766667,
     "longitude": 7.216667
   },
   {
-    "nom_commune": "Contes",
+    "name": "Contes",
     "latitude": 43.816667,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Cuébris",
+    "name": "Cuï¿½bris",
     "latitude": 43.883333,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Daluis",
+    "name": "Daluis",
     "latitude": 44.016667,
     "longitude": 6.816667
   },
   {
-    "nom_commune": "Drap",
+    "name": "Drap",
     "latitude": 43.75,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "Duranus",
+    "name": "Duranus",
     "latitude": 43.9,
     "longitude": 7.266667
   },
   {
-    "nom_commune": "Entraunes",
+    "name": "Entraunes",
     "latitude": 44.183333,
     "longitude": 6.75
   },
   {
-    "nom_commune": "Gilette",
+    "name": "Gilette",
     "latitude": 43.85,
     "longitude": 7.166667
   },
   {
-    "nom_commune": "Guillaumes",
+    "name": "Guillaumes",
     "latitude": 44.083333,
     "longitude": 6.85
   },
   {
-    "nom_commune": "Ilonse",
+    "name": "Ilonse",
     "latitude": 44.033333,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Isola",
+    "name": "Isola",
     "latitude": 44.183333,
     "longitude": 7.05
   },
   {
-    "nom_commune": "La Bollène-Vésubie",
+    "name": "La Bollï¿½ne-Vï¿½subie",
     "latitude": 43.983333,
     "longitude": 7.333333
   },
   {
-    "nom_commune": "La Croix-sur-Roudoule",
+    "name": "La Croix-sur-Roudoule",
     "latitude": 43.983333,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Lantosque",
+    "name": "Lantosque",
     "latitude": 43.966667,
     "longitude": 7.316667
   },
   {
-    "nom_commune": "La Penne",
+    "name": "La Penne",
     "latitude": 43.933333,
     "longitude": 6.95
   },
   {
-    "nom_commune": "La Roquette-sur-Var",
+    "name": "La Roquette-sur-Var",
     "latitude": 43.833333,
     "longitude": 7.2
   },
   {
-    "nom_commune": "La Tour",
+    "name": "La Tour",
     "latitude": 43.95,
     "longitude": 7.183333
   },
   {
-    "nom_commune": "Levens",
+    "name": "Levens",
     "latitude": 43.866667,
     "longitude": 7.216667
   },
   {
-    "nom_commune": "Lieuche",
+    "name": "Lieuche",
     "latitude": 44,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Malaussène",
+    "name": "Malaussï¿½ne",
     "latitude": 43.916667,
     "longitude": 7.133333
   },
   {
-    "nom_commune": "Marie",
+    "name": "Marie",
     "latitude": 44.033333,
     "longitude": 7.133333
   },
   {
-    "nom_commune": "Massoins",
+    "name": "Massoins",
     "latitude": 43.933333,
     "longitude": 7.133333
   },
   {
-    "nom_commune": "Nice",
-    "latitude": 43.7,
-    "longitude": 7.25
-  },
-  {
-    "nom_commune": "Péone",
+    "name": "Pï¿½one",
     "latitude": 44.116667,
     "longitude": 6.9
   },
   {
-    "nom_commune": "Pierlas",
+    "name": "Pierlas",
     "latitude": 44.033333,
     "longitude": 7.033333
   },
   {
-    "nom_commune": "Pierrefeu",
+    "name": "Pierrefeu",
     "latitude": 43.866667,
     "longitude": 7.083333
   },
   {
-    "nom_commune": "Puget-Rostang",
+    "name": "Puget-Rostang",
     "latitude": 43.966667,
     "longitude": 6.916667
   },
   {
-    "nom_commune": "Puget-Théniers",
+    "name": "Puget-Thï¿½niers",
     "latitude": 43.95,
     "longitude": 6.9
   },
   {
-    "nom_commune": "Revest-les-Roches",
+    "name": "Revest-les-Roches",
     "latitude": 43.883333,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Rigaud",
+    "name": "Rigaud",
     "latitude": 44,
     "longitude": 6.983333
   },
   {
-    "nom_commune": "Rimplas",
+    "name": "Rimplas",
     "latitude": 44.066667,
     "longitude": 7.133333
   },
   {
-    "nom_commune": "Roquebillière",
+    "name": "Roquebilliï¿½re",
     "latitude": 44.016667,
     "longitude": 7.3
   },
   {
-    "nom_commune": "Roquesteron",
+    "name": "Roquesteron",
     "latitude": 43.866667,
     "longitude": 7
   },
   {
-    "nom_commune": "Roubion",
+    "name": "Roubion",
     "latitude": 44.083333,
     "longitude": 7.05
   },
   {
-    "nom_commune": "Roure",
+    "name": "Roure",
     "latitude": 44.083333,
     "longitude": 7.083333
   },
   {
-    "nom_commune": "Saint-Antonin",
+    "name": "Saint-Antonin",
     "latitude": 43.916667,
     "longitude": 6.983333
   },
   {
-    "nom_commune": "Saint-Blaise",
+    "name": "Saint-Blaise",
     "latitude": 43.833333,
     "longitude": 7.233333
   },
   {
-    "nom_commune": "Saint-Dalmas-le-Selvage",
+    "name": "Saint-Dalmas-le-Selvage",
     "latitude": 44.283333,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Saint-Etienne-de-Tinée",
+    "name": "Saint-Etienne-de-Tinï¿½e",
     "latitude": 44.258333,
     "longitude": 6.925
   },
   {
-    "nom_commune": "Saint-Léger",
+    "name": "Saint-Lï¿½ger",
     "latitude": 44,
     "longitude": 6.833333
   },
   {
-    "nom_commune": "Saint-Martin-d'Entraunes",
+    "name": "Saint-Martin-d'Entraunes",
     "latitude": 44.133333,
     "longitude": 6.766667
   },
   {
-    "nom_commune": "Saint-Martin-du-Var",
+    "name": "Saint-Martin-du-Var",
     "latitude": 43.816667,
     "longitude": 7.2
   },
   {
-    "nom_commune": "Saint-Martin-Vésubie",
+    "name": "Saint-Martin-Vï¿½subie",
     "latitude": 44.066667,
     "longitude": 7.25
   },
   {
-    "nom_commune": "Saint-Sauveur-sur-Tinée",
+    "name": "Saint-Sauveur-sur-Tinï¿½e",
     "latitude": 44.083333,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Sauze",
+    "name": "Sauze",
     "latitude": 44.083333,
     "longitude": 6.833333
   },
   {
-    "nom_commune": "Sigale",
+    "name": "Sigale",
     "latitude": 43.866667,
     "longitude": 6.95
   },
   {
-    "nom_commune": "Thiéry",
+    "name": "Thiï¿½ry",
     "latitude": 43.983333,
     "longitude": 7.033333
   },
   {
-    "nom_commune": "Toudon",
+    "name": "Toudon",
     "latitude": 43.9,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Touët-sur-Var",
+    "name": "Touï¿½t-sur-Var",
     "latitude": 43.95,
     "longitude": 7
   },
   {
-    "nom_commune": "Tourette-du-Château",
+    "name": "Tourette-du-Chï¿½teau",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Tournefort",
+    "name": "Tournefort",
     "latitude": 43.95,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Tourrette-Levens",
+    "name": "Tourrette-Levens",
     "latitude": 43.783333,
     "longitude": 7.266667
   },
   {
-    "nom_commune": "Utelle",
+    "name": "Utelle",
     "latitude": 43.916667,
     "longitude": 7.25
   },
   {
-    "nom_commune": "Valdeblore",
+    "name": "Valdeblore",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Venanson",
+    "name": "Venanson",
     "latitude": 44.05,
     "longitude": 7.25
   },
   {
-    "nom_commune": "Villars-sur-Var",
+    "name": "Villars-sur-Var",
     "latitude": 43.933333,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Villeneuve-d'Entraunes",
+    "name": "Villeneuve-d'Entraunes",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Bézaudun-les-Alpes",
+    "name": "Bï¿½zaudun-les-Alpes",
     "latitude": 43.8,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Bouyon",
+    "name": "Bouyon",
     "latitude": 43.833333,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Cagnes-sur-Mer",
+    "name": "Cagnes-sur-Mer",
     "latitude": 43.666667,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Carros",
+    "name": "Carros",
     "latitude": 43.8,
     "longitude": 7.183333
   },
   {
-    "nom_commune": "Cipières",
+    "name": "Cipiï¿½res",
     "latitude": 43.783333,
     "longitude": 6.95
   },
   {
-    "nom_commune": "Conségudes",
+    "name": "Consï¿½gudes",
     "latitude": 43.85,
     "longitude": 7.05
   },
   {
-    "nom_commune": "Coursegoules",
+    "name": "Coursegoules",
     "latitude": 43.8,
     "longitude": 7.033333
   },
   {
-    "nom_commune": "Gattières",
+    "name": "Gattiï¿½res",
     "latitude": 43.766667,
     "longitude": 7.183333
   },
   {
-    "nom_commune": "Gréolières",
+    "name": "Grï¿½oliï¿½res",
     "latitude": 43.8,
     "longitude": 6.95
   },
   {
-    "nom_commune": "La Colle-sur-Loup",
+    "name": "La Colle-sur-Loup",
     "latitude": 43.683333,
     "longitude": 7.1
   },
   {
-    "nom_commune": "La Gaude",
+    "name": "La Gaude",
     "latitude": 43.716667,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Le Broc",
+    "name": "Le Broc",
     "latitude": 43.816667,
     "longitude": 7.166667
   },
   {
-    "nom_commune": "Les Ferres",
+    "name": "Les Ferres",
     "latitude": 43.85,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Roquestéron-Grasse",
+    "name": "Roquestï¿½ron-Grasse",
     "latitude": 43.866667,
     "longitude": 7
   },
   {
-    "nom_commune": "Saint-Jeannet",
+    "name": "Saint-Jeannet",
     "latitude": 43.75,
     "longitude": 7.15
   },
   {
-    "nom_commune": "Saint-Laurent-du-Var",
+    "name": "Saint-Laurent-du-Var",
     "latitude": 43.666667,
     "longitude": 7.183333
   },
   {
-    "nom_commune": "Saint-Paul",
+    "name": "Saint-Paul",
     "latitude": 43.7,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Vence",
+    "name": "Vence",
     "latitude": 43.716667,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Villeneuve-Loubet",
+    "name": "Villeneuve-Loubet",
     "latitude": 43.65,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Antibes",
+    "name": "Antibes",
     "latitude": 43.583333,
     "longitude": 7.116667
   },
   {
-    "nom_commune": "Biot",
+    "name": "Biot",
     "latitude": 43.633333,
     "longitude": 7.1
   },
   {
-    "nom_commune": "Caussols",
+    "name": "Caussols",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Châteauneuf-Grasse",
+    "name": "Chï¿½teauneuf-Grasse",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Courmes",
+    "name": "Courmes",
     "latitude": 43.75,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Gourdon",
+    "name": "Gourdon",
     "latitude": 43.716667,
     "longitude": 6.983333
   },
   {
-    "nom_commune": "Le Bar-sur-Loup",
+    "name": "Le Bar-sur-Loup",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Le Rouret",
+    "name": "Le Rouret",
     "latitude": 43.683333,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Opio",
+    "name": "Opio",
     "latitude": 43.666667,
     "longitude": 6.983333
   },
   {
-    "nom_commune": "Roquefort-les-Pins",
+    "name": "Roquefort-les-Pins",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Tourrettes-sur-Loup",
+    "name": "Tourrettes-sur-Loup",
     "latitude": 43.716667,
     "longitude": 7.05
   },
   {
-    "nom_commune": "Valbonne",
+    "name": "Valbonne",
     "latitude": 43.633333,
     "longitude": 7
   },
   {
-    "nom_commune": "Vallauris",
+    "name": "Vallauris",
     "latitude": 43.583333,
     "longitude": 7.05
   },
   {
-    "nom_commune": "Cannes",
+    "name": "Cannes",
     "latitude": 43.55,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Mandelieu-la-Napoule",
+    "name": "Mandelieu-la-Napoule",
     "latitude": 43.55,
     "longitude": 6.933333
   },
   {
-    "nom_commune": "Théoule-sur-Mer",
+    "name": "Thï¿½oule-sur-Mer",
     "latitude": 43.5,
     "longitude": 6.933333
   },
   {
-    "nom_commune": "Aiglun",
+    "name": "Aiglun",
     "latitude": 43.85,
     "longitude": 6.916667
   },
   {
-    "nom_commune": "Amirat",
+    "name": "Amirat",
     "latitude": 43.9,
     "longitude": 6.816667
   },
   {
-    "nom_commune": "Andon",
+    "name": "Andon",
     "latitude": 43.766667,
     "longitude": 6.783333
   },
   {
-    "nom_commune": "Auribeau-sur-Siagne",
+    "name": "Auribeau-sur-Siagne",
     "latitude": 43.6,
     "longitude": 6.916667
   },
   {
-    "nom_commune": "Briançonnet",
+    "name": "Brianï¿½onnet",
     "latitude": 43.866667,
     "longitude": 6.766667
   },
   {
-    "nom_commune": "Cabris",
+    "name": "Cabris",
     "latitude": 43.666667,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Caille",
+    "name": "Caille",
     "latitude": 43.766667,
     "longitude": 6.733333
   },
   {
-    "nom_commune": "Collongues",
+    "name": "Collongues",
     "latitude": 43.883333,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Escragnolles",
+    "name": "Escragnolles",
     "latitude": 43.733333,
     "longitude": 6.783333
   },
   {
-    "nom_commune": "Gars",
+    "name": "Gars",
     "latitude": 43.866667,
     "longitude": 6.8
   },
   {
-    "nom_commune": "Grasse",
+    "name": "Grasse",
     "latitude": 43.666667,
     "longitude": 6.916667
   },
   {
-    "nom_commune": "La Roquette-sur-Siagne",
+    "name": "La Roquette-sur-Siagne",
     "latitude": 43.6,
     "longitude": 6.95
   },
   {
-    "nom_commune": "Le Cannet",
+    "name": "Le Cannet",
     "latitude": 43.566667,
     "longitude": 7.016667
   },
   {
-    "nom_commune": "Le Mas",
+    "name": "Le Mas",
     "latitude": 43.85,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Les Mujouls",
+    "name": "Les Mujouls",
     "latitude": 43.883333,
     "longitude": 6.85
   },
   {
-    "nom_commune": "Le Tignet",
+    "name": "Le Tignet",
     "latitude": 43.65,
     "longitude": 6.85
   },
   {
-    "nom_commune": "Mouans-Sartoux",
+    "name": "Mouans-Sartoux",
     "latitude": 43.616667,
     "longitude": 6.966667
   },
   {
-    "nom_commune": "Mougins",
+    "name": "Mougins",
     "latitude": 43.6,
     "longitude": 7
   },
   {
-    "nom_commune": "Pégomas",
+    "name": "Pï¿½gomas",
     "latitude": 43.6,
     "longitude": 6.933333
   },
   {
-    "nom_commune": "Peymeinade",
+    "name": "Peymeinade",
     "latitude": 43.633333,
     "longitude": 6.883333
   },
   {
-    "nom_commune": "Saint-Auban",
+    "name": "Saint-Auban",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Saint-Cézaire-sur-Siagne",
+    "name": "Saint-Cï¿½zaire-sur-Siagne",
     "latitude": 43.65,
     "longitude": 6.8
   },
   {
-    "nom_commune": "Saint-Vallier-de-Thiey",
+    "name": "Saint-Vallier-de-Thiey",
     "latitude": 43.7,
     "longitude": 6.85
   },
   {
-    "nom_commune": "Sallagriffon",
+    "name": "Sallagriffon",
     "latitude": "",
     "longitude": ""
   },
   {
-    "nom_commune": "Séranon",
+    "name": "Sï¿½ranon",
     "latitude": 43.766667,
     "longitude": 6.7
   },
   {
-    "nom_commune": "Spéracèdes",
+    "name": "Spï¿½racï¿½des",
     "latitude": 43.65,
     "longitude": 6.866667
   },
   {
-    "nom_commune": "Valderoure",
+    "name": "Valderoure",
     "latitude": 43.783333,
     "longitude": 6.716667
   }

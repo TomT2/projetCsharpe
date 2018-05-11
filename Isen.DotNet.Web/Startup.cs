@@ -46,12 +46,11 @@ namespace Isen.DotNet.Web
             //----------------------
 
             // Injection des repo
-            services.AddScoped<ICityRepository, DbContextCityRepository>();
-            services.AddScoped<IInterestPointRepository, DbContextInterestPointRepository>();
             services.AddScoped<IDepartmentRepository, DbContextDepartmentRepository>();
+            services.AddScoped<ICityRepository, DbContextCityRepository>();
             services.AddScoped<ICategoryRepository, DbContextCategoryRepository>();
             services.AddScoped<IAddressRepository, DbContextAddressRepository>();
-
+            services.AddScoped<IInterestPointRepository, DbContextInterestPointRepository>();
             // injection d'autres services
             services.AddScoped<SeedData>();
 
