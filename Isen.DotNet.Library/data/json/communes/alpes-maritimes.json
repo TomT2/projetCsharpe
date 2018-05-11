@@ -10,12 +10,12 @@
     "longitude": 7.283333
   },
   {
-    "name": "La Trinit�",
+    "name": "La Trinite",
     "latitude": 43.75,
     "longitude": 7.316667
   },
   {
-    "name": "Saint-Andr� de la Roche",
+    "name": "Saint-Andre de la Roche",
     "latitude": 43.733333,
     "longitude": 7.283333
   },
@@ -80,12 +80,12 @@
     "longitude": 7.4
   },
   {
-    "name": "L'Escar�ne",
+    "name": "L'Escarene",
     "latitude": 43.833333,
     "longitude": 7.35
   },
   {
-    "name": "Luc�ram",
+    "name": "Luceram",
     "latitude": 43.883333,
     "longitude": 7.366667
   },
@@ -115,7 +115,7 @@
     "longitude": 7.466667
   },
   {
-    "name": "Sainte-Agn�s",
+    "name": "Sainte-Agnes",
     "latitude": 43.8,
     "longitude": 7.466667
   },
@@ -140,9 +140,9 @@
     "longitude": 7.6
   },
   {
-    "name": "Tou�t-de-l'Escar�ne",
-    "latitude": "",
-    "longitude": ""
+    "name": "Touet-de-l'Escarene",
+    "latitude": "43.85",
+    "longitude": "7.3667"
   },
   {
     "name": "Villefranche-sur-Mer",
@@ -170,7 +170,7 @@
     "longitude": 7.133333
   },
   {
-    "name": "Belv�d�re",
+    "name": "Belvedere",
     "latitude": 44,
     "longitude": 7.316667
   },
@@ -181,8 +181,8 @@
   },
   {
     "name": "Berre-les-Alpes",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.8333,
+    "longitude": 7.3333
   },
   {
     "name": "Beuil",
@@ -205,14 +205,14 @@
     "longitude": 7.233333
   },
   {
-    "name": "Ch�teauneuf-d'Entraunes",
+    "name": "Chateauneuf-d'Entraunes",
     "latitude": 44.133333,
     "longitude": 6.833333
   },
   {
-    "name": "Ch�teauneuf-Villevieille",
-    "latitude": "",
-    "longitude": ""
+    "name": "Chateauneuf-Villevieille",
+    "latitude": 43.8167,
+    "longitude": 7.3
   },
   {
     "name": "Clans",
@@ -235,7 +235,7 @@
     "longitude": 7.316667
   },
   {
-    "name": "Cu�bris",
+    "name": "Cuebris",
     "latitude": 43.883333,
     "longitude": 7.016667
   },
@@ -280,7 +280,7 @@
     "longitude": 7.05
   },
   {
-    "name": "La Boll�ne-V�subie",
+    "name": "La Bollene-Vesubie",
     "latitude": 43.983333,
     "longitude": 7.333333
   },
@@ -320,7 +320,7 @@
     "longitude": 7.016667
   },
   {
-    "name": "Malauss�ne",
+    "name": "Malaussene",
     "latitude": 43.916667,
     "longitude": 7.133333
   },
@@ -335,7 +335,7 @@
     "longitude": 7.133333
   },
   {
-    "name": "P�one",
+    "name": "Peone",
     "latitude": 44.116667,
     "longitude": 6.9
   },
@@ -355,7 +355,7 @@
     "longitude": 6.916667
   },
   {
-    "name": "Puget-Th�niers",
+    "name": "Puget-Theniers",
     "latitude": 43.95,
     "longitude": 6.9
   },
@@ -375,7 +375,7 @@
     "longitude": 7.133333
   },
   {
-    "name": "Roquebilli�re",
+    "name": "Roquebilliere",
     "latitude": 44.016667,
     "longitude": 7.3
   },
@@ -410,12 +410,12 @@
     "longitude": 6.866667
   },
   {
-    "name": "Saint-Etienne-de-Tin�e",
+    "name": "Saint-Etienne-de-Tinee",
     "latitude": 44.258333,
     "longitude": 6.925
   },
   {
-    "name": "Saint-L�ger",
+    "name": "Saint-Leger",
     "latitude": 44,
     "longitude": 6.833333
   },
@@ -430,12 +430,12 @@
     "longitude": 7.2
   },
   {
-    "name": "Saint-Martin-V�subie",
+    "name": "Saint-Martin-Vesubie",
     "latitude": 44.066667,
     "longitude": 7.25
   },
   {
-    "name": "Saint-Sauveur-sur-Tin�e",
+    "name": "Saint-Sauveur-sur-Tinee",
     "latitude": 44.083333,
     "longitude": 7.1
   },
@@ -450,7 +450,7 @@
     "longitude": 6.95
   },
   {
-    "name": "Thi�ry",
+    "name": "Thiery",
     "latitude": 43.983333,
     "longitude": 7.033333
   },
@@ -460,14 +460,14 @@
     "longitude": 7.116667
   },
   {
-    "name": "Tou�t-sur-Var",
+    "name": "Touet-sur-Var",
     "latitude": 43.95,
     "longitude": 7
   },
   {
-    "name": "Tourette-du-Ch�teau",
-    "latitude": "",
-    "longitude": ""
+    "name": "Tourette-du-Chateau",
+    "latitude": 43.8833,
+    "longitude": 7.1333
   },
   {
     "name": "Tournefort",
@@ -486,8 +486,8 @@
   },
   {
     "name": "Valdeblore",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.0712,
+    "longitude": 7.172
   },
   {
     "name": "Venanson",
@@ -501,11 +501,11 @@
   },
   {
     "name": "Villeneuve-d'Entraunes",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 44.1167,
+    "longitude": 6.8
   },
   {
-    "name": "B�zaudun-les-Alpes",
+    "name": "Bezaudun-les-Alpes",
     "latitude": 43.8,
     "longitude": 7.1
   },
@@ -525,12 +525,12 @@
     "longitude": 7.183333
   },
   {
-    "name": "Cipi�res",
+    "name": "Cipieres",
     "latitude": 43.783333,
     "longitude": 6.95
   },
   {
-    "name": "Cons�gudes",
+    "name": "Consegudes",
     "latitude": 43.85,
     "longitude": 7.05
   },
@@ -540,12 +540,12 @@
     "longitude": 7.033333
   },
   {
-    "name": "Gatti�res",
+    "name": "Gattieres",
     "latitude": 43.766667,
     "longitude": 7.183333
   },
   {
-    "name": "Gr�oli�res",
+    "name": "Greolieres",
     "latitude": 43.8,
     "longitude": 6.95
   },
@@ -570,7 +570,7 @@
     "longitude": 7.1
   },
   {
-    "name": "Roquest�ron-Grasse",
+    "name": "Roquesteron-Grasse",
     "latitude": 43.866667,
     "longitude": 7
   },
@@ -611,13 +611,13 @@
   },
   {
     "name": "Caussols",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7418,
+    "longitude": 6.9002
   },
   {
-    "name": "Ch�teauneuf-Grasse",
-    "latitude": "",
-    "longitude": ""
+    "name": "Chateauneuf-Grasse",
+    "latitude": 43.6667,
+    "longitude": 6.9833
   },
   {
     "name": "Courmes",
@@ -631,8 +631,8 @@
   },
   {
     "name": "Le Bar-sur-Loup",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.7,
+    "longitude": 6.9833
   },
   {
     "name": "Le Rouret",
@@ -646,8 +646,8 @@
   },
   {
     "name": "Roquefort-les-Pins",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.6727,
+    "longitude": 7.0565
   },
   {
     "name": "Tourrettes-sur-Loup",
@@ -675,7 +675,7 @@
     "longitude": 6.933333
   },
   {
-    "name": "Th�oule-sur-Mer",
+    "name": "Theoule-sur-Mer",
     "latitude": 43.5,
     "longitude": 6.933333
   },
@@ -700,7 +700,7 @@
     "longitude": 6.916667
   },
   {
-    "name": "Brian�onnet",
+    "name": "Brianeonnet",
     "latitude": 43.866667,
     "longitude": 6.766667
   },
@@ -770,7 +770,7 @@
     "longitude": 7
   },
   {
-    "name": "P�gomas",
+    "name": "Pegomas",
     "latitude": 43.6,
     "longitude": 6.933333
   },
@@ -781,11 +781,11 @@
   },
   {
     "name": "Saint-Auban",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.85,
+    "longitude": 6.7333
   },
   {
-    "name": "Saint-C�zaire-sur-Siagne",
+    "name": "Saint-Cezaire-sur-Siagne",
     "latitude": 43.65,
     "longitude": 6.8
   },
@@ -796,16 +796,16 @@
   },
   {
     "name": "Sallagriffon",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 43.8833,
+    "longitude": 6.9
   },
   {
-    "name": "S�ranon",
+    "name": "Seranon",
     "latitude": 43.766667,
     "longitude": 6.7
   },
   {
-    "name": "Sp�rac�des",
+    "name": "Speracedes",
     "latitude": 43.65,
     "longitude": 6.866667
   },
