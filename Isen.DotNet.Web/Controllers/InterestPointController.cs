@@ -21,36 +21,36 @@ namespace Isen.DotNet.Web.Controllers
         }
 
         [HttpGet]
-        [Route("api/[controller]/Category/{id?}")]
-        public virtual JsonResult GetByCategory(int id)
+        [Route("api/[controller]/Category/{category?}")]
+        public virtual JsonResult GetByCategory(string category)
         {
             var allByCategory = _repository
                 .GetAll()
-                .Where(i => i.CategoryId == id)
+                .Where(i => i.Category?.Name?.ToLower() == category.ToLower())
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByCategory);
         }
 
         [HttpGet]
-        [Route("api/[controller]/City/{id?}")]
-        public virtual JsonResult GetByCity(int id)
+        [Route("api/[controller]/City/{city?}")]
+        public virtual JsonResult GetByCity(string city)
         {
             var allByCity = _repository
                 .GetAll()
-                .Where(i => i.Address?.CityId == id)
+                .Where(i => i.Address?.City?.Name.ToLower() == city.ToLower())
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByCity);
         }
 
         [HttpGet]
-        [Route("api/[controller]/Department/{id?}")]
-        public virtual JsonResult GetByDepartment(int id)
+        [Route("api/[controller]/Department/{department?}")]
+        public virtual JsonResult GetByDepartment(string department)
         {
             var allByDepartment = _repository
                 .GetAll()
-                .Where(i => i.Address?.City?.DepartmentId == id)
+                .Where(i => i.Address?.City?.Department.Name.ToLower() == department.ToLower())
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(allByDepartment);
@@ -62,9 +62,9 @@ namespace Isen.DotNet.Web.Controllers
         {
             var filter = _repository
                 .GetAll()
-                .Where(i => (i.Address.City.Name.ToLower() == city.ToLower() || city.ToLower() == "all")&&
-                            (i.Address.City.Department.Name.ToLower() == department.ToLower() || department.ToLower() == "all")&&
-                            (i.Category.Name.ToLower() == category.ToLower() || category.ToLower() == "all"))
+                .Where(i => (i.Address?.City?.Name.ToLower() == city.ToLower() || city.ToLower() == "all")&&
+                            (i.Address?.City?.Department.Name.ToLower() == department.ToLower() || department.ToLower() == "all")&&
+                            (i.Category?.Name?.ToLower() == category.ToLower() || category.ToLower() == "all"))
                 .Select(i => i.ToDynamic())
                 .ToList();
             return Json(filter);
