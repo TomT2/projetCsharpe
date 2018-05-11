@@ -107,14 +107,14 @@ namespace Isen.DotNet.Library.Data
             {
                 city.Department = _departmentRepository.Single("Alpes-de-Haute-Provence");
             }
-/*
+
             string alpes_maritimes_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/alpes-maritimes.json");
             List<City> cities_am = JsonConvert.DeserializeObject<List<City>>(alpes_provence_cities_json);
             foreach(City city in cities_am)
             {
                 city.Department = _departmentRepository.Single("Alpes-Maritimes");
             }
- */
+
             string bouches_du_rhone_cities_json = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/bouches-du-rhone.json");
             List<City> cities_b = JsonConvert.DeserializeObject<List<City>>(bouches_du_rhone_cities_json);
             foreach(City city in cities_b)
@@ -138,7 +138,7 @@ namespace Isen.DotNet.Library.Data
 
             cities.AddRange(cities_var);
             cities.AddRange(cities_ap);
-            //cities.AddRange(cities_am);
+            cities.AddRange(cities_am);
             cities.AddRange(cities_b);
             cities.AddRange(cities_h);
             cities.AddRange(cities_vaucluse);
@@ -191,7 +191,7 @@ namespace Isen.DotNet.Library.Data
             //interestPoints[5].Address.City = _cityRepository.Single("Antibes");
             interestPoints[5].Category = _categoryRepository.Single("Loisir");
 
-            //interestPoints[6].Address.City = _cityRepository.Single("Nice");
+            interestPoints[6].Address.City = _cityRepository.Single("Nice");
             interestPoints[6].Category = _categoryRepository.Single("Loisir");
 
             interestPoints[7].Address.City = _cityRepository.Single("Roussillon");
