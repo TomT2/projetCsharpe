@@ -27,6 +27,20 @@ namespace Isen.DotNet.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                        builder =>
+                        {
+                            builder.WithOrigins("http://localhost:4200")
+                                .AllowAnyMethod()
+                                .AllowAnyHeader()
+                                .AllowCredentials()
+                                .WithExposedHeaders("Authorization", "WWW-Authenticate");
+                        });
+            });
+
+            
             // Utiliser Entity Framework
             services.AddDbContext<ApplicationDbContext>(options => 
                 // Utiliser le provider Sqlite
@@ -35,6 +49,11 @@ namespace Isen.DotNet.Web
                     // du fichier de config
                     Configuration.GetConnectionString("DefaultConnection")));
 
+            services
+                .AddMvcCore()
+                .AddJsonFormatters()
+                .AddAuthorization();
+                
             services
                 .AddMvc()
                 .AddJsonOptions(options => {
@@ -78,6 +97,7 @@ namespace Isen.DotNet.Web
                 app.UseExceptionHandler("/Home/Error");
             }
 
+            app.UseCors("AllowAll");
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
