@@ -26,7 +26,7 @@ namespace Isen.DotNet.Web.Controllers
         {
             var allByDepartment = _repository
                 .GetAll()
-                .Where(c => c.Department.Name.ToLower() == department.ToLower())
+                .Where(c => c.Department.Name.ToLower() == department.ToLower() || department.ToLower() == "all")
                 .Select(c => c.ToDynamic())
                 .ToList();
             return Json(allByDepartment);
