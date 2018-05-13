@@ -19,5 +19,17 @@ namespace Isen.DotNet.Web.Controllers
             : base(logger, repository)
         {
         }
+
+        [HttpGet]
+        [Route("api/[controller]/Department/{Department?}")]
+        public virtual JsonResult GetByDepartment(string department)
+        {
+            var allByDepartment = _repository
+                .GetAll()
+                .Where(c => c.Department.Name.ToLower() == department.ToLower())
+                .Select(c => c.ToDynamic())
+                .ToList();
+            return Json(allByDepartment);
+        }
     }
 }
