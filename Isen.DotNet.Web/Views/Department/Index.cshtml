@@ -1,0 +1,36 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@{
+    ViewData["Title"] = "Départements";
+}
+@model IEnumerable<Department>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Départements <small>/department/index</small></h1>
+    </div>
+</div>
+
+<div class="row">
+    <table class="table table-stripe">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Numéro</th>
+                <th>Nombre de communes</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var department in Model)
+            {
+            <tr>
+                <td>@department.Id</td>
+                <td>@department.Name</td>
+                <td>@department.Number</td>
+                <td>@department.CityCount</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

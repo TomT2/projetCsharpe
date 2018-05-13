@@ -1,0 +1,757 @@
+[
+  {
+    "name": "Avignon",
+    "latitude": 43.95,
+    "longitude": 4.816667
+  },
+  {
+    "name": "Le Pontet",
+    "latitude": 43.966667,
+    "longitude": 4.85
+  },
+  {
+    "name": "Morieres-les-Avignon",
+    "latitude": 43.9333,
+    "longitude": 4.9
+  },
+  {
+    "name": "Ansouis",
+    "latitude": 43.733333,
+    "longitude": 5.466667
+  },
+  {
+    "name": "Apt",
+    "latitude": 43.883333,
+    "longitude": 5.4
+  },
+  {
+    "name": "Auribeau",
+    "latitude": 43.8333,
+    "longitude": 5.45
+  },
+  {
+    "name": "Beaumettes",
+    "latitude": 43.85,
+    "longitude": 5.233333
+  },
+  {
+    "name": "Beaumont-de-Pertuis",
+    "latitude": 43.733333,
+    "longitude": 5.7
+  },
+  {
+    "name": "Bonnieux",
+    "latitude": 43.816667,
+    "longitude": 5.3
+  },
+  {
+    "name": "Buoux",
+    "latitude": 43.833333,
+    "longitude": 5.383333
+  },
+  {
+    "name": "Cabrieres-d'Aigues",
+    "latitude": 43.783333,
+    "longitude": 5.5
+  },
+  {
+    "name": "Cabrieres-d'Avignon",
+    "latitude": 43.9,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Cadenet",
+    "latitude": 43.733333,
+    "longitude": 5.366667
+  },
+  {
+    "name": "Caseneuve",
+    "latitude": 43.883333,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Castellet",
+    "latitude": 43.85,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Caumont-sur-Durance",
+    "latitude": 43.9,
+    "longitude": 4.95
+  },
+  {
+    "name": "Cavaillon",
+    "latitude": "43,84",
+    "longitude": "5,04"
+  },
+  {
+    "name": "Chateauneuf-de-Gadagne",
+    "latitude": 43.933333,
+    "longitude": 4.933333
+  },
+  {
+    "name": "Cheval-Blanc",
+    "latitude": 43.8,
+    "longitude": 5.066667
+  },
+  {
+    "name": "Cucuron",
+    "latitude": 43.783333,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Fontaine-de-Vaucluse",
+    "latitude": 43.916667,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Gargas",
+    "latitude": 43.9,
+    "longitude": 5.383333
+  },
+  {
+    "name": "Gignac",
+    "latitude": 43.916667,
+    "longitude": 5.533333
+  },
+  {
+    "name": "Gordes",
+    "latitude": 43.9,
+    "longitude": 5.2
+  },
+  {
+    "name": "Goult",
+    "latitude": 43.866667,
+    "longitude": 5.25
+  },
+  {
+    "name": "Grambois",
+    "latitude": 43.766667,
+    "longitude": 5.583333
+  },
+  {
+    "name": "Jonquerettes",
+    "latitude": 43.95,
+    "longitude": 4.933333
+  },
+  {
+    "name": "Joucas",
+    "latitude": 43.916667,
+    "longitude": 5.25
+  },
+  {
+    "name": "La Bastide-des-Jourdans",
+    "latitude": 43.783333,
+    "longitude": 5.633333
+  },
+  {
+    "name": "La Bastidonne",
+    "latitude": 43.716667,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Lacoste",
+    "latitude": 43.833333,
+    "longitude": 5.3
+  },
+  {
+    "name": "Lagarde-d'Apt",
+    "latitude": 43.983333,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Lagnes",
+    "latitude": 43.9,
+    "longitude": 5.116667
+  },
+  {
+    "name": "La Motte-d'Aigues",
+    "latitude": 43.766667,
+    "longitude": 5.516667
+  },
+  {
+    "name": "La Tour-d'Aigues",
+    "latitude": 43.733333,
+    "longitude": 5.55
+  },
+  {
+    "name": "Lauris",
+    "latitude": 43.75,
+    "longitude": 5.316667
+  },
+  {
+    "name": "Le Thor",
+    "latitude": 43.933333,
+    "longitude": 5
+  },
+  {
+    "name": "Lioux",
+    "latitude": 43.95,
+    "longitude": 5.316667
+  },
+  {
+    "name": "L'Isle-sur-la-Sorgue",
+    "latitude": 43.916667,
+    "longitude": 5.05
+  },
+  {
+    "name": "Lourmarin",
+    "latitude": 43.766667,
+    "longitude": 5.366667
+  },
+  {
+    "name": "Maubec",
+    "latitude": 43.85,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Menerbes",
+    "latitude": 43.833333,
+    "longitude": 5.216667
+  },
+  {
+    "name": "Merindol",
+    "latitude": 43.75,
+    "longitude": 5.2
+  },
+  {
+    "name": "Mirabeau",
+    "latitude": 43.7,
+    "longitude": 5.65
+  },
+  {
+    "name": "Murs",
+    "latitude": 43.95,
+    "longitude": 5.25
+  },
+  {
+    "name": "Oppede",
+    "latitude": 43.833333,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Pertuis",
+    "latitude": 43.683333,
+    "longitude": 5.5
+  },
+  {
+    "name": "Peypin-d'Aigues",
+    "latitude": 43.8,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Puget",
+    "latitude": 43.75,
+    "longitude": 5.3
+  },
+  {
+    "name": "Puyvert",
+    "latitude": 43.766667,
+    "longitude": 5.35
+  },
+  {
+    "name": "Robion",
+    "latitude": 43.85,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Roussillon",
+    "latitude": 43.9,
+    "longitude": 5.283333
+  },
+  {
+    "name": "Rustrel",
+    "latitude": 43.916667,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Saignon",
+    "latitude": 43.866667,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Saint-Martin-de-Castillon",
+    "latitude": 43.866667,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Saint-Martin-de-la-Brasque",
+    "latitude": 43.766667,
+    "longitude": 5.533333
+  },
+  {
+    "name": "Saint-Pantaleon",
+    "latitude": 43.883333,
+    "longitude": 5.25
+  },
+  {
+    "name": "Saint-Saturnin-les-Apt",
+    "latitude": 43.9333,
+    "longitude": 5.3833
+  },
+  {
+    "name": "Saint-Saturnin-les-Avignon",
+    "latitude": 43.95,
+    "longitude": 4.933333
+  },
+  {
+    "name": "Sannes",
+    "latitude": 43.75,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Saumane-de-Vaucluse",
+    "latitude": 43.9333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Sivergues",
+    "latitude": 43.833333,
+    "longitude": 5.4
+  },
+  {
+    "name": "Taillades",
+    "latitude": 43.833333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Vaugines",
+    "latitude": 43.783333,
+    "longitude": 5.416667
+  },
+  {
+    "name": "Viens",
+    "latitude": 43.9,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Villars",
+    "latitude": 43.916667,
+    "longitude": 5.4
+  },
+  {
+    "name": "Villelaure",
+    "latitude": 43.716667,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Vitrolles-en-Luberon",
+    "latitude": 43.8167,
+    "longitude": 5.6
+  },
+  {
+    "name": "Althen-des-Paluds",
+    "latitude": 44,
+    "longitude": 4.95
+  },
+  {
+    "name": "Aubignan",
+    "latitude": 44.1,
+    "longitude": 5.016667
+  },
+  {
+    "name": "Aurel",
+    "latitude": 44.133333,
+    "longitude": 5.416667
+  },
+  {
+    "name": "Bedarrides",
+    "latitude": 44.033333,
+    "longitude": 4.9
+  },
+  {
+    "name": "Bedoin",
+    "latitude": 44.116667,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Blauvac",
+    "latitude": 44.033333,
+    "longitude": 5.2
+  },
+  {
+    "name": "Caromb",
+    "latitude": 44.116667,
+    "longitude": 5.1
+  },
+  {
+    "name": "Carpentras",
+    "latitude": 44.05,
+    "longitude": 5.05
+  },
+  {
+    "name": "Courthezon",
+    "latitude": 44.083333,
+    "longitude": 4.883333
+  },
+  {
+    "name": "Crillon-le-Brave",
+    "latitude": 44.116667,
+    "longitude": 5.15
+  },
+  {
+    "name": "Entraigues-sur-la-Sorgue",
+    "latitude": 44,
+    "longitude": 4.9167
+  },
+  {
+    "name": "Flassan",
+    "latitude": 44.1,
+    "longitude": 5.25
+  },
+  {
+    "name": "La Roque-sur-Pernes",
+    "latitude": 43.983333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Le Beaucet",
+    "latitude": 43.983333,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Loriol-du-Comtat",
+    "latitude": 44.083333,
+    "longitude": 5
+  },
+  {
+    "name": "Malemort-du-Comtat",
+    "latitude": 44.016667,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Mazan",
+    "latitude": 44.05,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Methamis",
+    "latitude": 44.016667,
+    "longitude": 5.216667
+  },
+  {
+    "name": "Modene",
+    "latitude": 44.1,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Monieux",
+    "latitude": 44.066667,
+    "longitude": 5.366667
+  },
+  {
+    "name": "Monteux",
+    "latitude": 44.033333,
+    "longitude": 5
+  },
+  {
+    "name": "Mormoiron",
+    "latitude": 44.066667,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Pernes-les-Fontaines",
+    "latitude": 44,
+    "longitude": 5.05
+  },
+  {
+    "name": "Saint-Christol",
+    "latitude": 44.033333,
+    "longitude": 5.5
+  },
+  {
+    "name": "Saint-Didier",
+    "latitude": 44,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Saint-Hippolyte-le-Graveyron",
+    "latitude": 44.1333,
+    "longitude": 5.0667
+  },
+  {
+    "name": "Saint-Pierre-de-Vassols",
+    "latitude": 44.1,
+    "longitude": 5.15
+  },
+  {
+    "name": "Saint-Trinit",
+    "latitude": 44.1,
+    "longitude": 5.466667
+  },
+  {
+    "name": "Sarrians",
+    "latitude": 44.083333,
+    "longitude": 4.966667
+  },
+  {
+    "name": "Sault",
+    "latitude": 44.0833,
+    "longitude": 5.4167
+  },
+  {
+    "name": "Sorgues",
+    "latitude": 44,
+    "longitude": 4.866667
+  },
+  {
+    "name": "Vedene",
+    "latitude": 43.983333,
+    "longitude": 4.9
+  },
+  {
+    "name": "Velleron",
+    "latitude": 43.95,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Venasque",
+    "latitude": 43.983333,
+    "longitude": 5.15
+  },
+  {
+    "name": "Villes-sur-Auzon",
+    "latitude": 44.05,
+    "longitude": 5.233333
+  },
+  {
+    "name": "Beaumes-de-Venise",
+    "latitude": 44.116667,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Beaumont-du-Ventoux",
+    "latitude": 44.183333,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Bollene",
+    "latitude": 44.283333,
+    "longitude": 4.75
+  },
+  {
+    "name": "Brantes",
+    "latitude": 44.183333,
+    "longitude": 5.333333
+  },
+  {
+    "name": "Buisson",
+    "latitude": 44.283333,
+    "longitude": 5
+  },
+  {
+    "name": "Caderousse",
+    "latitude": 44.1,
+    "longitude": 4.75
+  },
+  {
+    "name": "Cairanne",
+    "latitude": 44.233333,
+    "longitude": 4.933333
+  },
+  {
+    "name": "Camaret-sur-Aigues",
+    "latitude": 44.166667,
+    "longitude": 4.883333
+  },
+  {
+    "name": "Chateauneuf-du-Pape",
+    "latitude": 44.05,
+    "longitude": 4.833333
+  },
+  {
+    "name": "Crestet",
+    "latitude": 44.216667,
+    "longitude": 5.083333
+  },
+  {
+    "name": "Entrechaux",
+    "latitude": 44.216667,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Faucon",
+    "latitude": 44.266667,
+    "longitude": 5.15
+  },
+  {
+    "name": "Gigondas",
+    "latitude": 44.166667,
+    "longitude": 5
+  },
+  {
+    "name": "Grillon",
+    "latitude": 44.4,
+    "longitude": 4.933333
+  },
+  {
+    "name": "Jonquieres",
+    "latitude": 44.116667,
+    "longitude": 4.9
+  },
+  {
+    "name": "Lafare",
+    "latitude": 44.15,
+    "longitude": 5.05
+  },
+  {
+    "name": "Lagarde-Pareol",
+    "latitude": 44.216667,
+    "longitude": 4.85
+  },
+  {
+    "name": "Lamotte-du-Rhone",
+    "latitude": 44.266667,
+    "longitude": 4.683333
+  },
+  {
+    "name": "Lapalud",
+    "latitude": 44.3,
+    "longitude": 4.683333
+  },
+  {
+    "name": "La Roque-Alric",
+    "latitude": 44.15,
+    "longitude": 5.066667
+  },
+  {
+    "name": "Le Barroux",
+    "latitude": 44.133333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Malaucene",
+    "latitude": 44.166667,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Mondragon",
+    "latitude": 44.233333,
+    "longitude": 4.716667
+  },
+  {
+    "name": "Mornas",
+    "latitude": 44.2,
+    "longitude": 4.733333
+  },
+  {
+    "name": "Orange",
+    "latitude": 44.133333,
+    "longitude": 4.8
+  },
+  {
+    "name": "Piolenc",
+    "latitude": 44.183333,
+    "longitude": 4.766667
+  },
+  {
+    "name": "Puymeras",
+    "latitude": 44.266667,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Rasteau",
+    "latitude": 44.216667,
+    "longitude": 4.983333
+  },
+  {
+    "name": "Richerenches",
+    "latitude": 44.366667,
+    "longitude": 4.916667
+  },
+  {
+    "name": "Roaix",
+    "latitude": 44.25,
+    "longitude": 5.016667
+  },
+  {
+    "name": "Sablet",
+    "latitude": 44.183333,
+    "longitude": 5
+  },
+  {
+    "name": "Sainte-Cecile-les-Vignes",
+    "latitude": 44.25,
+    "longitude": 4.883333
+  },
+  {
+    "name": "Saint-Leger-du-Ventoux",
+    "latitude": 44.2,
+    "longitude": 5.266667
+  },
+  {
+    "name": "Saint-Marcellin-les-Vaison",
+    "latitude": 44.2333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Saint-Romain-en-Viennois",
+    "latitude": 44.266667,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Saint-Roman-de-Malegarde",
+    "latitude": 44.266667,
+    "longitude": 4.966667
+  },
+  {
+    "name": "Savoillan",
+    "latitude": 44.183333,
+    "longitude": 5.383333
+  },
+  {
+    "name": "Seguret",
+    "latitude": 44.2,
+    "longitude": 5.016667
+  },
+  {
+    "name": "Serignan-du-Comtat",
+    "latitude": 44.183333,
+    "longitude": 4.85
+  },
+  {
+    "name": "Suzette",
+    "latitude": 44.166667,
+    "longitude": 5.066667
+  },
+  {
+    "name": "Travaillan",
+    "latitude": 44.183333,
+    "longitude": 4.9
+  },
+  {
+    "name": "Uchaux",
+    "latitude": 44.216667,
+    "longitude": 4.8
+  },
+  {
+    "name": "Vacqueyras",
+    "latitude": 44.133333,
+    "longitude": 4.983333
+  },
+  {
+    "name": "Vaison-la-Romaine",
+    "latitude": 44.233333,
+    "longitude": 5.066667
+  },
+  {
+    "name": "Valreas",
+    "latitude": 44.383333,
+    "longitude": 4.983333
+  },
+  {
+    "name": "Villedieu",
+    "latitude": 44.283333,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Violes",
+    "latitude": 44.166667,
+    "longitude": 4.95
+  },
+  {
+    "name": "Visan",
+    "latitude": 44.3,
+    "longitude": 4.966667
+  }
+]

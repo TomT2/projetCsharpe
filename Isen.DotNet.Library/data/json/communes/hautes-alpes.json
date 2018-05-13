@@ -1,0 +1,887 @@
+[
+  {
+    "name": "Agnieres-en-Devoluy",
+    "latitude": 44.7,
+    "longitude": 5.883333
+  },
+  {
+    "name": "Antonaves",
+    "latitude": 44.266667,
+    "longitude": 5.8
+  },
+  {
+    "name": "Aspremont",
+    "latitude": 43.7833,
+    "longitude": 7.25
+  },
+  {
+    "name": "Aspres-sur-Buech",
+    "latitude": 44.516667,
+    "longitude": 5.75
+  },
+  {
+    "name": "Avancon",
+    "latitude": 44.533333,
+    "longitude": 6.183333
+  },
+  {
+    "name": "Barcillonnette",
+    "latitude": 44.433333,
+    "longitude": 5.916667
+  },
+  {
+    "name": "Barret-sur-Meouge",
+    "latitude": 44.266667,
+    "longitude": 5.733333
+  },
+  {
+    "name": "Breziers",
+    "latitude": 44.433333,
+    "longitude": 6.2
+  },
+  {
+    "name": "Bruis",
+    "latitude": 44.466667,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Chabestan",
+    "latitude": 44.483333,
+    "longitude": 5.783333
+  },
+  {
+    "name": "Chanousse",
+    "latitude": 44.35,
+    "longitude": 5.65
+  },
+  {
+    "name": "Chateauneuf-de-Chabre",
+    "latitude": 44.283333,
+    "longitude": 5.816667
+  },
+  {
+    "name": "Chateauneuf-d'Oze",
+    "latitude": 44.516667,
+    "longitude": 5.866667
+  },
+  {
+    "name": "Chateauvieux",
+    "latitude": 43.7833,
+    "longitude": 6.5833
+  },
+  {
+    "name": "Chorges",
+    "latitude": 44.55,
+    "longitude": 6.283333
+  },
+  {
+    "name": "Eourres",
+    "latitude": 44.2,
+    "longitude": 5.7
+  },
+  {
+    "name": "Esparron",
+    "latitude": 44.45,
+    "longitude": 5.9
+  },
+  {
+    "name": "Espinasses",
+    "latitude": 44.466667,
+    "longitude": 6.216667
+  },
+  {
+    "name": "Etoile-Saint-Cyrice",
+    "latitude": 44.3167,
+    "longitude": 5.6333
+  },
+  {
+    "name": "Eyguians",
+    "latitude": 44.35,
+    "longitude": 5.783333
+  },
+  {
+    "name": "Fouillouse",
+    "latitude": 44.45,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Furmeyer",
+    "latitude": 44.533333,
+    "longitude": 5.866667
+  },
+  {
+    "name": "Gap",
+    "latitude": 44.566667,
+    "longitude": 6.083333
+  },
+  {
+    "name": "Jarjayes",
+    "latitude": 44.5,
+    "longitude": 6.116667
+  },
+  {
+    "name": "La Batie-Montsaleon",
+    "latitude": 44.45,
+    "longitude": 5.75
+  },
+  {
+    "name": "La Batie-Neuve",
+    "latitude": 44.566667,
+    "longitude": 6.2
+  },
+  {
+    "name": "La Batie-Vieille",
+    "latitude": 44.55,
+    "longitude": 6.166667
+  },
+  {
+    "name": "La Beaume",
+    "latitude": 44.566667,
+    "longitude": 5.633333
+  },
+  {
+    "name": "La Cluse",
+    "latitude": 44.633333,
+    "longitude": 5.85
+  },
+  {
+    "name": "La Faurie",
+    "latitude": 44.566667,
+    "longitude": 5.733333
+  },
+  {
+    "name": "La Freissinouse",
+    "latitude": 44.533333,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Lagrand",
+    "latitude": 44.333333,
+    "longitude": 5.75
+  },
+  {
+    "name": "La Haute-Beaume",
+    "latitude": 44.5667,
+    "longitude": 5.6333
+  },
+  {
+    "name": "La Piarre",
+    "latitude": 44.466667,
+    "longitude": 5.65
+  },
+  {
+    "name": "Laragne-Monteglin",
+    "latitude": 44.32,
+    "longitude": 5.82
+  },
+  {
+    "name": "Lardier-et-Valenca",
+    "latitude": 44.433333,
+    "longitude": 5.966667
+  },
+  {
+    "name": "La Roche-des-Arnauds",
+    "latitude": 44.566667,
+    "longitude": 5.95
+  },
+  {
+    "name": "La Rochette",
+    "latitude": 44.6,
+    "longitude": 6.15
+  },
+  {
+    "name": "La Saulce",
+    "latitude": 44.416667,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Lazer",
+    "latitude": 44.35,
+    "longitude": 5.833333
+  },
+  {
+    "name": "Le Bersac",
+    "latitude": 44.416667,
+    "longitude": 5.75
+  },
+  {
+    "name": "L'Epine",
+    "latitude": 44.416667,
+    "longitude": 5.616667
+  },
+  {
+    "name": "Le Poet",
+    "latitude": 44.283333,
+    "longitude": 5.883333
+  },
+  {
+    "name": "Le Saix",
+    "latitude": 44.483333,
+    "longitude": 5.833333
+  },
+  {
+    "name": "Lettret",
+    "latitude": 44.466667,
+    "longitude": 6.066667
+  },
+  {
+    "name": "Manteyer",
+    "latitude": 44.533333,
+    "longitude": 5.966667
+  },
+  {
+    "name": "Mereuil",
+    "latitude": 44.383333,
+    "longitude": 5.733333
+  },
+  {
+    "name": "Monetier-Allemont",
+    "latitude": 44.383333,
+    "longitude": 5.933333
+  },
+  {
+    "name": "Montbrand",
+    "latitude": 44.583333,
+    "longitude": 5.683333
+  },
+  {
+    "name": "Montclus",
+    "latitude": 44.416667,
+    "longitude": 5.683333
+  },
+  {
+    "name": "Montgardin",
+    "latitude": 44.55,
+    "longitude": 6.233333
+  },
+  {
+    "name": "Montjay",
+    "latitude": 44.366667,
+    "longitude": 5.6
+  },
+  {
+    "name": "Montmaur",
+    "latitude": 44.583333,
+    "longitude": 5.883333
+  },
+  {
+    "name": "Montmorin",
+    "latitude": 44.45,
+    "longitude": 5.55
+  },
+  {
+    "name": "Montrond",
+    "latitude": 44.383333,
+    "longitude": 5.75
+  },
+  {
+    "name": "Moydans",
+    "latitude": 44.4,
+    "longitude": 5.5
+  },
+  {
+    "name": "Neffes",
+    "latitude": 44.5,
+    "longitude": 6.033333
+  },
+  {
+    "name": "Nossage-et-Benevent",
+    "latitude": 44.3158,
+    "longitude": 5.74749
+  },
+  {
+    "name": "Orpierre",
+    "latitude": 44.316667,
+    "longitude": 5.683333
+  },
+  {
+    "name": "Oze",
+    "latitude": 44.5,
+    "longitude": 5.8
+  },
+  {
+    "name": "Pelleautier",
+    "latitude": 44.516667,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Prunieres",
+    "latitude": 44.55,
+    "longitude": 6.333333
+  },
+  {
+    "name": "Rabou",
+    "latitude": 44.6,
+    "longitude": 6
+  },
+  {
+    "name": "Rambaud",
+    "latitude": 44.55,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Remollon",
+    "latitude": 44.466667,
+    "longitude": 6.166667
+  },
+  {
+    "name": "Ribeyret",
+    "latitude": 44.416667,
+    "longitude": 5.55
+  },
+  {
+    "name": "Ribiers",
+    "latitude": 44.233333,
+    "longitude": 5.866667
+  },
+  {
+    "name": "Rochebrune",
+    "latitude": 44.466667,
+    "longitude": 6.183333
+  },
+  {
+    "name": "Rosans",
+    "latitude": 44.383333,
+    "longitude": 5.466667
+  },
+  {
+    "name": "Rousset",
+    "latitude": 44.4833,
+    "longitude": 6.25
+  },
+  {
+    "name": "Saint-Andre-de-Rosans",
+    "latitude": 44.383333,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Saint-Auban-d'Oze",
+    "latitude": 44.5,
+    "longitude": 5.85
+  },
+  {
+    "name": "Saint-Disdier",
+    "latitude": 44.7333,
+    "longitude": 5.9
+  },
+  {
+    "name": "Sainte-Colombe",
+    "latitude": 44.2833,
+    "longitude": 5.6667
+  },
+  {
+    "name": "Sainte-Marie",
+    "latitude": 44.466667,
+    "longitude": 5.475
+  },
+  {
+    "name": "Saint-Etienne-en-Devoluy",
+    "latitude": 44.7,
+    "longitude": 5.933333
+  },
+  {
+    "name": "Saint-Etienne-le-Laus",
+    "latitude": 44.5,
+    "longitude": 6.166667
+  },
+  {
+    "name": "Saint-Genis",
+    "latitude": 44.383333,
+    "longitude": 5.766667
+  },
+  {
+    "name": "Saint-Julien-en-Beauchene",
+    "latitude": 44.616667,
+    "longitude": 5.7
+  },
+  {
+    "name": "Saint-Pierre-Avez",
+    "latitude": 44.25,
+    "longitude": 5.766667
+  },
+  {
+    "name": "Saint-Pierre-d'Argencon",
+    "latitude": 44.516667,
+    "longitude": 5.7
+  },
+  {
+    "name": "Saleon",
+    "latitude": 44.35,
+    "longitude": 5.766667
+  },
+  {
+    "name": "Salerans",
+    "latitude": 44.25,
+    "longitude": 5.7
+  },
+  {
+    "name": "Savournon",
+    "latitude": 44.416667,
+    "longitude": 5.783333
+  },
+  {
+    "name": "Serres",
+    "latitude": 44.4333,
+    "longitude": 5.7167
+  },
+  {
+    "name": "Sigottier",
+    "latitude": 44.45,
+    "longitude": 5.7
+  },
+  {
+    "name": "Sigoyer",
+    "latitude": 44.483333,
+    "longitude": 5.966667
+  },
+  {
+    "name": "Sorbiers",
+    "latitude": 44.366667,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Tallard",
+    "latitude": 44.466667,
+    "longitude": 6.05
+  },
+  {
+    "name": "Theus",
+    "latitude": 44.466667,
+    "longitude": 6.2
+  },
+  {
+    "name": "Trescleoux",
+    "latitude": 44.35,
+    "longitude": 5.7
+  },
+  {
+    "name": "Upaix",
+    "latitude": 44.316667,
+    "longitude": 5.883333
+  },
+  {
+    "name": "Valserres",
+    "latitude": 44.483333,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Ventavon",
+    "latitude": 44.366667,
+    "longitude": 5.9
+  },
+  {
+    "name": "Veynes",
+    "latitude": 44.533333,
+    "longitude": 5.816667
+  },
+  {
+    "name": "Vitrolles",
+    "latitude": 44.433333,
+    "longitude": 5.933333
+  },
+  {
+    "name": "Abries",
+    "latitude": 44.783333,
+    "longitude": 6.933333
+  },
+  {
+    "name": "Aiguilles",
+    "latitude": 44.783333,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Ancelle",
+    "latitude": 44.633333,
+    "longitude": 6.2
+  },
+  {
+    "name": "Arvieux",
+    "latitude": 44.766667,
+    "longitude": 6.733333
+  },
+  {
+    "name": "Aspres-les-Corps",
+    "latitude": 44.8,
+    "longitude": 5.983333
+  },
+  {
+    "name": "Baratier",
+    "latitude": 44.533333,
+    "longitude": 6.5
+  },
+  {
+    "name": "Benevent-et-Charbillac",
+    "latitude": 44.6976,
+    "longitude": 6.0866
+  },
+  {
+    "name": "Briancon",
+    "latitude": 44.9,
+    "longitude": 6.65
+  },
+  {
+    "name": "Buissard",
+    "latitude": 44.65,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Ceillac",
+    "latitude": 44.666667,
+    "longitude": 6.775
+  },
+  {
+    "name": "Cervieres",
+    "latitude": 44.866667,
+    "longitude": 6.716667
+  },
+  {
+    "name": "Chabottes",
+    "latitude": 44.65,
+    "longitude": 6.183333
+  },
+  {
+    "name": "Champcella",
+    "latitude": 44.7167,
+    "longitude": 6.5667
+  },
+  {
+    "name": "Champoleon",
+    "latitude": 44.733333,
+    "longitude": 6.233333
+  },
+  {
+    "name": "Chateauroux-les-Alpes",
+    "latitude": 44.616667,
+    "longitude": 6.516667
+  },
+  {
+    "name": "Chateau-Ville-Vieille",
+    "latitude": 44.766667,
+    "longitude": 6.8
+  },
+  {
+    "name": "Chauffayer",
+    "latitude": 44.75,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Crevoux",
+    "latitude": 44.55,
+    "longitude": 6.6
+  },
+  {
+    "name": "Crots",
+    "latitude": 44.5338,
+    "longitude": 6.4711
+  },
+  {
+    "name": "Embrun",
+    "latitude": 44.566667,
+    "longitude": 6.5
+  },
+  {
+    "name": "Eygliers",
+    "latitude": 44.6774,
+    "longitude": 6.619
+  },
+  {
+    "name": "Forest-Saint-Julien",
+    "latitude": 44.65,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Freissinieres",
+    "latitude": 44.75,
+    "longitude": 6.5333
+  },
+  {
+    "name": "Guillestre",
+    "latitude": 44.666667,
+    "longitude": 6.65
+  },
+  {
+    "name": "La Chapelle-en-Valgaudemar",
+    "latitude": 44.8167,
+    "longitude": 6.2
+  },
+  {
+    "name": "La Fare-en-Champsaur",
+    "latitude": 44.666667,
+    "longitude": 6.066667
+  },
+  {
+    "name": "La Grave",
+    "latitude": "45,05",
+    "longitude": "6,31"
+  },
+  {
+    "name": "La Motte-en-Champsaur",
+    "latitude": 44.733333,
+    "longitude": 6.066667
+  },
+  {
+    "name": "L'Argentiere-la-Bessee",
+    "latitude": 44.783333,
+    "longitude": 6.55
+  },
+  {
+    "name": "La Roche-de-Rame",
+    "latitude": 44.75,
+    "longitude": 6.583333
+  },
+  {
+    "name": "La Salle les Alpes",
+    "latitude": 44.95,
+    "longitude": 6.5667
+  },
+  {
+    "name": "Laye",
+    "latitude": 44.633333,
+    "longitude": 6.083333
+  },
+  {
+    "name": "Le Glaizil",
+    "latitude": 44.75,
+    "longitude": 5.983333
+  },
+  {
+    "name": "Le Monetier-les-Bains",
+    "latitude": 44.983333,
+    "longitude": 6.516667
+  },
+  {
+    "name": "Le Noyer",
+    "latitude": 44.7,
+    "longitude": 6.016667
+  },
+  {
+    "name": "Le Sauze-du-Lac",
+    "latitude": 44.4833,
+    "longitude": 6.3167
+  },
+  {
+    "name": "Les Costes",
+    "latitude": 44.75,
+    "longitude": 6.033333
+  },
+  {
+    "name": "Les Infournas",
+    "latitude": 44.716667,
+    "longitude": 6.1
+  },
+  {
+    "name": "Les Orres",
+    "latitude": 44.516667,
+    "longitude": 6.55
+  },
+  {
+    "name": "Les Vigneaux",
+    "latitude": 44.816667,
+    "longitude": 6.533333
+  },
+  {
+    "name": "Molines-en-Queyras",
+    "latitude": 44.733333,
+    "longitude": 6.85
+  },
+  {
+    "name": "Mont-Dauphin",
+    "latitude": 44.666667,
+    "longitude": 6.616667
+  },
+  {
+    "name": "Montgenevre",
+    "latitude": 44.933333,
+    "longitude": 6.716667
+  },
+  {
+    "name": "Nevache",
+    "latitude": 45.01955,
+    "longitude": 6.6044
+  },
+  {
+    "name": "Orcieres",
+    "latitude": 44.683333,
+    "longitude": 6.333333
+  },
+  {
+    "name": "Pelvoux",
+    "latitude": 44.8691,
+    "longitude": 6.4866
+  },
+  {
+    "name": "Poligny",
+    "latitude": 44.7,
+    "longitude": 6.05
+  },
+  {
+    "name": "Puy-Saint-Andre",
+    "latitude": 44.883333,
+    "longitude": 6.6
+  },
+  {
+    "name": "Puy-Saint-Eusebe",
+    "latitude": 44.566667,
+    "longitude": 6.416667
+  },
+  {
+    "name": "Puy-Saint-Pierre",
+    "latitude": 44.9,
+    "longitude": 6.616667
+  },
+  {
+    "name": "Puy-Saint-Vincent",
+    "latitude": 44.833333,
+    "longitude": 6.483333
+  },
+  {
+    "name": "Puy-Sanieres",
+    "latitude": 44.55,
+    "longitude": 6.433333
+  },
+  {
+    "name": "Reallon",
+    "latitude": 44.6,
+    "longitude": 6.366667
+  },
+  {
+    "name": "Reotier",
+    "latitude": 44.666667,
+    "longitude": 6.6
+  },
+  {
+    "name": "Risoul",
+    "latitude": 44.65,
+    "longitude": 6.633333
+  },
+  {
+    "name": "Ristolas",
+    "latitude": 44.766667,
+    "longitude": 6.95
+  },
+  {
+    "name": "Saint-Andre-d'Embrun",
+    "latitude": 44.583333,
+    "longitude": 6.533333
+  },
+  {
+    "name": "Saint-Apollinaire",
+    "latitude": 44.566667,
+    "longitude": 6.366667
+  },
+  {
+    "name": "Saint-Bonnet-en-Champsaur",
+    "latitude": 44.682,
+    "longitude": 6.073
+  },
+  {
+    "name": "Saint-Chaffrey",
+    "latitude": 44.916667,
+    "longitude": 6.6
+  },
+  {
+    "name": "Saint-Clement-sur-Durance",
+    "latitude": 44.649,
+    "longitude": 6.5782
+  },
+  {
+    "name": "Saint-Crepin",
+    "latitude": 44.7,
+    "longitude": 6.6
+  },
+  {
+    "name": "Saint-Eusebe-en-Champsaur",
+    "latitude": 44.733333,
+    "longitude": 6.033333
+  },
+  {
+    "name": "Saint-Firmin",
+    "latitude": 44.7833,
+    "longitude": 6.0333
+  },
+  {
+    "name": "Saint-Jacques-en-Valgodemard",
+    "latitude": 44.766667,
+    "longitude": 6.05
+  },
+  {
+    "name": "Saint-Jean-Saint-Nicolas",
+    "latitude": 44.666667,
+    "longitude": 6.216667
+  },
+  {
+    "name": "Saint-Julien-en-Champsaur",
+    "latitude": 44.666667,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Saint-Laurent-du-Cros",
+    "latitude": 44.65,
+    "longitude": 6.116667
+  },
+  {
+    "name": "Saint-Leger-les-Melezes",
+    "latitude": 44.65,
+    "longitude": 6.2
+  },
+  {
+    "name": "Saint-Martin-de-Queyrieres",
+    "latitude": 44.8232,
+    "longitude": 6.579
+  },
+  {
+    "name": "Saint-Maurice-en-Valgodemard",
+    "latitude": 44.8,
+    "longitude": 6.083333
+  },
+  {
+    "name": "Saint-Michel-de-Chaillol",
+    "latitude": 44.666667,
+    "longitude": 6.166667
+  },
+  {
+    "name": "Saint-Sauveur",
+    "latitude": 44.533333,
+    "longitude": 6.516667
+  },
+  {
+    "name": "Saint-Veran",
+    "latitude": 44.7,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Savines-le-Lac",
+    "latitude": 44.5265,
+    "longitude": 6.4043
+  },
+  {
+    "name": "Val-des-Pres",
+    "latitude": 44.95,
+    "longitude": 6.683333
+  },
+  {
+    "name": "Vallouise",
+    "latitude": 44.85,
+    "longitude": 6.483333
+  },
+  {
+    "name": "Vars",
+    "latitude": 44.616667,
+    "longitude": 6.683333
+  },
+  {
+    "name": "Villar-d'Arene",
+    "latitude": 45.04225,
+    "longitude": 6.33711
+  },
+  {
+    "name": "Villar-Loubiere",
+    "latitude": 44.833333,
+    "longitude": 6.133333
+  },
+  {
+    "name": "Villar-Saint-Pancrace",
+    "latitude": 44.866667,
+    "longitude": 6.633333
+  }
+]

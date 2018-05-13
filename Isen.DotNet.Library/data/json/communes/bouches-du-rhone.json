@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Marseille",
+    "latitude": 43.3,
+    "longitude": 5.4
+  },
+  {
+    "name": "Aubagne",
+    "latitude": 43.283333,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Carnoux-en-Provence",
+    "latitude": 43.2564,
+    "longitude": 5.5644
+  },
+  {
+    "name": "Cassis",
+    "latitude": 43.216667,
+    "longitude": 5.533333
+  },
+  {
+    "name": "Ceyreste",
+    "latitude": 43.216667,
+    "longitude": 5.633333
+  },
+  {
+    "name": "Cuges-les-Pins",
+    "latitude": 43.283333,
+    "longitude": 5.7
+  },
+  {
+    "name": "Gemenos",
+    "latitude": 43.3,
+    "longitude": 5.633333
+  },
+  {
+    "name": "La Ciotat",
+    "latitude": 43.166667,
+    "longitude": 5.6
+  },
+  {
+    "name": "La Penne-sur-Huveaune",
+    "latitude": 43.283333,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Roquefort-la-Bedoule",
+    "latitude": 43.25,
+    "longitude": 5.616667
+  },
+  {
+    "name": "Allauch",
+    "latitude": 43.333333,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Auriol",
+    "latitude": 43.383333,
+    "longitude": 5.633333
+  },
+  {
+    "name": "Belcodene",
+    "latitude": 43.416667,
+    "longitude": 5.583333
+  },
+  {
+    "name": "Bouc-Bel-Air",
+    "latitude": 43.45,
+    "longitude": 5.416667
+  },
+  {
+    "name": "Cabries",
+    "latitude": 43.433333,
+    "longitude": 5.383333
+  },
+  {
+    "name": "Cadolive",
+    "latitude": 43.383333,
+    "longitude": 5.55
+  },
+  {
+    "name": "Gardanne",
+    "latitude": 43.45,
+    "longitude": 5.466667
+  },
+  {
+    "name": "Greasque",
+    "latitude": 43.433333,
+    "longitude": 5.55
+  },
+  {
+    "name": "La Bouilladisse",
+    "latitude": 43.4,
+    "longitude": 5.583333
+  },
+  {
+    "name": "La Destrousse",
+    "latitude": 43.366667,
+    "longitude": 5.6
+  },
+  {
+    "name": "Les Pennes-Mirabeau",
+    "latitude": 43.408333,
+    "longitude": 5.316667
+  },
+  {
+    "name": "Mimet",
+    "latitude": 43.416667,
+    "longitude": 5.5
+  },
+  {
+    "name": "Peypin",
+    "latitude": 43.383333,
+    "longitude": 5.583333
+  },
+  {
+    "name": "Plan-de-Cuques",
+    "latitude": 43.35,
+    "longitude": 5.466667
+  },
+  {
+    "name": "Roquevaire",
+    "latitude": 43.35,
+    "longitude": 5.6
+  },
+  {
+    "name": "Saint-Savournin",
+    "latitude": 43.4,
+    "longitude": 5.533333
+  },
+  {
+    "name": "Septemes-les-Vallons",
+    "latitude": 43.4,
+    "longitude": 5.366667
+  },
+  {
+    "name": "Simiane-Collongue",
+    "latitude": 43.416667,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Aix-en-Provence",
+    "latitude": 43.533333,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Cornillon-Confoux",
+    "latitude": 43.566667,
+    "longitude": 5.066667
+  },
+  {
+    "name": "Coudoux",
+    "latitude": 43.55,
+    "longitude": 5.25
+  },
+  {
+    "name": "Eguilles",
+    "latitude": 43.566667,
+    "longitude": 5.366667
+  },
+  {
+    "name": "Grans",
+    "latitude": 43.6,
+    "longitude": 5.066667
+  },
+  {
+    "name": "La Fare-les-Oliviers",
+    "latitude": 43.55,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Lancon-Provence",
+    "latitude": 43.583333,
+    "longitude": 5.133333
+  },
+  {
+    "name": "Meyreuil",
+    "latitude": 43.483333,
+    "longitude": 5.5
+  },
+  {
+    "name": "Salon-de-Provence",
+    "latitude": 43.633333,
+    "longitude": 5.1
+  },
+  {
+    "name": "Velaux",
+    "latitude": 43.516667,
+    "longitude": 5.266667
+  },
+  {
+    "name": "Ventabren",
+    "latitude": 43.533333,
+    "longitude": 5.3
+  },
+  {
+    "name": "Berre-l'Etang",
+    "latitude": 43.466667,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Carry-le-Rouet",
+    "latitude": 43.333333,
+    "longitude": 5.15
+  },
+  {
+    "name": "Chateauneuf-les-Martigues",
+    "latitude": 43.383333,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Ensues-la-Redonne",
+    "latitude": 43.35,
+    "longitude": 5.2
+  },
+  {
+    "name": "Gignac-la-Nerthe",
+    "latitude": 43.391667,
+    "longitude": 5.233333
+  },
+  {
+    "name": "Le Rove",
+    "latitude": 43.366667,
+    "longitude": 5.25
+  },
+  {
+    "name": "Marignane",
+    "latitude": 43.416667,
+    "longitude": 5.216667
+  },
+  {
+    "name": "Rognac",
+    "latitude": 43.483333,
+    "longitude": 5.233333
+  },
+  {
+    "name": "Saint-Chamas",
+    "latitude": 43.55,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Saint-Victoret",
+    "latitude": 43.416667,
+    "longitude": 5.233333
+  },
+  {
+    "name": "Sausset-les-Pins",
+    "latitude": 43.333333,
+    "longitude": 5.116667
+  },
+  {
+    "name": "Vitrolles",
+    "latitude": 43.466667,
+    "longitude": 5.25
+  },
+  {
+    "name": "Fos-sur-Mer",
+    "latitude": 43.433333,
+    "longitude": 4.95
+  },
+  {
+    "name": "Istres",
+    "latitude": 43.516667,
+    "longitude": 4.983333
+  },
+  {
+    "name": "Martigues",
+    "latitude": 43.4,
+    "longitude": 5.05
+  },
+  {
+    "name": "Port-de-Bouc",
+    "latitude": 43.4,
+    "longitude": 4.983333
+  },
+  {
+    "name": "Saint-Mitre-les-Remparts",
+    "latitude": 43.45,
+    "longitude": 5.016667
+  },
+  {
+    "name": "Aix-en-Provence",
+    "latitude": 43.533333,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Beaurecueil",
+    "latitude": 43.5,
+    "longitude": 5.55
+  },
+  {
+    "name": "Chateauneuf-le-Rouge",
+    "latitude": 43.483333,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Fuveau",
+    "latitude": 43.45,
+    "longitude": 5.566667
+  },
+  {
+    "name": "Jouques",
+    "latitude": 43.633333,
+    "longitude": 5.633333
+  },
+  {
+    "name": "Le Puy-Sainte-Reparade",
+    "latitude": 43.666667,
+    "longitude": 5.433333
+  },
+  {
+    "name": "Le Tholonet",
+    "latitude": 43.516667,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Meyrargues",
+    "latitude": 43.633333,
+    "longitude": 5.533333
+  },
+  {
+    "name": "Peynier",
+    "latitude": 43.45,
+    "longitude": 5.65
+  },
+  {
+    "name": "Peyrolles-en-Provence",
+    "latitude": 43.65,
+    "longitude": 5.583333
+  },
+  {
+    "name": "Puyloubier",
+    "latitude": 43.516667,
+    "longitude": 5.683333
+  },
+  {
+    "name": "Rousset",
+    "latitude": 43.4833,
+    "longitude": 5.6167
+  },
+  {
+    "name": "Saint-Antonin-sur-Bayon",
+    "latitude": 43.516667,
+    "longitude": 5.583333
+  },
+  {
+    "name": "Saint-Marc-Jaumegarde",
+    "latitude": 43.55,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Saint-Paul-les-Durance",
+    "latitude": 43.683333,
+    "longitude": 5.7
+  },
+  {
+    "name": "Trets",
+    "latitude": 43.45,
+    "longitude": 5.683333
+  },
+  {
+    "name": "Vauvenargues",
+    "latitude": 43.55,
+    "longitude": 5.6
+  },
+  {
+    "name": "Venelles",
+    "latitude": 43.6,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Alleins",
+    "latitude": 43.7,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Aureille",
+    "latitude": 43.7,
+    "longitude": 4.95
+  },
+  {
+    "name": "Aurons",
+    "latitude": 43.666667,
+    "longitude": 5.15
+  },
+  {
+    "name": "Barbentane",
+    "latitude": 43.9,
+    "longitude": 4.75
+  },
+  {
+    "name": "Cabannes",
+    "latitude": 43.866667,
+    "longitude": 4.95
+  },
+  {
+    "name": "Charleval",
+    "latitude": 43.716667,
+    "longitude": 5.25
+  },
+  {
+    "name": "Chateaurenard",
+    "latitude": 43.883333,
+    "longitude": 4.85
+  },
+  {
+    "name": "Eygalieres",
+    "latitude": 43.75,
+    "longitude": 4.95
+  },
+  {
+    "name": "Eyguieres",
+    "latitude": 43.7,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Eyragues",
+    "latitude": 43.833333,
+    "longitude": 4.833333
+  },
+  {
+    "name": "Graveson",
+    "latitude": 43.85,
+    "longitude": 4.766667
+  },
+  {
+    "name": "La Barben",
+    "latitude": 43.633333,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Lamanon",
+    "latitude": 43.7,
+    "longitude": 5.083333
+  },
+  {
+    "name": "Lambesc",
+    "latitude": 43.65,
+    "longitude": 5.266667
+  },
+  {
+    "name": "La Roque-d'Antheron",
+    "latitude": 43.716667,
+    "longitude": 5.316667
+  },
+  {
+    "name": "Les Baux-de-Provence",
+    "latitude": 43.75,
+    "longitude": 4.8
+  },
+  {
+    "name": "Maillane",
+    "latitude": 43.833333,
+    "longitude": 4.783333
+  },
+  {
+    "name": "Mallemort",
+    "latitude": 43.733333,
+    "longitude": 5.183333
+  },
+  {
+    "name": "Maussane-les-Alpilles",
+    "latitude": 43.7167,
+    "longitude": 4.8
+  },
+  {
+    "name": "Molleges",
+    "latitude": 43.8,
+    "longitude": 4.95
+  },
+  {
+    "name": "Mouries",
+    "latitude": 43.683333,
+    "longitude": 4.866667
+  },
+  {
+    "name": "Noves",
+    "latitude": 43.866667,
+    "longitude": 4.9
+  },
+  {
+    "name": "Orgon",
+    "latitude": 43.783333,
+    "longitude": 5.033333
+  },
+  {
+    "name": "Paradou",
+    "latitude": 43.716667,
+    "longitude": 4.783333
+  },
+  {
+    "name": "Pelissanne",
+    "latitude": 43.633333,
+    "longitude": 5.15
+  },
+  {
+    "name": "Plan-d'Orgon",
+    "latitude": 43.8,
+    "longitude": 5
+  },
+  {
+    "name": "Rognes",
+    "latitude": 43.666667,
+    "longitude": 5.35
+  },
+  {
+    "name": "Rognonas",
+    "latitude": 43.9,
+    "longitude": 4.8
+  },
+  {
+    "name": "Saint-Andiol",
+    "latitude": 43.833333,
+    "longitude": 4.95
+  },
+  {
+    "name": "Saint-Cannat",
+    "latitude": 43.616667,
+    "longitude": 5.3
+  },
+  {
+    "name": "Saint-Esteve-Janson",
+    "latitude": 43.683333,
+    "longitude": 5.383333
+  },
+  {
+    "name": "Saint-Remy-de-Provence",
+    "latitude": 43.783333,
+    "longitude": 4.833333
+  },
+  {
+    "name": "Senas",
+    "latitude": 43.75,
+    "longitude": 5.083333
+  },
+  {
+    "name": "Vernegues",
+    "latitude": 43.683333,
+    "longitude": 5.166667
+  },
+  {
+    "name": "Verquieres",
+    "latitude": 43.833333,
+    "longitude": 4.916667
+  },
+  {
+    "name": "Arles",
+    "latitude": 43.666667,
+    "longitude": 4.633333
+  },
+  {
+    "name": "Boulbon",
+    "latitude": 43.866667,
+    "longitude": 4.683333
+  },
+  {
+    "name": "Fontvieille",
+    "latitude": 43.316667,
+    "longitude": 5.483333
+  },
+  {
+    "name": "Mas-Blanc-des-Alpilles",
+    "latitude": "43,79",
+    "longitude": "4,76"
+  },
+  {
+    "name": "Miramas",
+    "latitude": 43.583333,
+    "longitude": 5
+  },
+  {
+    "name": "Port-Saint-Louis-du-Rhone",
+    "latitude": 43.383333,
+    "longitude": 4.8
+  },
+  {
+    "name": "Saintes-Maries-de-la-Mer",
+    "latitude": 43.45,
+    "longitude": 4.425
+  },
+  {
+    "name": "Saint-Etienne-du-Gres",
+    "latitude": 43.783333,
+    "longitude": 4.716667
+  },
+  {
+    "name": "Saint-Martin-de-Crau",
+    "latitude": 43.633333,
+    "longitude": 4.816667
+  },
+  {
+    "name": "Saint-Pierre-de-Mezoargues",
+    "latitude": 43.8667,
+    "longitude": 4.65
+  },
+  {
+    "name": "Tarascon",
+    "latitude": 43.8,
+    "longitude": 4.666667
+  }
+]

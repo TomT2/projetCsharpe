@@ -10,18 +10,19 @@ using Microsoft.Extensions.Logging;
 
 namespace Isen.DotNet.Library.Repositories.DbContext
 {
-    public class DbContextPersonRepository :
-        BaseDbContextRepository<Person>, IPersonRepository
+    public class DbContextCategoryRepository :
+        BaseDbContextRepository<Category>, ICategoryRepository
     {
-        public DbContextPersonRepository(
-            ILogger<DbContextPersonRepository> logger, 
+        public DbContextCategoryRepository(
+            ILogger<DbContextCategoryRepository> logger, 
             ApplicationDbContext context) 
             : base(logger, context)
         {
         }
 
-        public override IQueryable<Person> Includes(
-            IQueryable<Person> queryable)
-                => queryable.Include(p => p.City);
+        public override IQueryable<Category> Includes(
+            IQueryable<Category> queryable)
+                => queryable
+                .Include(c => c.InterestPointCollection);
     }
 }

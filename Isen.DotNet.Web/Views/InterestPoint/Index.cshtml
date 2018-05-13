@@ -1,0 +1,61 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@{
+    ViewData["Title"] = "Points d'interet";
+}
+@model IEnumerable<InterestPoint>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Point d'intérêts</h1>
+    </div>
+</div>
+
+<div class="row">
+    <a class="btn btn-default" 
+        asp-controller="InterestPoint" asp-action="Detail">Ajouter un point d'intérêt...</a>
+</div>
+
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Description</th>
+                <th>Catégorie</th>
+                <th>Adresse</th>
+                <th>Latitude</th>
+                <th>Longitude</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var interestpoint in Model)
+            {
+            <tr>
+                <td>@interestpoint.Id</td>
+                <td>@interestpoint.Name</td>
+                <td>@interestpoint.Description</td>
+                <td>@interestpoint.Category?.Name</td>
+                <!--<td>@interestpoint.Address?.Name @interestpoint.Address?.City?.Name @interestpoint.Address?.PostalCode / @interestpoint.Address?.City?.Department?.Name </td>
+                -->
+                <td>@interestpoint.Address?.BuildAddress()</td>
+                <td>@interestpoint.Address?.Latitude</td>
+                <td>@interestpoint.Address?.Longitude</td>
+                <td>
+                   <a class="btn btn-default" 
+                        asp-controller="InterestPoint" 
+                        asp-action="Detail" 
+                        asp-route-id="@interestpoint.Id">Editer</a>
+                 </td>
+                 <td>
+                    <a class="btn btn-danger" 
+                        asp-controller="InterestPoint" 
+                        asp-action="Delete" 
+                        asp-route-id="@interestpoint.Id">Supprimer</a>
+                 </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,817 @@
+[
+  {
+    "name": "Nice",
+    "latitude": 43.7,
+    "longitude": 7.25
+  },
+  {
+    "name": "Falicon",
+    "latitude": 43.75,
+    "longitude": 7.283333
+  },
+  {
+    "name": "La Trinite",
+    "latitude": 43.75,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Saint-Andre de la Roche",
+    "latitude": 43.733333,
+    "longitude": 7.283333
+  },
+  {
+    "name": "Beaulieu-sur-Mer",
+    "latitude": 43.7,
+    "longitude": 7.333333
+  },
+  {
+    "name": "Beausoleil",
+    "latitude": 43.75,
+    "longitude": 7.433333
+  },
+  {
+    "name": "Blausasc",
+    "latitude": 43.8,
+    "longitude": 7.366667
+  },
+  {
+    "name": "Breil-sur-Roya",
+    "latitude": 43.933333,
+    "longitude": 7.5
+  },
+  {
+    "name": "Cap-d'Ail",
+    "latitude": 43.716667,
+    "longitude": 7.4
+  },
+  {
+    "name": "Castellar",
+    "latitude": 43.8,
+    "longitude": 7.5
+  },
+  {
+    "name": "Castillon",
+    "latitude": 43.833333,
+    "longitude": 7.466667
+  },
+  {
+    "name": "Eze",
+    "latitude": 43.716667,
+    "longitude": 7.366667
+  },
+  {
+    "name": "Fontan",
+    "latitude": 44,
+    "longitude": 7.55
+  },
+  {
+    "name": "Gorbio",
+    "latitude": 43.783333,
+    "longitude": 7.45
+  },
+  {
+    "name": "La Brigue",
+    "latitude": 44.066667,
+    "longitude": 7.616667
+  },
+  {
+    "name": "La Turbie",
+    "latitude": 43.75,
+    "longitude": 7.4
+  },
+  {
+    "name": "L'Escarene",
+    "latitude": 43.833333,
+    "longitude": 7.35
+  },
+  {
+    "name": "Luceram",
+    "latitude": 43.883333,
+    "longitude": 7.366667
+  },
+  {
+    "name": "Menton",
+    "latitude": 43.783333,
+    "longitude": 7.5
+  },
+  {
+    "name": "Moulinet",
+    "latitude": 43.95,
+    "longitude": 7.416667
+  },
+  {
+    "name": "Peille",
+    "latitude": 43.8,
+    "longitude": 7.4
+  },
+  {
+    "name": "Peillon",
+    "latitude": 43.783333,
+    "longitude": 7.383333
+  },
+  {
+    "name": "Roquebrune-Cap-Martin",
+    "latitude": 43.766667,
+    "longitude": 7.466667
+  },
+  {
+    "name": "Sainte-Agnes",
+    "latitude": 43.8,
+    "longitude": 7.466667
+  },
+  {
+    "name": "Saint-Jean-Cap-Ferrat",
+    "latitude": 43.683333,
+    "longitude": 7.333333
+  },
+  {
+    "name": "Saorge",
+    "latitude": 43.983333,
+    "longitude": 7.55
+  },
+  {
+    "name": "Sospel",
+    "latitude": 43.883333,
+    "longitude": 7.45
+  },
+  {
+    "name": "Tende",
+    "latitude": 44.083333,
+    "longitude": 7.6
+  },
+  {
+    "name": "Touet-de-l'Escarene",
+    "latitude": "43.85",
+    "longitude": "7.3667"
+  },
+  {
+    "name": "Villefranche-sur-Mer",
+    "latitude": 43.7,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Ascros",
+    "latitude": 43.916667,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Aspremont",
+    "latitude": 43.783333,
+    "longitude": 7.25
+  },
+  {
+    "name": "Auvare",
+    "latitude": 43.983333,
+    "longitude": 6.916667
+  },
+  {
+    "name": "Bairols",
+    "latitude": 43.983333,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Belvedere",
+    "latitude": 44,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Bendejun",
+    "latitude": 43.833333,
+    "longitude": 7.3
+  },
+  {
+    "name": "Berre-les-Alpes",
+    "latitude": 43.8333,
+    "longitude": 7.3333
+  },
+  {
+    "name": "Beuil",
+    "latitude": 44.1,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Bonson",
+    "latitude": 43.866667,
+    "longitude": 7.2
+  },
+  {
+    "name": "Cantaron",
+    "latitude": 43.766667,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Castagniers",
+    "latitude": 43.8,
+    "longitude": 7.233333
+  },
+  {
+    "name": "Chateauneuf-d'Entraunes",
+    "latitude": 44.133333,
+    "longitude": 6.833333
+  },
+  {
+    "name": "Chateauneuf-Villevieille",
+    "latitude": 43.8167,
+    "longitude": 7.3
+  },
+  {
+    "name": "Clans",
+    "latitude": 44,
+    "longitude": 7.15
+  },
+  {
+    "name": "Coaraze",
+    "latitude": 43.866667,
+    "longitude": 7.3
+  },
+  {
+    "name": "Colomars",
+    "latitude": 43.766667,
+    "longitude": 7.216667
+  },
+  {
+    "name": "Contes",
+    "latitude": 43.816667,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Cuebris",
+    "latitude": 43.883333,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Daluis",
+    "latitude": 44.016667,
+    "longitude": 6.816667
+  },
+  {
+    "name": "Drap",
+    "latitude": 43.75,
+    "longitude": 7.316667
+  },
+  {
+    "name": "Duranus",
+    "latitude": 43.9,
+    "longitude": 7.266667
+  },
+  {
+    "name": "Entraunes",
+    "latitude": 44.183333,
+    "longitude": 6.75
+  },
+  {
+    "name": "Gilette",
+    "latitude": 43.85,
+    "longitude": 7.166667
+  },
+  {
+    "name": "Guillaumes",
+    "latitude": 44.083333,
+    "longitude": 6.85
+  },
+  {
+    "name": "Ilonse",
+    "latitude": 44.033333,
+    "longitude": 7.1
+  },
+  {
+    "name": "Isola",
+    "latitude": 44.183333,
+    "longitude": 7.05
+  },
+  {
+    "name": "La Bollene-Vesubie",
+    "latitude": 43.983333,
+    "longitude": 7.333333
+  },
+  {
+    "name": "La Croix-sur-Roudoule",
+    "latitude": 43.983333,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Lantosque",
+    "latitude": 43.966667,
+    "longitude": 7.316667
+  },
+  {
+    "name": "La Penne",
+    "latitude": 43.933333,
+    "longitude": 6.95
+  },
+  {
+    "name": "La Roquette-sur-Var",
+    "latitude": 43.833333,
+    "longitude": 7.2
+  },
+  {
+    "name": "La Tour",
+    "latitude": 43.95,
+    "longitude": 7.183333
+  },
+  {
+    "name": "Levens",
+    "latitude": 43.866667,
+    "longitude": 7.216667
+  },
+  {
+    "name": "Lieuche",
+    "latitude": 44,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Malaussene",
+    "latitude": 43.916667,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Marie",
+    "latitude": 44.033333,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Massoins",
+    "latitude": 43.933333,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Peone",
+    "latitude": 44.116667,
+    "longitude": 6.9
+  },
+  {
+    "name": "Pierlas",
+    "latitude": 44.033333,
+    "longitude": 7.033333
+  },
+  {
+    "name": "Pierrefeu",
+    "latitude": 43.866667,
+    "longitude": 7.083333
+  },
+  {
+    "name": "Puget-Rostang",
+    "latitude": 43.966667,
+    "longitude": 6.916667
+  },
+  {
+    "name": "Puget-Theniers",
+    "latitude": 43.95,
+    "longitude": 6.9
+  },
+  {
+    "name": "Revest-les-Roches",
+    "latitude": 43.883333,
+    "longitude": 7.15
+  },
+  {
+    "name": "Rigaud",
+    "latitude": 44,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Rimplas",
+    "latitude": 44.066667,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Roquebilliere",
+    "latitude": 44.016667,
+    "longitude": 7.3
+  },
+  {
+    "name": "Roquesteron",
+    "latitude": 43.866667,
+    "longitude": 7
+  },
+  {
+    "name": "Roubion",
+    "latitude": 44.083333,
+    "longitude": 7.05
+  },
+  {
+    "name": "Roure",
+    "latitude": 44.083333,
+    "longitude": 7.083333
+  },
+  {
+    "name": "Saint-Antonin",
+    "latitude": 43.916667,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Saint-Blaise",
+    "latitude": 43.833333,
+    "longitude": 7.233333
+  },
+  {
+    "name": "Saint-Dalmas-le-Selvage",
+    "latitude": 44.283333,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Saint-Etienne-de-Tinee",
+    "latitude": 44.258333,
+    "longitude": 6.925
+  },
+  {
+    "name": "Saint-Leger",
+    "latitude": 44,
+    "longitude": 6.833333
+  },
+  {
+    "name": "Saint-Martin-d'Entraunes",
+    "latitude": 44.133333,
+    "longitude": 6.766667
+  },
+  {
+    "name": "Saint-Martin-du-Var",
+    "latitude": 43.816667,
+    "longitude": 7.2
+  },
+  {
+    "name": "Saint-Martin-Vesubie",
+    "latitude": 44.066667,
+    "longitude": 7.25
+  },
+  {
+    "name": "Saint-Sauveur-sur-Tinee",
+    "latitude": 44.083333,
+    "longitude": 7.1
+  },
+  {
+    "name": "Sauze",
+    "latitude": 44.083333,
+    "longitude": 6.833333
+  },
+  {
+    "name": "Sigale",
+    "latitude": 43.866667,
+    "longitude": 6.95
+  },
+  {
+    "name": "Thiery",
+    "latitude": 43.983333,
+    "longitude": 7.033333
+  },
+  {
+    "name": "Toudon",
+    "latitude": 43.9,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Touet-sur-Var",
+    "latitude": 43.95,
+    "longitude": 7
+  },
+  {
+    "name": "Tourette-du-Chateau",
+    "latitude": 43.8833,
+    "longitude": 7.1333
+  },
+  {
+    "name": "Tournefort",
+    "latitude": 43.95,
+    "longitude": 7.15
+  },
+  {
+    "name": "Tourrette-Levens",
+    "latitude": 43.783333,
+    "longitude": 7.266667
+  },
+  {
+    "name": "Utelle",
+    "latitude": 43.916667,
+    "longitude": 7.25
+  },
+  {
+    "name": "Valdeblore",
+    "latitude": 44.0712,
+    "longitude": 7.172
+  },
+  {
+    "name": "Venanson",
+    "latitude": 44.05,
+    "longitude": 7.25
+  },
+  {
+    "name": "Villars-sur-Var",
+    "latitude": 43.933333,
+    "longitude": 7.1
+  },
+  {
+    "name": "Villeneuve-d'Entraunes",
+    "latitude": 44.1167,
+    "longitude": 6.8
+  },
+  {
+    "name": "Bezaudun-les-Alpes",
+    "latitude": 43.8,
+    "longitude": 7.1
+  },
+  {
+    "name": "Bouyon",
+    "latitude": 43.833333,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Cagnes-sur-Mer",
+    "latitude": 43.666667,
+    "longitude": 7.15
+  },
+  {
+    "name": "Carros",
+    "latitude": 43.8,
+    "longitude": 7.183333
+  },
+  {
+    "name": "Cipieres",
+    "latitude": 43.783333,
+    "longitude": 6.95
+  },
+  {
+    "name": "Consegudes",
+    "latitude": 43.85,
+    "longitude": 7.05
+  },
+  {
+    "name": "Coursegoules",
+    "latitude": 43.8,
+    "longitude": 7.033333
+  },
+  {
+    "name": "Gattieres",
+    "latitude": 43.766667,
+    "longitude": 7.183333
+  },
+  {
+    "name": "Greolieres",
+    "latitude": 43.8,
+    "longitude": 6.95
+  },
+  {
+    "name": "La Colle-sur-Loup",
+    "latitude": 43.683333,
+    "longitude": 7.1
+  },
+  {
+    "name": "La Gaude",
+    "latitude": 43.716667,
+    "longitude": 7.15
+  },
+  {
+    "name": "Le Broc",
+    "latitude": 43.816667,
+    "longitude": 7.166667
+  },
+  {
+    "name": "Les Ferres",
+    "latitude": 43.85,
+    "longitude": 7.1
+  },
+  {
+    "name": "Roquesteron-Grasse",
+    "latitude": 43.866667,
+    "longitude": 7
+  },
+  {
+    "name": "Saint-Jeannet",
+    "latitude": 43.75,
+    "longitude": 7.15
+  },
+  {
+    "name": "Saint-Laurent-du-Var",
+    "latitude": 43.666667,
+    "longitude": 7.183333
+  },
+  {
+    "name": "Saint-Paul",
+    "latitude": 43.7,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Vence",
+    "latitude": 43.716667,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Villeneuve-Loubet",
+    "latitude": 43.65,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Antibes",
+    "latitude": 43.583333,
+    "longitude": 7.116667
+  },
+  {
+    "name": "Biot",
+    "latitude": 43.633333,
+    "longitude": 7.1
+  },
+  {
+    "name": "Caussols",
+    "latitude": 43.7418,
+    "longitude": 6.9002
+  },
+  {
+    "name": "Chateauneuf-Grasse",
+    "latitude": 43.6667,
+    "longitude": 6.9833
+  },
+  {
+    "name": "Courmes",
+    "latitude": 43.75,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Gourdon",
+    "latitude": 43.716667,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Le Bar-sur-Loup",
+    "latitude": 43.7,
+    "longitude": 6.9833
+  },
+  {
+    "name": "Le Rouret",
+    "latitude": 43.683333,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Opio",
+    "latitude": 43.666667,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Roquefort-les-Pins",
+    "latitude": 43.6727,
+    "longitude": 7.0565
+  },
+  {
+    "name": "Tourrettes-sur-Loup",
+    "latitude": 43.716667,
+    "longitude": 7.05
+  },
+  {
+    "name": "Valbonne",
+    "latitude": 43.633333,
+    "longitude": 7
+  },
+  {
+    "name": "Vallauris",
+    "latitude": 43.583333,
+    "longitude": 7.05
+  },
+  {
+    "name": "Cannes",
+    "latitude": 43.55,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "latitude": 43.55,
+    "longitude": 6.933333
+  },
+  {
+    "name": "Theoule-sur-Mer",
+    "latitude": 43.5,
+    "longitude": 6.933333
+  },
+  {
+    "name": "Aiglun",
+    "latitude": 43.85,
+    "longitude": 6.916667
+  },
+  {
+    "name": "Amirat",
+    "latitude": 43.9,
+    "longitude": 6.816667
+  },
+  {
+    "name": "Andon",
+    "latitude": 43.766667,
+    "longitude": 6.783333
+  },
+  {
+    "name": "Auribeau-sur-Siagne",
+    "latitude": 43.6,
+    "longitude": 6.916667
+  },
+  {
+    "name": "Brianeonnet",
+    "latitude": 43.866667,
+    "longitude": 6.766667
+  },
+  {
+    "name": "Cabris",
+    "latitude": 43.666667,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Caille",
+    "latitude": 43.766667,
+    "longitude": 6.733333
+  },
+  {
+    "name": "Collongues",
+    "latitude": 43.883333,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Escragnolles",
+    "latitude": 43.733333,
+    "longitude": 6.783333
+  },
+  {
+    "name": "Gars",
+    "latitude": 43.866667,
+    "longitude": 6.8
+  },
+  {
+    "name": "Grasse",
+    "latitude": 43.666667,
+    "longitude": 6.916667
+  },
+  {
+    "name": "La Roquette-sur-Siagne",
+    "latitude": 43.6,
+    "longitude": 6.95
+  },
+  {
+    "name": "Le Cannet",
+    "latitude": 43.566667,
+    "longitude": 7.016667
+  },
+  {
+    "name": "Le Mas",
+    "latitude": 43.85,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Les Mujouls",
+    "latitude": 43.883333,
+    "longitude": 6.85
+  },
+  {
+    "name": "Le Tignet",
+    "latitude": 43.65,
+    "longitude": 6.85
+  },
+  {
+    "name": "Mouans-Sartoux",
+    "latitude": 43.616667,
+    "longitude": 6.966667
+  },
+  {
+    "name": "Mougins",
+    "latitude": 43.6,
+    "longitude": 7
+  },
+  {
+    "name": "Pegomas",
+    "latitude": 43.6,
+    "longitude": 6.933333
+  },
+  {
+    "name": "Peymeinade",
+    "latitude": 43.633333,
+    "longitude": 6.883333
+  },
+  {
+    "name": "Saint-Auban",
+    "latitude": 43.85,
+    "longitude": 6.7333
+  },
+  {
+    "name": "Saint-Cezaire-sur-Siagne",
+    "latitude": 43.65,
+    "longitude": 6.8
+  },
+  {
+    "name": "Saint-Vallier-de-Thiey",
+    "latitude": 43.7,
+    "longitude": 6.85
+  },
+  {
+    "name": "Sallagriffon",
+    "latitude": 43.8833,
+    "longitude": 6.9
+  },
+  {
+    "name": "Seranon",
+    "latitude": 43.766667,
+    "longitude": 6.7
+  },
+  {
+    "name": "Speracedes",
+    "latitude": 43.65,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Valderoure",
+    "latitude": 43.783333,
+    "longitude": 6.716667
+  }
+]

@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Isen.DotNet.Web.Models;
 using Isen.DotNet.Library.Repositories.Interfaces;
-using Isen.DotNet.Library.Repositories.InMemory;
 using Isen.DotNet.Library.Models.Implementation;
 using Microsoft.Extensions.Logging;
 
 namespace Isen.DotNet.Web.Controllers
 {
-    public class PersonController : BaseController<Person>
+    public class CategoryController : BaseController<Category>
     {
-        public PersonController(
-            ILogger<PersonController> logger,
-            IPersonRepository repository) 
+        public CategoryController(
+            ILogger<CategoryController> logger,
+            ICategoryRepository repository) 
             : base(logger, repository)
         {
         }

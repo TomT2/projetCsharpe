@@ -1,0 +1,99 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces;
+@{
+    ViewData["Title"] = "Point d'intérêt (détail)";
+}
+@inject ICityRepository _cityRepository;
+@inject ICategoryRepository _categoryRepository;
+@model InterestPoint;
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Détail d'un point d'intérêt <small>/interestpoint/detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form" asp-action="Detail">
+
+            <input type="hidden" 
+                value="@Model?.Id" asp-for="Id" />
+            <div>
+                <label for="Name" class="control-label">Nom du point d'intérêt :</label>
+                <input type="text" class="form-control"
+                    id="Name" placeholder="Nom du point d'intérêt"
+                    value="@Model?.Name" asp-for="Name" />
+            </div>
+            <br />
+            <div>
+                <label for="Description" class="control-label">Description du point d'intérêt :</label>
+                <input type="text" class="form-control"
+                    id="Description" placeholder="Description du point d'intérêt"
+                    value="@Model?.Description" asp-for="Description" />
+            </div>
+            <br />
+            <div>
+                <label for="CategoryId">
+                    Catégorie : 
+                </label>
+               @Html.DropDownListFor(
+                    p => p.CategoryId,
+                    new SelectList(
+                        _categoryRepository.GetAll(), 
+                        "Id", 
+                        "Name"),
+                    "<Sélectionnez une catégorie>",
+                    new { @class = "form-control" })
+            </div>
+            <br />
+             <input type="hidden" 
+                value="@Model?.Address?.Id" asp-for="Address.Id" />
+            <div>
+                <label for="Address.Name" class="control-label">Nom de l'adresse :</label>
+                <input type="text" class="form-control"
+                    id="Address.Name" placeholder="Nom de l'adresse"
+                    value="@Model?.Address?.Name" asp-for="Address.Name" />
+            </div>
+            <br />
+            <div>
+                <label for="Address.Latitude" class="control-label">Latitude :</label>
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Latitude" placeholder="ex: 45,32"
+                    value="@Model?.Address?.Latitude" asp-for="Address.Latitude" />
+            </div>
+            <br/>
+            <div>
+                <label for="Address.Longitude" class="control-label">Longitude :</label>
+                <input type="number" step="0.000000001" class="form-control"
+                    id="Address.Longitude" placeholder="ex: 3,23"
+                    value="@Model?.Address?.Longitude" asp-for="Address.Longitude" />
+            </div>
+            <br />
+            <div>
+                <label for="Address.CityId">
+                    Ville : 
+                </label>
+               @Html.DropDownListFor(
+                    p => p.Address.CityId,
+                    new SelectList(
+                        _cityRepository.GetAll(), 
+                        "Id", 
+                        "Name"),
+                    "<Sélectionnez une ville>",
+                    new { @class = "form-control" })
+            </div>
+            <br />
+            <div>
+                <label for="Address.PostalCode" class="control-label">Code Postal :</label>
+                <input type="number" class="form-control"
+                    id="Address.PostalCode" placeholder="Code Postal de l'adresse"
+                    value="@Model?.Address?.PostalCode" asp-for="Address.PostalCode" />
+            </div>
+            <br />
+            <input type="submit" class="btn btn-primary"
+                value="Valider" />
+            <a class="btn btn-default" 
+                asp-controller="InterestPoint" asp-action="Index">Annuler</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hébergement",
+        "description": "Evitez de dormir à la pleine étoile"
+    },
+    {
+        "name": "Restaurant",
+        "description": "Pour les goinfres"
+    },
+    {
+        "name": "Shopping",
+        "description": "Sortez votre appareil photo !"
+    },
+    {
+        "name": "Loisir",
+        "description": "Evadez-vous"
+    },
+    {
+        "name": "Parc",
+        "description": "Pour profiter de la nature"
+    }
+]
