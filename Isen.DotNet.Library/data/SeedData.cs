@@ -15,7 +15,6 @@ namespace Isen.DotNet.Library.Data
         private readonly ILogger<SeedData> _logger;
         private readonly ICityRepository _cityRepository;
         private readonly IInterestPointRepository _interestPointRepository;
-        private readonly IAddressRepository _addressRepository;
         private readonly ICategoryRepository _categoryRepository;
         private readonly IDepartmentRepository _departmentRepository;
 
@@ -27,7 +26,6 @@ namespace Isen.DotNet.Library.Data
             ILogger<SeedData> logger,
             ICityRepository cityRepository,
             IInterestPointRepository interestPointRepository,
-            IAddressRepository addressRepository,
             ICategoryRepository categoryRepository,
             IDepartmentRepository departmentRepository)
         {
@@ -35,26 +33,8 @@ namespace Isen.DotNet.Library.Data
             _logger = logger;
             _cityRepository = cityRepository;
             _interestPointRepository = interestPointRepository;
-            //_addressRepository = addressRepository;
             _categoryRepository = categoryRepository;
             _departmentRepository = departmentRepository;
-        }
-
-        public void LoadJsonFile(){
-            string varjson = File.ReadAllText("../Isen.DotNet.Library/data/json/communes/test.json");
-            //List<City> items = JsonConvert.DeserializeObject<List<Item>>(varjson);;
-            List<City> items = JsonConvert.DeserializeObject<List<City>>(varjson);
-            foreach(City city in items){
-                Console.WriteLine(city.Name);
-                Console.WriteLine(city.Id);
-                Console.WriteLine(city.Latitude);
-                Console.WriteLine(city.Longitude);
-            }
-        
-            _cityRepository.UpdateRange(items);
-            _cityRepository.Save();
- 
-            _logger.LogWarning("Added cities");    
         }
 
         public void DropDatabase()
